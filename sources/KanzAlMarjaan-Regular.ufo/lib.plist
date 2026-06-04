@@ -103,22 +103,11 @@
       <string>braceright</string>
       <string>asciitilde</string>
       <string>uni00A0</string>
-      <string>brokenbar</string>
-      <string>section</string>
-      <string>dieresis</string>
       <string>copyright</string>
       <string>guillemotleft</string>
-      <string>uni00AD</string>
       <string>registered</string>
-      <string>uni00B2</string>
       <string>uni00B3</string>
-      <string>acute</string>
-      <string>paragraph</string>
       <string>guillemotright</string>
-      <string>onequarter</string>
-      <string>onehalf</string>
-      <string>threequarters</string>
-      <string>Eth</string>
       <string>multiply</string>
       <string>divide</string>
       <string>tilde</string>
@@ -287,7 +276,6 @@
       <string>minus</string>
       <string>uni2215</string>
       <string>uni25CC</string>
-      <string>uni25FC</string>
       <string>uniFB51</string>
       <string>uniFB57</string>
       <string>uniFB58</string>
@@ -653,38 +641,10 @@
       <string>uniFEFA</string>
       <string>uniFEFB</string>
       <string>uniFEFC</string>
-      <string>uniFFFC</string>
       <string>_1</string>
       <string>NULL</string>
       <string>space.001</string>
-      <string>at.cap</string>
-      <string>hyphen.cap</string>
-      <string>guilsinglleft.cap</string>
-      <string>guilsinglright.cap</string>
-      <string>guillemotleft.cap</string>
-      <string>guillemotright.cap</string>
-      <string>endash.cap</string>
-      <string>emdash.cap</string>
       <string>periodcentred</string>
-      <string>periodcentred.cap</string>
-      <string>parenleft.cap</string>
-      <string>parenright.cap</string>
-      <string>bracketleft.cap</string>
-      <string>bracketright.cap</string>
-      <string>braceleft.cap</string>
-      <string>braceright.cap</string>
-      <string>uni0326.alt</string>
-      <string>grave.cap</string>
-      <string>acute.cap</string>
-      <string>circumflex.cap</string>
-      <string>caron.cap</string>
-      <string>tilde.cap</string>
-      <string>dieresis.cap</string>
-      <string>macron.cap</string>
-      <string>breve.cap</string>
-      <string>ring.cap</string>
-      <string>hungarumlaut.cap</string>
-      <string>dotaccent.cap</string>
       <string>uni0627.short</string>
       <string>uni0626.tall.init</string>
       <string>uni0626.short.init</string>
