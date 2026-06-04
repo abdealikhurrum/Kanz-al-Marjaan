@@ -2471,6 +2471,3213 @@ lookup mark_arab_1 {
   pos base uni0686.low.medi
       <anchor 262 778> mark @t.uni064B
       <anchor 343 -742> mark @b.uni064D_1;
+  pos base uni060C
+      <anchor 295 800> mark @t.uni064B
+      <anchor 295 -250> mark @b.uni064D_1;
+  pos base uni061B
+      <anchor 853 1194> mark @t.uni064B
+      <anchor 853 -724> mark @b.uni064D_1;
+  pos base uni061F
+      <anchor 438 1436> mark @t.uni064B
+      <anchor 438 -237> mark @b.uni064D_1;
+  pos base uni0660
+      <anchor 393 754> mark @t.uni064B
+      <anchor 393 -176> mark @b.uni064D_1;
+  pos base uni0661
+      <anchor 156 944> mark @t.uni064B
+      <anchor 156 -249> mark @b.uni064D_1;
+  pos base uni0662
+      <anchor 255 922> mark @t.uni064B
+      <anchor 255 -249> mark @b.uni064D_1;
+  pos base uni0663
+      <anchor 387 956> mark @t.uni064B
+      <anchor 387 -249> mark @b.uni064D_1;
+  pos base uni0664
+      <anchor 347 1028> mark @t.uni064B
+      <anchor 347 -249> mark @b.uni064D_1;
+  pos base uni0665
+      <anchor 313 910> mark @t.uni064B
+      <anchor 313 -249> mark @b.uni064D_1;
+  pos base uni0666
+      <anchor 284 928> mark @t.uni064B
+      <anchor 284 -242> mark @b.uni064D_1;
+  pos base uni0667
+      <anchor 373 884> mark @t.uni064B
+      <anchor 373 -249> mark @b.uni064D_1;
+  pos base uni0668
+      <anchor 376 1018> mark @t.uni064B
+      <anchor 376 -223> mark @b.uni064D_1;
+  pos base uni0669
+      <anchor 266 1082> mark @t.uni064B
+      <anchor 266 -246> mark @b.uni064D_1;
+  pos base uni066A
+      <anchor 362 1060> mark @t.uni064B
+      <anchor 362 -346> mark @b.uni064D_1;
+  pos base uni066B
+      <anchor 177 649> mark @t.uni064B
+      <anchor 177 -291> mark @b.uni064D_1;
+  pos base uni066C
+      <anchor 177 649> mark @t.uni064B
+      <anchor 177 -291> mark @b.uni064D_1;
+  pos base uni066D
+      <anchor 358 1008> mark @t.uni064B
+      <anchor 358 -83> mark @b.uni064D_1;
+  pos base uni06D4
+      <anchor 132 631> mark @t.uni064B
+      <anchor 132 -249> mark @b.uni064D_1;
+  pos base uni06DD
+      <anchor 1177 1364> mark @t.uni064B
+      <anchor 1177 -924> mark @b.uni064D_1;
+  pos base uni06DE
+      <anchor 585 1050> mark @t.uni064B
+      <anchor 585 -249> mark @b.uni064D_1;
+  pos base uni06E5
+      <anchor 109 737> mark @t.uni064B
+      <anchor 109 -156> mark @b.uni064D_1;
+  pos base uni06E6
+      <anchor 125 743> mark @t.uni064B
+      <anchor 125 -143> mark @b.uni064D_1;
+  pos base uni06E9
+      <anchor 348 982> mark @t.uni064B
+      <anchor 348 -249> mark @b.uni064D_1;
+  pos base uni06F0
+      <anchor 195 743> mark @t.uni064B
+      <anchor 195 -187> mark @b.uni064D_1;
+  pos base uni06F1
+      <anchor 142 954> mark @t.uni064B
+      <anchor 142 -249> mark @b.uni064D_1;
+  pos base uni06F2
+      <anchor 241 920> mark @t.uni064B
+      <anchor 241 -249> mark @b.uni064D_1;
+  pos base uni06F3
+      <anchor 353 956> mark @t.uni064B
+      <anchor 353 -249> mark @b.uni064D_1;
+  pos base uni06F4
+      <anchor 321 1028> mark @t.uni064B
+      <anchor 321 -249> mark @b.uni064D_1;
+  pos base uni06F5
+      <anchor 313 910> mark @t.uni064B
+      <anchor 313 -249> mark @b.uni064D_1;
+  pos base uni06F6
+      <anchor 284 928> mark @t.uni064B
+      <anchor 284 -242> mark @b.uni064D_1;
+  pos base uni06F7
+      <anchor 373 884> mark @t.uni064B
+      <anchor 373 -249> mark @b.uni064D_1;
+  pos base uni06F8
+      <anchor 376 1018> mark @t.uni064B
+      <anchor 376 -223> mark @b.uni064D_1;
+  pos base uni06F9
+      <anchor 266 1082> mark @t.uni064B
+      <anchor 266 -246> mark @b.uni064D_1;
+  pos base uniFC00
+      <anchor 736 1900> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uniFC01
+      <anchor 736 1756> mark @t.uni064B
+      <anchor 736 -1256> mark @b.uni064D_1;
+  pos base uniFC02
+      <anchor 498 1434> mark @t.uni064B
+      <anchor 498 -290> mark @b.uni064D_1;
+  pos base uniFC03
+      <anchor 607 1640> mark @t.uni064B
+      <anchor 607 -388> mark @b.uni064D_1;
+  pos base uniFC04
+      <anchor 607 1584> mark @t.uni064B
+      <anchor 607 -764> mark @b.uni064D_1;
+  pos base uniFC05
+      <anchor 736 1256> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uniFC06
+      <anchor 736 1256> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uniFC07
+      <anchor 736 1394> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uniFC08
+      <anchor 498 776> mark @t.uni064B
+      <anchor 498 -432> mark @b.uni064D_1;
+  pos base uniFC09
+      <anchor 607 904> mark @t.uni064B
+      <anchor 607 -650> mark @b.uni064D_1;
+  pos base uniFC0A
+      <anchor 607 904> mark @t.uni064B
+      <anchor 607 -856> mark @b.uni064D_1;
+  pos base uniFC0B
+      <anchor 736 1780> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uniFC0C
+      <anchor 737 1724> mark @t.uni064B
+      <anchor 737 -1198> mark @b.uni064D_1;
+  pos base uniFC0D
+      <anchor 737 1648> mark @t.uni064B
+      <anchor 737 -1198> mark @b.uni064D_1;
+  pos base uniFC0E
+      <anchor 498 1276> mark @t.uni064B
+      <anchor 498 -290> mark @b.uni064D_1;
+  pos base uniFC0F
+      <anchor 607 1398> mark @t.uni064B
+      <anchor 607 -388> mark @b.uni064D_1;
+  pos base uniFC10
+      <anchor 607 1408> mark @t.uni064B
+      <anchor 607 -828> mark @b.uni064D_1;
+  pos base uniFC11
+      <anchor 737 2002> mark @t.uni064B
+      <anchor 737 -1068> mark @b.uni064D_1;
+  pos base uniFC12
+      <anchor 498 1498> mark @t.uni064B
+      <anchor 498 -290> mark @b.uni064D_1;
+  pos base uniFC13
+      <anchor 607 1498> mark @t.uni064B
+      <anchor 607 -388> mark @b.uni064D_1;
+  pos base uniFC14
+      <anchor 607 1518> mark @t.uni064B
+      <anchor 607 -836> mark @b.uni064D_1;
+  pos base uniFC15
+      <anchor 782 1180> mark @t.uni064B
+      <anchor 782 -1280> mark @b.uni064D_1;
+  pos base uniFC16
+      <anchor 720 848> mark @t.uni064B
+      <anchor 720 -402> mark @b.uni064D_1;
+  pos base uniFC17
+      <anchor 753 1174> mark @t.uni064B
+      <anchor 753 -1286> mark @b.uni064D_1;
+  pos base uniFC18
+      <anchor 720 856> mark @t.uni064B
+      <anchor 720 -258> mark @b.uni064D_1;
+  pos base uniFC19
+      <anchor 753 1576> mark @t.uni064B
+      <anchor 753 -1286> mark @b.uni064D_1;
+  pos base uniFC1A
+      <anchor 753 1576> mark @t.uni064B
+      <anchor 753 -1286> mark @b.uni064D_1;
+  pos base uniFC1B
+      <anchor 720 1406> mark @t.uni064B
+      <anchor 720 -258> mark @b.uni064D_1;
+  pos base uniFC1C
+      <anchor 779 1114> mark @t.uni064B
+      <anchor 779 -1182> mark @b.uni064D_1;
+  pos base uniFC1D
+      <anchor 779 1114> mark @t.uni064B
+      <anchor 779 -1182> mark @b.uni064D_1;
+  pos base uniFC1E
+      <anchor 779 1302> mark @t.uni064B
+      <anchor 779 -1208> mark @b.uni064D_1;
+  pos base uniFC1F
+      <anchor 781 770> mark @t.uni064B
+      <anchor 781 -252> mark @b.uni064D_1;
+  pos base uniFC20
+      <anchor 844 1378> mark @t.uni064B
+      <anchor 844 -1154> mark @b.uni064D_1;
+  pos base uniFC21
+      <anchor 919 785> mark @t.uni064B
+      <anchor 919 -246> mark @b.uni064D_1;
+  pos base uniFC22
+      <anchor 844 1650> mark @t.uni064B
+      <anchor 844 -1264> mark @b.uni064D_1;
+  pos base uniFC23
+      <anchor 844 1578> mark @t.uni064B
+      <anchor 844 -1284> mark @b.uni064D_1;
+  pos base uniFC24
+      <anchor 844 1568> mark @t.uni064B
+      <anchor 844 -1302> mark @b.uni064D_1;
+  pos base uniFC25
+      <anchor 919 1386> mark @t.uni064B
+      <anchor 919 -246> mark @b.uni064D_1;
+  pos base uniFC29
+      <anchor 791 1312> mark @t.uni064B
+      <anchor 791 -1306> mark @b.uni064D_1;
+  pos base uniFC2A
+      <anchor 605 932> mark @t.uni064B
+      <anchor 605 -315> mark @b.uni064D_1;
+  pos base uniFC2B
+      <anchor 784 1696> mark @t.uni064B
+      <anchor 784 -1250> mark @b.uni064D_1;
+  pos base uniFC2C
+      <anchor 605 1500> mark @t.uni064B
+      <anchor 605 -315> mark @b.uni064D_1;
+  pos base uniFC2D
+      <anchor 741 1942> mark @t.uni064B
+      <anchor 741 -1126> mark @b.uni064D_1;
+  pos base uniFC2E
+      <anchor 741 1882> mark @t.uni064B
+      <anchor 741 -1126> mark @b.uni064D_1;
+  pos base uniFC2F
+      <anchor 741 1906> mark @t.uni064B
+      <anchor 741 -1126> mark @b.uni064D_1;
+  pos base uniFC30
+      <anchor 460 1602> mark @t.uni064B
+      <anchor 460 -254> mark @b.uni064D_1;
+  pos base uniFC31
+      <anchor 640 1462> mark @t.uni064B
+      <anchor 640 -508> mark @b.uni064D_1;
+  pos base uniFC32
+      <anchor 640 1470> mark @t.uni064B
+      <anchor 640 -924> mark @b.uni064D_1;
+  pos base uniFC33
+      <anchor 741 1900> mark @t.uni064B
+      <anchor 741 -1126> mark @b.uni064D_1;
+  pos base uniFC34
+      <anchor 460 1656> mark @t.uni064B
+      <anchor 460 -254> mark @b.uni064D_1;
+  pos base uniFC35
+      <anchor 640 1448> mark @t.uni064B
+      <anchor 640 -508> mark @b.uni064D_1;
+  pos base uniFC36
+      <anchor 640 1432> mark @t.uni064B
+      <anchor 640 -908> mark @b.uni064D_1;
+  pos base uniFC37
+      <anchor 633 1444> mark @t.uni064B
+      <anchor 633 -252> mark @b.uni064D_1;
+  pos base uniFC3B
+      <anchor 985 1524> mark @t.uni064B
+      <anchor 985 -560> mark @b.uni064D_1;
+  pos base uniFC3C
+      <anchor 695 1812> mark @t.uni064B
+      <anchor 695 -248> mark @b.uni064D_1;
+  pos base uniFC3D
+      <anchor 934 1530> mark @t.uni064B
+      <anchor 934 -460> mark @b.uni064D_1;
+  pos base uniFC3E
+      <anchor 934 1530> mark @t.uni064B
+      <anchor 934 -876> mark @b.uni064D_1;
+  pos base uniFC3F
+      <anchor 671 1716> mark @t.uni064B
+      <anchor 671 -1066> mark @b.uni064D_1;
+  pos base uniFC40
+      <anchor 671 1554> mark @t.uni064B
+      <anchor 671 -1228> mark @b.uni064D_1;
+  pos base uniFC41
+      <anchor 671 1554> mark @t.uni064B
+      <anchor 671 -1228> mark @b.uni064D_1;
+  pos base uniFC42
+      <anchor 411 1480> mark @t.uni064B
+      <anchor 411 -281> mark @b.uni064D_1;
+  pos base uniFC43
+      <anchor 624 1416> mark @t.uni064B
+      <anchor 624 -412> mark @b.uni064D_1;
+  pos base uniFC44
+      <anchor 624 1416> mark @t.uni064B
+      <anchor 624 -776> mark @b.uni064D_1;
+  pos base uniFC48
+      <anchor 563 860> mark @t.uni064B
+      <anchor 563 -243> mark @b.uni064D_1;
+  pos base uniFC49
+      <anchor 661 782> mark @t.uni064B
+      <anchor 661 -402> mark @b.uni064D_1;
+  pos base uniFC4A
+      <anchor 661 782> mark @t.uni064B
+      <anchor 661 -802> mark @b.uni064D_1;
+  pos base uniFC4B
+      <anchor 736 1738> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uniFC4C
+      <anchor 736 1692> mark @t.uni064B
+      <anchor 736 -1180> mark @b.uni064D_1;
+  pos base uniFC4D
+      <anchor 736 1710> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uniFC4E
+      <anchor 498 1320> mark @t.uni064B
+      <anchor 498 -290> mark @b.uni064D_1;
+  pos base uniFC4F
+      <anchor 607 1462> mark @t.uni064B
+      <anchor 607 -388> mark @b.uni064D_1;
+  pos base uniFC50
+      <anchor 607 1424> mark @t.uni064B
+      <anchor 607 -808> mark @b.uni064D_1;
+  pos base uniFC51
+      <anchor 725 1520> mark @t.uni064B
+      <anchor 725 -1116> mark @b.uni064D_1;
+  pos base uniFC52
+      <anchor 601 1118> mark @t.uni064B
+      <anchor 601 -248> mark @b.uni064D_1;
+  pos base uniFC53
+      <anchor 953 1094> mark @t.uni064B
+      <anchor 953 -526> mark @b.uni064D_1;
+  pos base uniFC54
+      <anchor 953 1094> mark @t.uni064B
+      <anchor 953 -852> mark @b.uni064D_1;
+  pos base uniFC55
+      <anchor 736 1256> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uniFC56
+      <anchor 736 1256> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uniFC57
+      <anchor 736 1394> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uniFC58
+      <anchor 498 773> mark @t.uni064B
+      <anchor 498 -518> mark @b.uni064D_1;
+  pos base uniFC59
+      <anchor 607 904> mark @t.uni064B
+      <anchor 607 -756> mark @b.uni064D_1;
+  pos base uniFC5A
+      <anchor 607 904> mark @t.uni064B
+      <anchor 607 -888> mark @b.uni064D_1;
+  pos base uniFC64
+      <anchor 385 1286> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uniFC65
+      <anchor 385 1294> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uniFC66
+      <anchor 540 1448> mark @t.uni064B
+      <anchor 540 -272> mark @b.uni064D_1;
+  pos base uniFC67
+      <anchor 862 1422> mark @t.uni064B
+      <anchor 862 -358> mark @b.uni064D_1;
+  pos base uniFC68
+      <anchor 801 1300> mark @t.uni064B
+      <anchor 801 -466> mark @b.uni064D_1;
+  pos base uniFC69
+      <anchor 801 1298> mark @t.uni064B
+      <anchor 801 -912> mark @b.uni064D_1;
+  pos base uniFC6A
+      <anchor 385 775> mark @t.uni064B
+      <anchor 385 -516> mark @b.uni064D_1;
+  pos base uniFC6B
+      <anchor 385 1092> mark @t.uni064B
+      <anchor 385 -548> mark @b.uni064D_1;
+  pos base uniFC6C
+      <anchor 540 780> mark @t.uni064B
+      <anchor 540 -618> mark @b.uni064D_1;
+  pos base uniFC6D
+      <anchor 862 986> mark @t.uni064B
+      <anchor 862 -614> mark @b.uni064D_1;
+  pos base uniFC6E
+      <anchor 801 728> mark @t.uni064B
+      <anchor 801 -690> mark @b.uni064D_1;
+  pos base uniFC6F
+      <anchor 801 728> mark @t.uni064B
+      <anchor 801 -932> mark @b.uni064D_1;
+  pos base uniFC70
+      <anchor 385 1108> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uniFC71
+      <anchor 385 1182> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uniFC72
+      <anchor 540 1308> mark @t.uni064B
+      <anchor 540 -272> mark @b.uni064D_1;
+  pos base uniFC73
+      <anchor 862 1256> mark @t.uni064B
+      <anchor 862 -358> mark @b.uni064D_1;
+  pos base uniFC74
+      <anchor 801 1174> mark @t.uni064B
+      <anchor 801 -466> mark @b.uni064D_1;
+  pos base uniFC75
+      <anchor 801 1094> mark @t.uni064B
+      <anchor 801 -900> mark @b.uni064D_1;
+  pos base uniFC76
+      <anchor 385 1264> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uniFC77
+      <anchor 385 1384> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uniFC78
+      <anchor 540 1382> mark @t.uni064B
+      <anchor 540 -272> mark @b.uni064D_1;
+  pos base uniFC79
+      <anchor 862 1412> mark @t.uni064B
+      <anchor 862 -358> mark @b.uni064D_1;
+  pos base uniFC7A
+      <anchor 801 1334> mark @t.uni064B
+      <anchor 801 -466> mark @b.uni064D_1;
+  pos base uniFC7B
+      <anchor 801 1326> mark @t.uni064B
+      <anchor 801 -842> mark @b.uni064D_1;
+  pos base uniFC80
+      <anchor 637 1418> mark @t.uni064B
+      <anchor 637 -258> mark @b.uni064D_1;
+  pos base uniFC81
+      <anchor 987 1542> mark @t.uni064B
+      <anchor 987 -538> mark @b.uni064D_1;
+  pos base uniFC82
+      <anchor 663 1636> mark @t.uni064B
+      <anchor 663 -300> mark @b.uni064D_1;
+  pos base uniFC83
+      <anchor 1076 1742> mark @t.uni064B
+      <anchor 1076 -600> mark @b.uni064D_1;
+  pos base uniFC84
+      <anchor 1076 1742> mark @t.uni064B
+      <anchor 1076 -976> mark @b.uni064D_1;
+  pos base uniFC85
+      <anchor 556 1562> mark @t.uni064B
+      <anchor 556 -290> mark @b.uni064D_1;
+  pos base uniFC86
+      <anchor 801 1578> mark @t.uni064B
+      <anchor 801 -740> mark @b.uni064D_1;
+  pos base uniFC87
+      <anchor 801 1578> mark @t.uni064B
+      <anchor 801 -1174> mark @b.uni064D_1;
+  pos base uniFC88
+      <anchor 278 1558> mark @t.uni064B
+      <anchor 278 -380> mark @b.uni064D_1;
+  pos base uniFC8A
+      <anchor 385 1046> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uniFC8B
+      <anchor 385 1300> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uniFC8C
+      <anchor 540 1292> mark @t.uni064B
+      <anchor 540 -272> mark @b.uni064D_1;
+  pos base uniFC8D
+      <anchor 862 1310> mark @t.uni064B
+      <anchor 862 -358> mark @b.uni064D_1;
+  pos base uniFC8E
+      <anchor 801 1156> mark @t.uni064B
+      <anchor 801 -466> mark @b.uni064D_1;
+  pos base uniFC8F
+      <anchor 801 1152> mark @t.uni064B
+      <anchor 801 -882> mark @b.uni064D_1;
+  pos base uniFC91
+      <anchor 385 775> mark @t.uni064B
+      <anchor 385 -578> mark @b.uni064D_1;
+  pos base uniFC92
+      <anchor 385 1044> mark @t.uni064B
+      <anchor 385 -604> mark @b.uni064D_1;
+  pos base uniFC93
+      <anchor 540 780> mark @t.uni064B
+      <anchor 540 -718> mark @b.uni064D_1;
+  pos base uniFC94
+      <anchor 862 1030> mark @t.uni064B
+      <anchor 862 -708> mark @b.uni064D_1;
+  pos base uniFC95
+      <anchor 801 728> mark @t.uni064B
+      <anchor 801 -758> mark @b.uni064D_1;
+  pos base uniFC96
+      <anchor 801 728> mark @t.uni064B
+      <anchor 801 -914> mark @b.uni064D_1;
+  pos base uniFC97
+      <anchor 479 1642> mark @t.uni064B
+      <anchor 479 -444> mark @b.uni064D_1;
+  pos base uniFC98
+      <anchor 479 1614> mark @t.uni064B
+      <anchor 479 -240> mark @b.uni064D_1;
+  pos base uniFC99
+      <anchor 479 1708> mark @t.uni064B
+      <anchor 479 -240> mark @b.uni064D_1;
+  pos base uniFC9A
+      <anchor 448 1538> mark @t.uni064B
+      <anchor 448 -236> mark @b.uni064D_1;
+  pos base uniFC9B
+      <anchor 522 1332> mark @t.uni064B
+      <anchor 522 -542> mark @b.uni064D_1;
+  pos base uniFC9C
+      <anchor 479 1004> mark @t.uni064B
+      <anchor 479 -492> mark @b.uni064D_1;
+  pos base uniFC9D
+      <anchor 479 1004> mark @t.uni064B
+      <anchor 479 -494> mark @b.uni064D_1;
+  pos base uniFC9E
+      <anchor 479 1210> mark @t.uni064B
+      <anchor 479 -378> mark @b.uni064D_1;
+  pos base uniFC9F
+      <anchor 446 894> mark @t.uni064B
+      <anchor 446 -424> mark @b.uni064D_1;
+  pos base uniFCA0
+      <anchor 522 744> mark @t.uni064B
+      <anchor 522 -724> mark @b.uni064D_1;
+  pos base uniFCA1
+      <anchor 479 1422> mark @t.uni064B
+      <anchor 479 -512> mark @b.uni064D_1;
+  pos base uniFCA2
+      <anchor 479 1466> mark @t.uni064B
+      <anchor 479 -240> mark @b.uni064D_1;
+  pos base uniFCA3
+      <anchor 479 1524> mark @t.uni064B
+      <anchor 479 -240> mark @b.uni064D_1;
+  pos base uniFCA4
+      <anchor 462 1450> mark @t.uni064B
+      <anchor 462 -236> mark @b.uni064D_1;
+  pos base uniFCA5
+      <anchor 536 1160> mark @t.uni064B
+      <anchor 536 -542> mark @b.uni064D_1;
+  pos base uniFCA6
+      <anchor 475 1574> mark @t.uni064B
+      <anchor 475 -236> mark @b.uni064D_1;
+  pos base uniFCA7
+      <anchor 644 1134> mark @t.uni064B
+      <anchor 644 -330> mark @b.uni064D_1;
+  pos base uniFCA8
+      <anchor 589 810> mark @t.uni064B
+      <anchor 589 -426> mark @b.uni064D_1;
+  pos base uniFCA9
+      <anchor 644 1134> mark @t.uni064B
+      <anchor 644 -512> mark @b.uni064D_1;
+  pos base uniFCAA
+      <anchor 589 810> mark @t.uni064B
+      <anchor 589 -253> mark @b.uni064D_1;
+  pos base uniFCAB
+      <anchor 644 1652> mark @t.uni064B
+      <anchor 644 -494> mark @b.uni064D_1;
+  pos base uniFCAC
+      <anchor 589 1358> mark @t.uni064B
+      <anchor 589 -253> mark @b.uni064D_1;
+  pos base uniFCAD
+      <anchor 646 1048> mark @t.uni064B
+      <anchor 646 -532> mark @b.uni064D_1;
+  pos base uniFCAE
+      <anchor 646 1048> mark @t.uni064B
+      <anchor 646 -240> mark @b.uni064D_1;
+  pos base uniFCAF
+      <anchor 646 1248> mark @t.uni064B
+      <anchor 646 -240> mark @b.uni064D_1;
+  pos base uniFCB0
+      <anchor 623 811> mark @t.uni064B
+      <anchor 623 -248> mark @b.uni064D_1;
+  pos base uniFCB1
+      <anchor 786 1294> mark @t.uni064B
+      <anchor 786 -228> mark @b.uni064D_1;
+  pos base uniFCB2
+      <anchor 786 1294> mark @t.uni064B
+      <anchor 786 -228> mark @b.uni064D_1;
+  pos base uniFCB3
+      <anchor 825 1010> mark @t.uni064B
+      <anchor 825 -246> mark @b.uni064D_1;
+  pos base uniFCB4
+      <anchor 786 1716> mark @t.uni064B
+      <anchor 786 -492> mark @b.uni064D_1;
+  pos base uniFCB5
+      <anchor 786 1722> mark @t.uni064B
+      <anchor 786 -228> mark @b.uni064D_1;
+  pos base uniFCB6
+      <anchor 786 1750> mark @t.uni064B
+      <anchor 786 -228> mark @b.uni064D_1;
+  pos base uniFCB7
+      <anchor 825 1438> mark @t.uni064B
+      <anchor 825 -246> mark @b.uni064D_1;
+  pos base uniFCBA
+      <anchor 590 1328> mark @t.uni064B
+      <anchor 590 -536> mark @b.uni064D_1;
+  pos base uniFCBB
+      <anchor 539 1134> mark @t.uni064B
+      <anchor 539 -253> mark @b.uni064D_1;
+  pos base uniFCBC
+      <anchor 590 1798> mark @t.uni064B
+      <anchor 590 -536> mark @b.uni064D_1;
+  pos base uniFCBD
+      <anchor 539 1654> mark @t.uni064B
+      <anchor 539 -253> mark @b.uni064D_1;
+  pos base uniFCBE
+      <anchor 583 1786> mark @t.uni064B
+      <anchor 583 -500> mark @b.uni064D_1;
+  pos base uniFCBF
+      <anchor 583 1752> mark @t.uni064B
+      <anchor 583 -238> mark @b.uni064D_1;
+  pos base uniFCC0
+      <anchor 540 1848> mark @t.uni064B
+      <anchor 540 -244> mark @b.uni064D_1;
+  pos base uniFCC1
+      <anchor 351 1666> mark @t.uni064B
+      <anchor 351 -254> mark @b.uni064D_1;
+  pos base uniFCC2
+      <anchor 583 1780> mark @t.uni064B
+      <anchor 583 -238> mark @b.uni064D_1;
+  pos base uniFCC3
+      <anchor 351 1586> mark @t.uni064B
+      <anchor 351 -255> mark @b.uni064D_1;
+  pos base uniFCC7
+      <anchor 651 1570> mark @t.uni064B
+      <anchor 651 -240> mark @b.uni064D_1;
+  pos base uniFCC8
+      <anchor 499 1678> mark @t.uni064B
+      <anchor 499 -255> mark @b.uni064D_1;
+  pos base uniFCC9
+      <anchor 574 1570> mark @t.uni064B
+      <anchor 574 -472> mark @b.uni064D_1;
+  pos base uniFCCA
+      <anchor 574 1570> mark @t.uni064B
+      <anchor 574 -240> mark @b.uni064D_1;
+  pos base uniFCCB
+      <anchor 574 1570> mark @t.uni064B
+      <anchor 574 -240> mark @b.uni064D_1;
+  pos base uniFCCC
+      <anchor 302 1604> mark @t.uni064B
+      <anchor 302 -255> mark @b.uni064D_1;
+  pos base uniFCCD
+      <anchor 474 1584> mark @t.uni064B
+      <anchor 474 -252> mark @b.uni064D_1;
+  pos base uniFCCE
+      <anchor 554 1028> mark @t.uni064B
+      <anchor 554 -500> mark @b.uni064D_1;
+  pos base uniFCCF
+      <anchor 554 1028> mark @t.uni064B
+      <anchor 554 -237> mark @b.uni064D_1;
+  pos base uniFCD0
+      <anchor 554 1232> mark @t.uni064B
+      <anchor 554 -237> mark @b.uni064D_1;
+  pos base uniFCD1
+      <anchor 421 1034> mark @t.uni064B
+      <anchor 421 -240> mark @b.uni064D_1;
+  pos base uniFCD2
+      <anchor 479 1586> mark @t.uni064B
+      <anchor 479 -468> mark @b.uni064D_1;
+  pos base uniFCD3
+      <anchor 479 1462> mark @t.uni064B
+      <anchor 479 -240> mark @b.uni064D_1;
+  pos base uniFCD4
+      <anchor 479 1510> mark @t.uni064B
+      <anchor 479 -240> mark @b.uni064D_1;
+  pos base uniFCD5
+      <anchor 446 1444> mark @t.uni064B
+      <anchor 446 -236> mark @b.uni064D_1;
+  pos base uniFCD6
+      <anchor 522 1054> mark @t.uni064B
+      <anchor 522 -542> mark @b.uni064D_1;
+  pos base uniFCD7
+      <anchor 604 1510> mark @t.uni064B
+      <anchor 604 -498> mark @b.uni064D_1;
+  pos base uniFCD8
+      <anchor 562 1086> mark @t.uni064B
+      <anchor 562 -270> mark @b.uni064D_1;
+  pos base uniFCDA
+      <anchor 479 1004> mark @t.uni064B
+      <anchor 479 -646> mark @b.uni064D_1;
+  pos base uniFCDB
+      <anchor 479 1004> mark @t.uni064B
+      <anchor 479 -518> mark @b.uni064D_1;
+  pos base uniFCDC
+      <anchor 479 1112> mark @t.uni064B
+      <anchor 479 -504> mark @b.uni064D_1;
+  pos base uniFCDD
+      <anchor 465 902> mark @t.uni064B
+      <anchor 465 -498> mark @b.uni064D_1;
+  pos base uniFCDE
+      <anchor 524 744> mark @t.uni064B
+      <anchor 524 -850> mark @b.uni064D_1;
+  pos base uniFCE0
+      <anchor 525 1326> mark @t.uni064B
+      <anchor 525 -548> mark @b.uni064D_1;
+  pos base uniFCE2
+      <anchor 525 730> mark @t.uni064B
+      <anchor 525 -760> mark @b.uni064D_1;
+  pos base uniFCE4
+      <anchor 525 1156> mark @t.uni064B
+      <anchor 525 -548> mark @b.uni064D_1;
+  pos base uniFCE6
+      <anchor 525 1294> mark @t.uni064B
+      <anchor 525 -548> mark @b.uni064D_1;
+  pos base uniFCEB
+      <anchor 665 1588> mark @t.uni064B
+      <anchor 665 -258> mark @b.uni064D_1;
+  pos base uniFCEC
+      <anchor 511 1628> mark @t.uni064B
+      <anchor 511 -268> mark @b.uni064D_1;
+  pos base uniFCEF
+      <anchor 525 1106> mark @t.uni064B
+      <anchor 525 -548> mark @b.uni064D_1;
+  pos base uniFCF1
+      <anchor 532 730> mark @t.uni064B
+      <anchor 532 -870> mark @b.uni064D_1;
+  pos base uniFCFB
+      <anchor 915 713> mark @t.uni064B
+      <anchor 915 -688> mark @b.uni064D_1;
+  pos base uniFCFC
+      <anchor 915 713> mark @t.uni064B
+      <anchor 915 -1070> mark @b.uni064D_1;
+  pos base uniFCFD
+      <anchor 915 1156> mark @t.uni064B
+      <anchor 915 -688> mark @b.uni064D_1;
+  pos base uniFCFE
+      <anchor 915 1084> mark @t.uni064B
+      <anchor 915 -1040> mark @b.uni064D_1;
+  pos base uniFD05
+      <anchor 1062 760> mark @t.uni064B
+      <anchor 1062 -516> mark @b.uni064D_1;
+  pos base uniFD06
+      <anchor 1062 760> mark @t.uni064B
+      <anchor 1062 -938> mark @b.uni064D_1;
+  pos base uniFD07
+      <anchor 1062 1224> mark @t.uni064B
+      <anchor 1062 -516> mark @b.uni064D_1;
+  pos base uniFD08
+      <anchor 1062 1180> mark @t.uni064B
+      <anchor 1062 -914> mark @b.uni064D_1;
+  pos base uniFD09
+      <anchor 779 1688> mark @t.uni064B
+      <anchor 779 -1218> mark @b.uni064D_1;
+  pos base uniFD0A
+      <anchor 779 1746> mark @t.uni064B
+      <anchor 779 -1218> mark @b.uni064D_1;
+  pos base uniFD0B
+      <anchor 779 1688> mark @t.uni064B
+      <anchor 779 -1228> mark @b.uni064D_1;
+  pos base uniFD0C
+      <anchor 781 1264> mark @t.uni064B
+      <anchor 781 -252> mark @b.uni064D_1;
+  pos base uniFD0D
+      <anchor 632 1096> mark @t.uni064B
+      <anchor 632 -572> mark @b.uni064D_1;
+  pos base uniFD0E
+      <anchor 632 712> mark @t.uni064B
+      <anchor 632 -572> mark @b.uni064D_1;
+  pos base uniFD0F
+      <anchor 650 770> mark @t.uni064B
+      <anchor 650 -522> mark @b.uni064D_1;
+  pos base uniFD10
+      <anchor 650 1132> mark @t.uni064B
+      <anchor 650 -522> mark @b.uni064D_1;
+  pos base uniFD17
+      <anchor 1155 733> mark @t.uni064B
+      <anchor 1155 -664> mark @b.uni064D_1;
+  pos base uniFD18
+      <anchor 1155 733> mark @t.uni064B
+      <anchor 1155 -1098> mark @b.uni064D_1;
+  pos base uniFD19
+      <anchor 1155 1110> mark @t.uni064B
+      <anchor 1155 -664> mark @b.uni064D_1;
+  pos base uniFD1A
+      <anchor 1155 1110> mark @t.uni064B
+      <anchor 1155 -1068> mark @b.uni064D_1;
+  pos base uniFD21
+      <anchor 1088 770> mark @t.uni064B
+      <anchor 1088 -508> mark @b.uni064D_1;
+  pos base uniFD22
+      <anchor 1088 770> mark @t.uni064B
+      <anchor 1088 -958> mark @b.uni064D_1;
+  pos base uniFD23
+      <anchor 1088 1206> mark @t.uni064B
+      <anchor 1088 -508> mark @b.uni064D_1;
+  pos base uniFD24
+      <anchor 1088 1208> mark @t.uni064B
+      <anchor 1088 -910> mark @b.uni064D_1;
+  pos base uniFD29
+      <anchor 759 1084> mark @t.uni064B
+      <anchor 759 -570> mark @b.uni064D_1;
+  pos base uniFD2A
+      <anchor 759 722> mark @t.uni064B
+      <anchor 759 -570> mark @b.uni064D_1;
+  pos base uniFD2B
+      <anchor 763 772> mark @t.uni064B
+      <anchor 763 -504> mark @b.uni064D_1;
+  pos base uniFD2C
+      <anchor 763 1094> mark @t.uni064B
+      <anchor 763 -504> mark @b.uni064D_1;
+  pos base uniFD2D
+      <anchor 646 1664> mark @t.uni064B
+      <anchor 646 -506> mark @b.uni064D_1;
+  pos base uniFD2E
+      <anchor 646 1632> mark @t.uni064B
+      <anchor 646 -240> mark @b.uni064D_1;
+  pos base uniFD2F
+      <anchor 646 1628> mark @t.uni064B
+      <anchor 646 -240> mark @b.uni064D_1;
+  pos base uniFD30
+      <anchor 623 1396> mark @t.uni064B
+      <anchor 623 -248> mark @b.uni064D_1;
+  pos base uniFD3E
+      <anchor 334 984> mark @t.uni064B
+      <anchor 334 -646> mark @b.uni064D_1;
+  pos base uniFD3F
+      <anchor 381 988> mark @t.uni064B
+      <anchor 381 -648> mark @b.uni064D_1;
+  pos base uniFD86
+      <anchor 619 1676> mark @t.uni064B
+      <anchor 619 -270> mark @b.uni064D_1;
+  pos base uniFD88
+      <anchor 478 1550> mark @t.uni064B
+      <anchor 478 -244> mark @b.uni064D_1;
+  pos base uniFD8A
+      <anchor 695 1188> mark @t.uni064B
+      <anchor 695 -285> mark @b.uni064D_1;
+  pos base uniFD8D
+      <anchor 695 1188> mark @t.uni064B
+      <anchor 695 -428> mark @b.uni064D_1;
+  pos base uniFD8F
+      <anchor 695 1412> mark @t.uni064B
+      <anchor 695 -285> mark @b.uni064D_1;
+  pos base uniFDB5
+      <anchor 619 1676> mark @t.uni064B
+      <anchor 619 -270> mark @b.uni064D_1;
+  pos base uniFDBA
+      <anchor 619 1676> mark @t.uni064B
+      <anchor 619 -426> mark @b.uni064D_1;
+  pos base uniFDF2
+      <anchor 853 1622> mark @t.uni064B
+      <anchor 853 -257> mark @b.uni064D_1;
+  pos base uniFEEB
+      <anchor 416 858> mark @t.uni064B
+      <anchor 416 -252> mark @b.uni064D_1;
+  pos base uniFEF5
+      <anchor 425 1814> mark @t.uni064B
+      <anchor 425 -297> mark @b.uni064D_1;
+  pos base uniFEF6
+      <anchor 615 1844> mark @t.uni064B
+      <anchor 615 -278> mark @b.uni064D_1;
+  pos base uniFEF7
+      <anchor 422 2042> mark @t.uni064B
+      <anchor 422 -297> mark @b.uni064D_1;
+  pos base uniFEF8
+      <anchor 598 1930> mark @t.uni064B
+      <anchor 598 -278> mark @b.uni064D_1;
+  pos base uniFEF9
+      <anchor 462 1316> mark @t.uni064B
+      <anchor 462 -818> mark @b.uni064D_1;
+  pos base uniFEFA
+      <anchor 636 1564> mark @t.uni064B
+      <anchor 636 -804> mark @b.uni064D_1;
+  pos base uniFEFB
+      <anchor 462 1316> mark @t.uni064B
+      <anchor 462 -297> mark @b.uni064D_1;
+  pos base uniFEFC
+      <anchor 626 1564> mark @t.uni064B
+      <anchor 626 -278> mark @b.uni064D_1;
+  pos base uni06F4.urdu
+      <anchor 490 946> mark @t.uni064B
+      <anchor 490 -249> mark @b.uni064D_1;
+  pos base uni06F7.urdu
+      <anchor 431 954> mark @t.uni064B
+      <anchor 431 -242> mark @b.uni064D_1;
+  pos base uni0660.small
+      <anchor 451 760> mark @t.uni064B
+      <anchor 451 -188> mark @b.uni064D_1;
+  pos base uni0661.small
+      <anchor 419 1026> mark @t.uni064B
+      <anchor 419 -188> mark @b.uni064D_1;
+  pos base uni0662.small
+      <anchor 428 976> mark @t.uni064B
+      <anchor 428 -252> mark @b.uni064D_1;
+  pos base uni0663.small
+      <anchor 463 1034> mark @t.uni064B
+      <anchor 463 -249> mark @b.uni064D_1;
+  pos base uni0664.small
+      <anchor 460 1054> mark @t.uni064B
+      <anchor 460 -252> mark @b.uni064D_1;
+  pos base uni0665.small
+      <anchor 469 1026> mark @t.uni064B
+      <anchor 469 -245> mark @b.uni064D_1;
+  pos base uni0666.small
+      <anchor 497 1028> mark @t.uni064B
+      <anchor 497 -205> mark @b.uni064D_1;
+  pos base uni0667.small
+      <anchor 456 900> mark @t.uni064B
+      <anchor 456 -246> mark @b.uni064D_1;
+  pos base uni0668.small
+      <anchor 456 1000> mark @t.uni064B
+      <anchor 456 -215> mark @b.uni064D_1;
+  pos base uni0669.small
+      <anchor 463 1020> mark @t.uni064B
+      <anchor 463 -231> mark @b.uni064D_1;
+  pos base uni06F4.small
+      <anchor 282 763> mark @t.uni064B
+      <anchor 282 -251> mark @b.uni064D_1;
+  pos base uni06F5.small
+      <anchor 276 758> mark @t.uni064B
+      <anchor 276 -246> mark @b.uni064D_1;
+  pos base uni06F6.small
+      <anchor 295 758> mark @t.uni064B
+      <anchor 295 -227> mark @b.uni064D_1;
+  pos base uni06F4.urdusmall
+      <anchor 284 751> mark @t.uni064B
+      <anchor 284 -249> mark @b.uni064D_1;
+  pos base uni06F7.urdusmall
+      <anchor 280 756> mark @t.uni064B
+      <anchor 280 -237> mark @b.uni064D_1;
+  pos base uni06DD.alt1
+      <anchor 1158 1364> mark @t.uni064B
+      <anchor 1158 -934> mark @b.uni064D_1;
+  pos base lamalefarab.alt1.isol
+      <anchor 462 1316> mark @t.uni064B
+      <anchor 462 -297> mark @b.uni064D_1;
+  pos base lamalefarab.alt1.fina
+      <anchor 630 1574> mark @t.uni064B
+      <anchor 630 -278> mark @b.uni064D_1;
+  pos base uni062C06BE.isol
+      <anchor 694 750> mark @t.uni064B
+      <anchor 694 -380> mark @b.uni064D_1;
+  pos base uni062C06BE.fina
+      <anchor 814 803> mark @t.uni064B
+      <anchor 814 -492> mark @b.uni064D_1;
+  pos base uni062C06BE.init
+      <anchor 805 824> mark @t.uni064B
+      <anchor 805 -492> mark @b.uni064D_1;
+  pos base uni062C06BE.medi
+      <anchor 737 803> mark @t.uni064B
+      <anchor 737 -386> mark @b.uni064D_1;
+  pos base uni06AF06BE.isol
+      <anchor 770 1840> mark @t.uni064B
+      <anchor 770 -304> mark @b.uni064D_1;
+  pos base uni06AF06BE.init
+      <anchor 749 1868> mark @t.uni064B
+      <anchor 749 -266> mark @b.uni064D_1;
+  pos base uni06AF06BE.medi
+      <anchor 913 2024> mark @t.uni064B
+      <anchor 913 -254> mark @b.uni064D_1;
+  pos base uni064906D2.isol
+      <anchor 831 1042> mark @t.uni064B
+      <anchor 831 -257> mark @b.uni064D_1;
+  pos base uni062806D2.isol
+      <anchor 831 1042> mark @t.uni064B
+      <anchor 831 -516> mark @b.uni064D_1;
+  pos base uni067E06D2.isol
+      <anchor 831 1042> mark @t.uni064B
+      <anchor 831 -698> mark @b.uni064D_1;
+  pos base uni067906D2.isol
+      <anchor 831 1720> mark @t.uni064B
+      <anchor 831 -257> mark @b.uni064D_1;
+  pos base uni062A06D2.isol
+      <anchor 831 1508> mark @t.uni064B
+      <anchor 831 -257> mark @b.uni064D_1;
+  pos base uni062B06D2.isol
+      <anchor 831 1632> mark @t.uni064B
+      <anchor 831 -257> mark @b.uni064D_1;
+  pos base uni062C06D2.isol
+      <anchor 828 918> mark @t.uni064B
+      <anchor 828 -562> mark @b.uni064D_1;
+  pos base uni068606D2.isol
+      <anchor 828 918> mark @t.uni064B
+      <anchor 828 -788> mark @b.uni064D_1;
+  pos base uni062D06D2.isol
+      <anchor 828 918> mark @t.uni064B
+      <anchor 828 -258> mark @b.uni064D_1;
+  pos base uni062E06D2.isol
+      <anchor 828 1374> mark @t.uni064B
+      <anchor 828 -258> mark @b.uni064D_1;
+  pos base uni063306D2.isol
+      <anchor 868 972> mark @t.uni064B
+      <anchor 868 -258> mark @b.uni064D_1;
+  pos base uni063406D2.isol
+      <anchor 868 1574> mark @t.uni064B
+      <anchor 868 -258> mark @b.uni064D_1;
+  pos base uni063506D2.isol
+      <anchor 864 1044> mark @t.uni064B
+      <anchor 864 -261> mark @b.uni064D_1;
+  pos base uni063606D2.isol
+      <anchor 864 1510> mark @t.uni064B
+      <anchor 864 -261> mark @b.uni064D_1;
+  pos base uni063706D2.isol
+      <anchor 827 1568> mark @t.uni064B
+      <anchor 827 -270> mark @b.uni064D_1;
+  pos base uni063806D2.isol
+      <anchor 827 1560> mark @t.uni064B
+      <anchor 827 -273> mark @b.uni064D_1;
+  pos base uni063906D2.isol
+      <anchor 828 1172> mark @t.uni064B
+      <anchor 828 -264> mark @b.uni064D_1;
+  pos base uni063A06D2.isol
+      <anchor 828 1604> mark @t.uni064B
+      <anchor 828 -264> mark @b.uni064D_1;
+  pos base uni064106D2.isol
+      <anchor 785 1604> mark @t.uni064B
+      <anchor 785 -255> mark @b.uni064D_1;
+  pos base uni064206D2.isol
+      <anchor 785 1600> mark @t.uni064B
+      <anchor 785 -255> mark @b.uni064D_1;
+  pos base uni06A906D2.isol
+      <anchor 793 1792> mark @t.uni064B
+      <anchor 793 -283> mark @b.uni064D_1;
+  pos base uni06AF06D2.isol
+      <anchor 789 2010> mark @t.uni064B
+      <anchor 789 -284> mark @b.uni064D_1;
+  pos base uni064406D2.isol
+      <anchor 714 1568> mark @t.uni064B
+      <anchor 714 -260> mark @b.uni064D_1;
+  pos base uni064506D2.isol
+      <anchor 802 976> mark @t.uni064B
+      <anchor 802 -253> mark @b.uni064D_1;
+  pos base uni064606D2.isol
+      <anchor 824 1570> mark @t.uni064B
+      <anchor 824 -254> mark @b.uni064D_1;
+  pos base uni06BE06D2.isol
+      <anchor 813 1118> mark @t.uni064B
+      <anchor 813 -252> mark @b.uni064D_1;
+  pos base uni06C106D2.isol
+      <anchor 794 1088> mark @t.uni064B
+      <anchor 794 -478> mark @b.uni064D_1;
+  pos base uni06CC06D3.isol
+      <anchor 852 1412> mark @t.uni064B
+      <anchor 852 -612> mark @b.uni064D_1;
+  pos base uni062606D3.isol
+      <anchor 852 1374> mark @t.uni064B
+      <anchor 852 -592> mark @b.uni064D_1;
+  pos base uni067E06D3.isol
+      <anchor 852 1412> mark @t.uni064B
+      <anchor 852 -812> mark @b.uni064D_1;
+  pos base uni067906D3.isol
+      <anchor 852 1410> mark @t.uni064B
+      <anchor 852 -281> mark @b.uni064D_1;
+  pos base uni062A06D3.isol
+      <anchor 852 1312> mark @t.uni064B
+      <anchor 852 -281> mark @b.uni064D_1;
+  pos base uni062B06D3.isol
+      <anchor 852 1448> mark @t.uni064B
+      <anchor 852 -281> mark @b.uni064D_1;
+  pos base uni062C06D3.isol
+      <anchor 958 1486> mark @t.uni064B
+      <anchor 958 -580> mark @b.uni064D_1;
+  pos base uni068606D3.isol
+      <anchor 952 1486> mark @t.uni064B
+      <anchor 952 -660> mark @b.uni064D_1;
+  pos base uni063906D3.isol
+      <anchor 885 1554> mark @t.uni064B
+      <anchor 885 -261> mark @b.uni064D_1;
+  pos base uni063A06D3.isol
+      <anchor 879 1594> mark @t.uni064B
+      <anchor 879 -261> mark @b.uni064D_1;
+  pos base uni064106D3.isol
+      <anchor 789 1604> mark @t.uni064B
+      <anchor 789 -255> mark @b.uni064D_1;
+  pos base uni064206D3.isol
+      <anchor 779 1632> mark @t.uni064B
+      <anchor 779 -255> mark @b.uni064D_1;
+  pos base uni06A906D3.isol
+      <anchor 920 1956> mark @t.uni064B
+      <anchor 920 -249> mark @b.uni064D_1;
+  pos base uni06AF06D3.isol
+      <anchor 916 2214> mark @t.uni064B
+      <anchor 916 -249> mark @b.uni064D_1;
+  pos base uni064406D3.isol
+      <anchor 793 1572> mark @t.uni064B
+      <anchor 793 -255> mark @b.uni064D_1;
+  pos base uni064506D3.isol
+      <anchor 844 1412> mark @t.uni064B
+      <anchor 844 -258> mark @b.uni064D_1;
+  pos base uni064606D3.isol
+      <anchor 852 1400> mark @t.uni064B
+      <anchor 852 -279> mark @b.uni064D_1;
+  pos base uni06BE06D3.isol
+      <anchor 830 1412> mark @t.uni064B
+      <anchor 830 -255> mark @b.uni064D_1;
+  pos base uni06C106D3.isol
+      <anchor 852 1344> mark @t.uni064B
+      <anchor 852 -308> mark @b.uni064D_1;
+  pos base uni062C06D3.fina
+      <anchor 914 1120> mark @t.uni064B
+      <anchor 914 -594> mark @b.uni064D_1;
+  pos base uni0646062A06D2.isol
+      <anchor 838 1460> mark @t.uni064B
+      <anchor 838 -270> mark @b.uni064D_1;
+  pos base uni06BE062A06D2.isol
+      <anchor 838 1242> mark @t.uni064B
+      <anchor 838 -258> mark @b.uni064D_1;
+  pos base uni06C1062A06D2.isol
+      <anchor 899 1222> mark @t.uni064B
+      <anchor 899 -320> mark @b.uni064D_1;
+  pos base uni063306D2.fina
+      <anchor 848 721> mark @t.uni064B
+      <anchor 848 -418> mark @b.uni064D_1;
+  pos base uni06CC063306D2.isol
+      <anchor 867 1038> mark @t.uni064B
+      <anchor 867 -536> mark @b.uni064D_1;
+  pos base uni06CC063306D2.fina
+      <anchor 896 742> mark @t.uni064B
+      <anchor 896 -894> mark @b.uni064D_1;
+  pos base uni0686064406D2.isol
+      <anchor 920 1538> mark @t.uni064B
+      <anchor 920 -684> mark @b.uni064D_1;
+  pos base uni06AF064406D2.isol
+      <anchor 845 1674> mark @t.uni064B
+      <anchor 845 -257> mark @b.uni064D_1;
+  pos base uni0645064406D2.isol
+      <anchor 782 1550> mark @t.uni064B
+      <anchor 782 -257> mark @b.uni064D_1;
+  pos base uni062C064506D2.isol
+      <anchor 833 1132> mark @t.uni064B
+      <anchor 833 -482> mark @b.uni064D_1;
+  pos base uni067E064606D2.isol
+      <anchor 853 1278> mark @t.uni064B
+      <anchor 853 -700> mark @b.uni064D_1;
+  pos base uni06BE064606D2.isol
+      <anchor 835 1276> mark @t.uni064B
+      <anchor 835 -249> mark @b.uni064D_1;
+  pos base uni06C1064606D2.isol
+      <anchor 899 1222> mark @t.uni064B
+      <anchor 899 -315> mark @b.uni064D_1;
+  pos base uni068606BE06D2.isol
+      <anchor 889 1194> mark @t.uni064B
+      <anchor 889 -724> mark @b.uni064D_1;
+  pos base uni064406CC06D2.isol
+      <anchor 730 1618> mark @t.uni064B
+      <anchor 730 -516> mark @b.uni064D_1;
+  pos base uni06C106CC06D2.isol
+      <anchor 899 918> mark @t.uni064B
+      <anchor 899 -718> mark @b.uni064D_1;
+  pos base uni06CC064606D2.fina
+      <anchor 782 966> mark @t.uni064B
+      <anchor 782 -840> mark @b.uni064D_1;
+  pos base uni067E06CC064606D2.isol
+      <anchor 815 1290> mark @t.uni064B
+      <anchor 815 -660> mark @b.uni064D_1;
+  pos base uni062A06CC067906D2.isol
+      <anchor 819 1536> mark @t.uni064B
+      <anchor 819 -492> mark @b.uni064D_1;
+  pos base uni06C1062A06D2.fina
+      <anchor 1002 924> mark @t.uni064B
+      <anchor 1002 -536> mark @b.uni064D_1;
+  pos base uni06CC062A06D2.fina
+      <anchor 775 858> mark @t.uni064B
+      <anchor 775 -844> mark @b.uni064D_1;
+  pos base uni06C1064406D2.fina
+      <anchor 1008 1540> mark @t.uni064B
+      <anchor 1008 -536> mark @b.uni064D_1;
+  pos base uni0679062C.isol
+      <anchor 737 1754> mark @t.uni064B
+      <anchor 737 -1198> mark @b.uni064D_1;
+  pos base uni067A062C.isol
+      <anchor 736 1860> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni067D062C.isol
+      <anchor 736 1256> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni062B062D.isol
+      <anchor 736 1840> mark @t.uni064B
+      <anchor 736 -1190> mark @b.uni064D_1;
+  pos base uni0679062D.isol
+      <anchor 736 1896> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni067D062D.isol
+      <anchor 736 1256> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni0626062E.isol
+      <anchor 736 1890> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni062B062E.isol
+      <anchor 736 1840> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni0679062E.isol
+      <anchor 736 1822> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni067D062E.isol
+      <anchor 736 1256> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni06260686.isol
+      <anchor 736 1870> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni06280686.isol
+      <anchor 736 1256> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni062A0686.isol
+      <anchor 736 1686> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni062B0686.isol
+      <anchor 736 1840> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni06460686.isol
+      <anchor 736 1796> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni064A0686.isol
+      <anchor 736 1256> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni06790686.isol
+      <anchor 736 1820> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni067D0686.isol
+      <anchor 736 1256> mark @t.uni064B
+      <anchor 736 -1164> mark @b.uni064D_1;
+  pos base uni062B062C.init
+      <anchor 479 1678> mark @t.uni064B
+      <anchor 479 -416> mark @b.uni064D_1;
+  pos base uni0679062C.init
+      <anchor 479 1602> mark @t.uni064B
+      <anchor 479 -520> mark @b.uni064D_1;
+  pos base uni067D062C.init
+      <anchor 554 1004> mark @t.uni064B
+      <anchor 554 -434> mark @b.uni064D_1;
+  pos base uni062B062D.init
+      <anchor 479 1612> mark @t.uni064B
+      <anchor 479 -240> mark @b.uni064D_1;
+  pos base uni0679062D.init
+      <anchor 479 1630> mark @t.uni064B
+      <anchor 479 -240> mark @b.uni064D_1;
+  pos base uni067D062D.init
+      <anchor 504 1004> mark @t.uni064B
+      <anchor 504 -476> mark @b.uni064D_1;
+  pos base uni062B062E.init
+      <anchor 479 1678> mark @t.uni064B
+      <anchor 479 -240> mark @b.uni064D_1;
+  pos base uni0679062E.init
+      <anchor 479 1696> mark @t.uni064B
+      <anchor 479 -240> mark @b.uni064D_1;
+  pos base uni067D062E.init
+      <anchor 486 1196> mark @t.uni064B
+      <anchor 486 -548> mark @b.uni064D_1;
+  pos base uni06260686.init
+      <anchor 479 1680> mark @t.uni064B
+      <anchor 479 -662> mark @b.uni064D_1;
+  pos base uni06280686.init
+      <anchor 479 1004> mark @t.uni064B
+      <anchor 479 -746> mark @b.uni064D_1;
+  pos base uni062A0686.init
+      <anchor 479 1414> mark @t.uni064B
+      <anchor 479 -728> mark @b.uni064D_1;
+  pos base uni062B0686.init
+      <anchor 479 1632> mark @t.uni064B
+      <anchor 479 -690> mark @b.uni064D_1;
+  pos base uni06460686.init
+      <anchor 479 1510> mark @t.uni064B
+      <anchor 479 -700> mark @b.uni064D_1;
+  pos base uni064A0686.init
+      <anchor 479 1004> mark @t.uni064B
+      <anchor 479 -814> mark @b.uni064D_1;
+  pos base uni06790686.init
+      <anchor 479 1594> mark @t.uni064B
+      <anchor 479 -728> mark @b.uni064D_1;
+  pos base uni067D0686.init
+      <anchor 532 1004> mark @t.uni064B
+      <anchor 532 -742> mark @b.uni064D_1;
+  pos base uni06790645.isol
+      <anchor 498 1470> mark @t.uni064B
+      <anchor 498 -290> mark @b.uni064D_1;
+  pos base uni067D0645.isol
+      <anchor 498 773> mark @t.uni064B
+      <anchor 498 -542> mark @b.uni064D_1;
+  pos base uni06790645.init
+      <anchor 446 1582> mark @t.uni064B
+      <anchor 446 -236> mark @b.uni064D_1;
+  pos base uni067D0645.init
+      <anchor 498 910> mark @t.uni064B
+      <anchor 498 -428> mark @b.uni064D_1;
+  pos base uni062B0647.init
+      <anchor 540 1284> mark @t.uni064B
+      <anchor 540 -542> mark @b.uni064D_1;
+  pos base uni06790647.init
+      <anchor 529 1350> mark @t.uni064B
+      <anchor 529 -542> mark @b.uni064D_1;
+  pos base uni067D0647.init
+      <anchor 574 744> mark @t.uni064B
+      <anchor 574 -952> mark @b.uni064D_1;
+  pos base uni06790647.medi
+      <anchor 525 1220> mark @t.uni064B
+      <anchor 525 -548> mark @b.uni064D_1;
+  pos base uni067D0647.medi
+      <anchor 525 730> mark @t.uni064B
+      <anchor 525 -1034> mark @b.uni064D_1;
+  pos base uni06790649.isol
+      <anchor 607 1580> mark @t.uni064B
+      <anchor 607 -388> mark @b.uni064D_1;
+  pos base uni067D0649.isol
+      <anchor 623 904> mark @t.uni064B
+      <anchor 623 -760> mark @b.uni064D_1;
+  pos base uni0679064A.isol
+      <anchor 607 1530> mark @t.uni064B
+      <anchor 607 -786> mark @b.uni064D_1;
+  pos base uni067D064A.isol
+      <anchor 651 904> mark @t.uni064B
+      <anchor 651 -772> mark @b.uni064D_1;
+  pos base uni06260626.isol
+      <anchor 607 1516> mark @t.uni064B
+      <anchor 607 -388> mark @b.uni064D_1;
+  pos base uni06280626.isol
+      <anchor 607 1080> mark @t.uni064B
+      <anchor 607 -696> mark @b.uni064D_1;
+  pos base uni062A0626.isol
+      <anchor 607 1560> mark @t.uni064B
+      <anchor 607 -388> mark @b.uni064D_1;
+  pos base uni062B0626.isol
+      <anchor 607 1498> mark @t.uni064B
+      <anchor 607 -388> mark @b.uni064D_1;
+  pos base uni06460626.isol
+      <anchor 607 1444> mark @t.uni064B
+      <anchor 607 -388> mark @b.uni064D_1;
+  pos base uni064A0626.isol
+      <anchor 607 1146> mark @t.uni064B
+      <anchor 607 -652> mark @b.uni064D_1;
+  pos base uni06790626.isol
+      <anchor 607 1584> mark @t.uni064B
+      <anchor 607 -388> mark @b.uni064D_1;
+  pos base uni06790631.fina
+      <anchor 385 1356> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uni067D0631.fina
+      <anchor 385 775> mark @t.uni064B
+      <anchor 385 -740> mark @b.uni064D_1;
+  pos base uni06790632.fina
+      <anchor 385 1460> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uni067D0632.fina
+      <anchor 385 960> mark @t.uni064B
+      <anchor 385 -790> mark @b.uni064D_1;
+  pos base uni06260691.fina
+      <anchor 385 1554> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uni06280691.fina
+      <anchor 385 1364> mark @t.uni064B
+      <anchor 385 -714> mark @b.uni064D_1;
+  pos base uni062A0691.fina
+      <anchor 385 1230> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uni062B0691.fina
+      <anchor 385 1498> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uni06460691.fina
+      <anchor 385 1218> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uni064A0691.fina
+      <anchor 385 1272> mark @t.uni064B
+      <anchor 385 -608> mark @b.uni064D_1;
+  pos base uni06790691.fina
+      <anchor 385 1510> mark @t.uni064B
+      <anchor 385 -458> mark @b.uni064D_1;
+  pos base uni067D0691.fina
+      <anchor 385 1132> mark @t.uni064B
+      <anchor 385 -812> mark @b.uni064D_1;
+  pos base uni062606450627.fina
+      <anchor 563 1440> mark @t.uni064B
+      <anchor 563 -291> mark @b.uni064D_1;
+  pos base uni062806450627.fina
+      <anchor 563 773> mark @t.uni064B
+      <anchor 563 -580> mark @b.uni064D_1;
+  pos base uni062A06450627.fina
+      <anchor 563 1394> mark @t.uni064B
+      <anchor 563 -291> mark @b.uni064D_1;
+  pos base uni062B06450627.fina
+      <anchor 563 1386> mark @t.uni064B
+      <anchor 563 -291> mark @b.uni064D_1;
+  pos base uni064606450627.fina
+      <anchor 563 1256> mark @t.uni064B
+      <anchor 563 -291> mark @b.uni064D_1;
+  pos base uni064A06450627.fina
+      <anchor 563 773> mark @t.uni064B
+      <anchor 563 -618> mark @b.uni064D_1;
+  pos base uni067906450627.fina
+      <anchor 563 1414> mark @t.uni064B
+      <anchor 563 -291> mark @b.uni064D_1;
+  pos base uni067D06450627.fina
+      <anchor 563 773> mark @t.uni064B
+      <anchor 563 -758> mark @b.uni064D_1;
+  pos base uni06790645.fina_
+      <anchor 540 1470> mark @t.uni064B
+      <anchor 540 -272> mark @b.uni064D_1;
+  pos base uni067D0645.fina
+      <anchor 540 780> mark @t.uni064B
+      <anchor 540 -838> mark @b.uni064D_1;
+  pos base uni06790646.fina
+      <anchor 862 1484> mark @t.uni064B
+      <anchor 862 -358> mark @b.uni064D_1;
+  pos base uni067D0646.fina
+      <anchor 862 872> mark @t.uni064B
+      <anchor 862 -810> mark @b.uni064D_1;
+  pos base uni062606BA.fina
+      <anchor 862 1418> mark @t.uni064B
+      <anchor 862 -358> mark @b.uni064D_1;
+  pos base uni062806BA.fina
+      <anchor 862 757> mark @t.uni064B
+      <anchor 862 -604> mark @b.uni064D_1;
+  pos base uni062A06BA.fina
+      <anchor 862 1174> mark @t.uni064B
+      <anchor 862 -358> mark @b.uni064D_1;
+  pos base uni062B06BA.fina
+      <anchor 862 1328> mark @t.uni064B
+      <anchor 862 -358> mark @b.uni064D_1;
+  pos base uni064606BA.fina
+      <anchor 862 1216> mark @t.uni064B
+      <anchor 862 -358> mark @b.uni064D_1;
+  pos base uni064A06BA.fina
+      <anchor 862 757> mark @t.uni064B
+      <anchor 862 -658> mark @b.uni064D_1;
+  pos base uni067906BA.fina
+      <anchor 862 1344> mark @t.uni064B
+      <anchor 862 -358> mark @b.uni064D_1;
+  pos base uni067D06BA.fina
+      <anchor 862 757> mark @t.uni064B
+      <anchor 862 -850> mark @b.uni064D_1;
+  pos base uni06790649.fina
+      <anchor 801 1346> mark @t.uni064B
+      <anchor 801 -466> mark @b.uni064D_1;
+  pos base uni067D0649.fina
+      <anchor 801 728> mark @t.uni064B
+      <anchor 801 -834> mark @b.uni064D_1;
+  pos base uni0679064A.fina
+      <anchor 801 1296> mark @t.uni064B
+      <anchor 801 -848> mark @b.uni064D_1;
+  pos base uni067D064A.fina
+      <anchor 801 728> mark @t.uni064B
+      <anchor 801 -1008> mark @b.uni064D_1;
+  pos base uni06260626.fina
+      <anchor 801 1478> mark @t.uni064B
+      <anchor 801 -466> mark @b.uni064D_1;
+  pos base uni06280626.fina
+      <anchor 801 1158> mark @t.uni064B
+      <anchor 801 -614> mark @b.uni064D_1;
+  pos base uni062A0626.fina
+      <anchor 801 1078> mark @t.uni064B
+      <anchor 801 -466> mark @b.uni064D_1;
+  pos base uni062B0626.fina
+      <anchor 801 1320> mark @t.uni064B
+      <anchor 801 -466> mark @b.uni064D_1;
+  pos base uni06460626.fina
+      <anchor 801 1140> mark @t.uni064B
+      <anchor 801 -466> mark @b.uni064D_1;
+  pos base uni064A0626.fina
+      <anchor 801 1142> mark @t.uni064B
+      <anchor 801 -720> mark @b.uni064D_1;
+  pos base uni06790626.fina
+      <anchor 801 1298> mark @t.uni064B
+      <anchor 801 -466> mark @b.uni064D_1;
+  pos base uni06850645.isol
+      <anchor 720 1628> mark @t.uni064B
+      <anchor 720 -258> mark @b.uni064D_1;
+  pos base uni06860645.isol
+      <anchor 720 856> mark @t.uni064B
+      <anchor 720 -624> mark @b.uni064D_1;
+  pos base uni06860645.init
+      <anchor 589 810> mark @t.uni064B
+      <anchor 589 -668> mark @b.uni064D_1;
+  pos base uni06330632.isol
+      <anchor 632 870> mark @t.uni064B
+      <anchor 632 -572> mark @b.uni064D_1;
+  pos base uni06340632.isol
+      <anchor 632 1144> mark @t.uni064B
+      <anchor 632 -572> mark @b.uni064D_1;
+  pos base uni06330632.fina
+      <anchor 759 908> mark @t.uni064B
+      <anchor 759 -570> mark @b.uni064D_1;
+  pos base uni06340632.fina
+      <anchor 759 1076> mark @t.uni064B
+      <anchor 759 -570> mark @b.uni064D_1;
+  pos base uni0635062C.isol
+      <anchor 844 1268> mark @t.uni064B
+      <anchor 844 -1264> mark @b.uni064D_1;
+  pos base uni0635062E.isol
+      <anchor 844 1324> mark @t.uni064B
+      <anchor 844 -1208> mark @b.uni064D_1;
+  pos base uni0635062C.init
+      <anchor 444 552> mark @t.uni064B
+      <anchor 444 -454> mark @b.uni064D_1;
+  pos base uni06350632.isol
+      <anchor 650 880> mark @t.uni064B
+      <anchor 650 -522> mark @b.uni064D_1;
+  pos base uni06360632.isol
+      <anchor 650 1166> mark @t.uni064B
+      <anchor 650 -522> mark @b.uni064D_1;
+  pos base uni06350632.fina
+      <anchor 763 906> mark @t.uni064B
+      <anchor 763 -504> mark @b.uni064D_1;
+  pos base uni06360632.fina
+      <anchor 763 1240> mark @t.uni064B
+      <anchor 763 -504> mark @b.uni064D_1;
+  pos base uni06410626.isol
+      <anchor 640 1532> mark @t.uni064B
+      <anchor 640 -508> mark @b.uni064D_1;
+  pos base uni06420626.isol
+      <anchor 640 1496> mark @t.uni064B
+      <anchor 640 -508> mark @b.uni064D_1;
+  pos base uni06430627.isolshort
+      <anchor 633 1446> mark @t.uni064B
+      <anchor 633 -252> mark @b.uni064D_1;
+  pos base uni06430627.finashort
+      <anchor 637 1422> mark @t.uni064B
+      <anchor 637 -258> mark @b.uni064D_1;
+  pos base uni064306440627.isol
+      <anchor 1008 1600> mark @t.uni064B
+      <anchor 1008 -244> mark @b.uni064D_1;
+  pos base uni064306440627.fina
+      <anchor 959 1586> mark @t.uni064B
+      <anchor 959 -251> mark @b.uni064D_1;
+  pos base uni064306440627.isolshort
+      <anchor 1008 1600> mark @t.uni064B
+      <anchor 1008 -244> mark @b.uni064D_1;
+  pos base uni064306440627.finashort
+      <anchor 959 1586> mark @t.uni064B
+      <anchor 959 -251> mark @b.uni064D_1;
+  pos base uni064306450627.isol
+      <anchor 561 1428> mark @t.uni064B
+      <anchor 561 -312> mark @b.uni064D_1;
+  pos base uni064306450627.isolshort
+      <anchor 570 1436> mark @t.uni064B
+      <anchor 570 -309> mark @b.uni064D_1;
+  pos base uni06440645062C.init
+      <anchor 478 1550> mark @t.uni064B
+      <anchor 478 -542> mark @b.uni064D_1;
+  pos base uni06440645062E.init
+      <anchor 478 1550> mark @t.uni064B
+      <anchor 478 -244> mark @b.uni064D_1;
+  pos base uni064406440647.isol
+      <anchor 845 820> mark @t.uni064B
+      <anchor 845 -257> mark @b.uni064D_1;
+  pos base uni0640.quarter
+      <anchor 80 631> mark @t.uni064B
+      <anchor 80 -249> mark @b.uni064D_1;
+  pos base uni062C06BE06D2.isol
+      <anchor 889 1194> mark @t.uni064B
+      <anchor 889 -524> mark @b.uni064D_1;
+  pos base uni062D06BE06D2.isol
+      <anchor 889 1194> mark @t.uni064B
+      <anchor 889 -260> mark @b.uni064D_1;
+  pos base uni062C06BE06D2.fina
+      <anchor 885 824> mark @t.uni064B
+      <anchor 885 -816> mark @b.uni064D_1;
+  pos base uni062D06BE06D2.fina
+      <anchor 885 824> mark @t.uni064B
+      <anchor 885 -508> mark @b.uni064D_1;
+  pos base uni068606BE06D2.fina
+      <anchor 885 824> mark @t.uni064B
+      <anchor 885 -1026> mark @b.uni064D_1;
+  pos base uni06BE06D2.fina
+      <anchor 823 693> mark @t.uni064B
+      <anchor 823 -646> mark @b.uni064D_1;
+  pos base uni062C06D2.fina
+      <anchor 826 791> mark @t.uni064B
+      <anchor 826 -788> mark @b.uni064D_1;
+  pos base uni062D06D2.fina
+      <anchor 826 791> mark @t.uni064B
+      <anchor 826 -384> mark @b.uni064D_1;
+  pos base uni068606D2.fina
+      <anchor 826 791> mark @t.uni064B
+      <anchor 826 -944> mark @b.uni064D_1;
+  pos base uni062D064906D2.fina
+      <anchor 914 816> mark @t.uni064B
+      <anchor 914 -324> mark @b.uni064D_1;
+  pos base uni0686062A06D2.fina
+      <anchor 914 1222> mark @t.uni064B
+      <anchor 914 -940> mark @b.uni064D_1;
+  pos base uni06490627.isol
+      <anchor 337 1314> mark @t.uni064B
+      <anchor 337 -249> mark @b.uni064D_1;
+  pos base uni06280627.isol
+      <anchor 337 1314> mark @t.uni064B
+      <anchor 337 -636> mark @b.uni064D_1;
+  pos base uni062A0627.isol
+      <anchor 337 1314> mark @t.uni064B
+      <anchor 337 -249> mark @b.uni064D_1;
+  pos base uni062B0627.isol
+      <anchor 357 1302> mark @t.uni064B
+      <anchor 357 -249> mark @b.uni064D_1;
+  pos base uni06460627.isol
+      <anchor 337 1314> mark @t.uni064B
+      <anchor 337 -249> mark @b.uni064D_1;
+  pos base uni064A0627.isol
+      <anchor 337 1314> mark @t.uni064B
+      <anchor 337 -690> mark @b.uni064D_1;
+  pos base uni0644.alt1.init
+      <anchor 145 1548> mark @t.uni064B
+      <anchor 145 -248> mark @b.uni064D_1;
+  pos base uni06AF0627.liga.init.fina
+      <anchor 629 1734> mark @t.uni064B
+      <anchor 629 -249> mark @b.uni064D_1;
+  pos base uni06AF0627.liga.medi.fina
+      <anchor 638 1666> mark @t.uni064B
+      <anchor 638 -258> mark @b.uni064D_1;
+  pos base uni06AF0627.short.liga.init.fina
+      <anchor 633 1662> mark @t.uni064B
+      <anchor 633 -249> mark @b.uni064D_1;
+  pos base glyph1907
+      <anchor 638 1666> mark @t.uni064B
+      <anchor 638 -258> mark @b.uni064D_1;
+  pos base glyph1908
+      <anchor 998 1568> mark @t.uni064B
+      <anchor 998 -253> mark @b.uni064D_1;
+  pos base gaf_lamalefarab.liga.medi.fina
+      <anchor 1009 1588> mark @t.uni064B
+      <anchor 1009 -250> mark @b.uni064D_1;
+  pos base glyph1910
+      <anchor 1002 1568> mark @t.uni064B
+      <anchor 1002 -253> mark @b.uni064D_1;
+  pos base gaf_lamalefarab.alt1.liga.medi.fina
+      <anchor 999 1586> mark @t.uni064B
+      <anchor 999 -251> mark @b.uni064D_1;
+  pos base uni06AF0644.liga.init.fina
+      <anchor 980 1590> mark @t.uni064B
+      <anchor 980 -560> mark @b.uni064D_1;
+  pos base uni06AF0644.liga.medi.fina
+      <anchor 986 1632> mark @t.uni064B
+      <anchor 986 -536> mark @b.uni064D_1;
+  pos base uni06AF0644.liga.init.medi
+      <anchor 651 1728> mark @t.uni064B
+      <anchor 651 -240> mark @b.uni064D_1;
+  pos base uni06AF0644.liga.medi.medi
+      <anchor 671 1642> mark @t.uni064B
+      <anchor 671 -258> mark @b.uni064D_1;
+  pos base uni06AF0645.liga.init.fina
+      <anchor 687 1988> mark @t.uni064B
+      <anchor 687 -260> mark @b.uni064D_1;
+  pos base uni06AF0645.liga.medi.fina
+      <anchor 663 1876> mark @t.uni064B
+      <anchor 663 -300> mark @b.uni064D_1;
+  pos base uni06AF0645.liga.init.medi
+      <anchor 503 1926> mark @t.uni064B
+      <anchor 503 -257> mark @b.uni064D_1;
+  pos base uni06AF0645.liga.medi.medi
+      <anchor 511 1862> mark @t.uni064B
+      <anchor 511 -268> mark @b.uni064D_1;
+  pos base glyphgaaf
+      <anchor 556 1566> mark @t.uni064B
+      <anchor 556 -364> mark @b.uni064D_1;
+  pos base glyphgaaf2
+      <anchor 561 1576> mark @t.uni064B
+      <anchor 561 -364> mark @b.uni064D_1;
+  pos base glyph1922
+      <anchor 934 1778> mark @t.uni064B
+      <anchor 934 -460> mark @b.uni064D_1;
+  pos base glyph1923
+      <anchor 1028 1966> mark @t.uni064B
+      <anchor 1028 -600> mark @b.uni064D_1;
+  pos base uni06AF0649.liga.init.fina
+      <anchor 953 1764> mark @t.uni064B
+      <anchor 953 -926> mark @b.uni064D_1;
+  pos base uni06AF064A.liga.medi.fina
+      <anchor 1076 1980> mark @t.uni064B
+      <anchor 1076 -1112> mark @b.uni064D_1;
+  pos base glyph1926
+      <anchor 510 918> mark @t.uni064B
+      <anchor 510 -544> mark @b.uni064D_1;
+  pos base glyph1927
+      <anchor 749 1648> mark @t.uni064B
+      <anchor 749 -266> mark @b.uni064D_1;
+  pos base glyph1928
+      <anchor 913 1746> mark @t.uni064B
+      <anchor 913 -254> mark @b.uni064D_1;
+  pos base uni064306BE.liga.init.fina
+      <anchor 844 1590> mark @t.uni064B
+      <anchor 844 -302> mark @b.uni064D_1;
+  pos base uni062C06BE.liga.init.fina
+      <anchor 938 779> mark @t.uni064B
+      <anchor 938 -654> mark @b.uni064D_1;
+  pos base uni064606BE.liga.init.fina
+      <anchor 743 1450> mark @t.uni064B
+      <anchor 743 -334> mark @b.uni064D_1;
+  pos base uni062A06BE.liga.init.fina
+      <anchor 432 1510> mark @t.uni064B
+      <anchor 432 -320> mark @b.uni064D_1;
+  pos base uni064A06BE.liga.init.fina
+      <anchor 735 729> mark @t.uni064B
+      <anchor 735 -682> mark @b.uni064D_1;
+  pos base glyph1939
+      <anchor 686 1304> mark @t.uni064B
+      <anchor 686 -344> mark @b.uni064D_1;
+  pos base glyph1940
+      <anchor 677 687> mark @t.uni064B
+      <anchor 677 -734> mark @b.uni064D_1;
+  pos base glyph1941
+      <anchor 627 724> mark @t.uni064B
+      <anchor 627 -321> mark @b.uni064D_1;
+  pos base glyph1942
+      <anchor 627 1302> mark @t.uni064B
+      <anchor 627 -321> mark @b.uni064D_1;
+  pos base glyph1943
+      <anchor 910 1596> mark @t.uni064B
+      <anchor 910 -319> mark @b.uni064D_1;
+  pos base uni06450647.liga.init.medi
+      <anchor 568 760> mark @t.uni064B
+      <anchor 568 -532> mark @b.uni064D_1;
+  pos base uni064506BE.liga.init.medi
+      <anchor 577 1004> mark @t.uni064B
+      <anchor 577 -238> mark @b.uni064D_1;
+  pos base glyph1946
+      <anchor 303 647> mark @t.uni064B
+      <anchor 303 -1238> mark @b.uni064D_1;
+  pos base uni062E0649.liga.init.fina
+      <anchor 924 1426> mark @t.uni064B
+      <anchor 924 -422> mark @b.uni064D_1;
+  pos base uni062E064A.liga.init.fina
+      <anchor 924 1474> mark @t.uni064B
+      <anchor 924 -898> mark @b.uni064D_1;
+  pos base uni062D0649.liga.init.fina
+      <anchor 924 866> mark @t.uni064B
+      <anchor 924 -422> mark @b.uni064D_1;
+  pos base uni062D064A.liga.init.fina
+      <anchor 924 866> mark @t.uni064B
+      <anchor 924 -920> mark @b.uni064D_1;
+  pos base uni062C0649.liga.init.fina
+      <anchor 924 866> mark @t.uni064B
+      <anchor 924 -432> mark @b.uni064D_1;
+  pos base uni062C064A.liga.init.fina
+      <anchor 924 866> mark @t.uni064B
+      <anchor 924 -786> mark @b.uni064D_1;
+  pos base uni0686064A.liga.init.fina
+      <anchor 924 866> mark @t.uni064B
+      <anchor 924 -864> mark @b.uni064D_1;
+  pos base uni06860649.liga.init.fina
+      <anchor 924 866> mark @t.uni064B
+      <anchor 924 -698> mark @b.uni064D_1;
+  pos base glyph1955
+      <anchor 758 762> mark @t.uni064B
+      <anchor 758 -964> mark @b.uni064D_1;
+  pos base glyph1956
+      <anchor 758 762> mark @t.uni064B
+      <anchor 758 -684> mark @b.uni064D_1;
+  pos base glyph1957
+      <anchor 758 762> mark @t.uni064B
+      <anchor 758 -610> mark @b.uni064D_1;
+  pos base glyph1958
+      <anchor 758 1258> mark @t.uni064B
+      <anchor 758 -610> mark @b.uni064D_1;
+  pos base uni06470645.liga.medi.fina
+      <anchor 737 746> mark @t.uni064B
+      <anchor 737 -594> mark @b.uni064D_1;
+  pos base glyph1960
+      <anchor 688 874> mark @t.uni064B
+      <anchor 688 -556> mark @b.uni064D_1;
+  pos base uni06390649.liga.init.fina
+      <anchor 867 868> mark @t.uni064B
+      <anchor 867 -668> mark @b.uni064D_1;
+  pos base uni063A0649.liga.init.fina
+      <anchor 872 1390> mark @t.uni064B
+      <anchor 872 -668> mark @b.uni064D_1;
+  pos base uni0639064A.liga.init.fina
+      <anchor 867 868> mark @t.uni064B
+      <anchor 867 -1112> mark @b.uni064D_1;
+  pos base uni063A064A.liga.init.fina
+      <anchor 867 1392> mark @t.uni064B
+      <anchor 867 -1122> mark @b.uni064D_1;
+  pos base glyph1965
+      <anchor 739 722> mark @t.uni064B
+      <anchor 739 -620> mark @b.uni064D_1;
+  pos base glyph1966
+      <anchor 739 1292> mark @t.uni064B
+      <anchor 739 -632> mark @b.uni064D_1;
+  pos base uni062806BE.liga.init.medi
+      <anchor 397 1106> mark @t.uni064B
+      <anchor 397 -642> mark @b.uni064D_1;
+  pos base uni062A06BE.liga.init.medi
+      <anchor 397 1698> mark @t.uni064B
+      <anchor 397 -245> mark @b.uni064D_1;
+  pos base uni067906BE.liga.init.medi
+      <anchor 397 1816> mark @t.uni064B
+      <anchor 397 -246> mark @b.uni064D_1;
+  pos base uni062B06BE.liga.init.medi
+      <anchor 397 1868> mark @t.uni064B
+      <anchor 397 -246> mark @b.uni064D_1;
+  pos base uni067E06BE.liga.init.medi
+      <anchor 397 1106> mark @t.uni064B
+      <anchor 397 -842> mark @b.uni064D_1;
+  pos base uni064606BE.liga.init.medi
+      <anchor 397 1704> mark @t.uni064B
+      <anchor 397 -246> mark @b.uni064D_1;
+  pos base uni064A06BE.liga.init.medi
+      <anchor 397 1106> mark @t.uni064B
+      <anchor 397 -818> mark @b.uni064D_1;
+  pos base uni062606BE.liga.init.medi
+      <anchor 397 1828> mark @t.uni064B
+      <anchor 397 -246> mark @b.uni064D_1;
+  pos base uni062806BE0640.liga.init.medi
+      <anchor 492 1106> mark @t.uni064B
+      <anchor 492 -638> mark @b.uni064D_1;
+  pos base uni062A06BE0640.liga.init.medi
+      <anchor 497 1640> mark @t.uni064B
+      <anchor 497 -251> mark @b.uni064D_1;
+  pos base uni067906BE0640.liga.init.medi
+      <anchor 506 1922> mark @t.uni064B
+      <anchor 506 -251> mark @b.uni064D_1;
+  pos base uni062B06BE0640.liga.init.medi
+      <anchor 506 1926> mark @t.uni064B
+      <anchor 506 -251> mark @b.uni064D_1;
+  pos base uni067E06BE0640.liga.init.medi
+      <anchor 502 1106> mark @t.uni064B
+      <anchor 502 -908> mark @b.uni064D_1;
+  pos base uni064606BE0640.liga.init.medi
+      <anchor 506 1750> mark @t.uni064B
+      <anchor 506 -251> mark @b.uni064D_1;
+  pos base uni064A06BE0640.liga.init.medi
+      <anchor 501 1106> mark @t.uni064B
+      <anchor 501 -836> mark @b.uni064D_1;
+  pos base uni062606BE0640.liga.init.medi
+      <anchor 506 1866> mark @t.uni064B
+      <anchor 506 -251> mark @b.uni064D_1;
+  pos base uni062806470645.liga.init.medi.fina
+      <anchor 825 792> mark @t.uni064B
+      <anchor 825 -602> mark @b.uni064D_1;
+  pos base uni064606470645.liga.init.medi.fina
+      <anchor 825 792> mark @t.uni064B
+      <anchor 825 -602> mark @b.uni064D_1;
+  pos base uni064A06470645.liga.init.medi.fina
+      <anchor 825 792> mark @t.uni064B
+      <anchor 825 -1088> mark @b.uni064D_1;
+  pos base uni062A06470645.liga.init.medi.fina
+      <anchor 851 1154> mark @t.uni064B
+      <anchor 851 -602> mark @b.uni064D_1;
+  pos base uni062B06470645.liga.init.medi.fina
+      <anchor 853 1098> mark @t.uni064B
+      <anchor 853 -602> mark @b.uni064D_1;
+  pos base glyph1988
+      <anchor 856 792> mark @t.uni064B
+      <anchor 856 -1142> mark @b.uni064D_1;
+  pos base uni062606470645.liga.init.medi.fina
+      <anchor 867 992> mark @t.uni064B
+      <anchor 867 -602> mark @b.uni064D_1;
+  pos base uni067906470645.liga.init.medi.fina
+      <anchor 832 1000> mark @t.uni064B
+      <anchor 832 -602> mark @b.uni064D_1;
+  pos base glyph1991
+      <anchor 815 779> mark @t.uni064B
+      <anchor 815 -522> mark @b.uni064D_1;
+  pos base glyph1992
+      <anchor 825 792> mark @t.uni064B
+      <anchor 825 -602> mark @b.uni064D_1;
+  pos base uni062806470645.liga.medi.medi.fina
+      <anchor 815 779> mark @t.uni064B
+      <anchor 815 -946> mark @b.uni064D_1;
+  pos base uni064606470645.liga.medi.medi.fina
+      <anchor 815 1202> mark @t.uni064B
+      <anchor 815 -522> mark @b.uni064D_1;
+  pos base uni064A06470645.liga.medi.medi.fina
+      <anchor 815 779> mark @t.uni064B
+      <anchor 815 -1118> mark @b.uni064D_1;
+  pos base uni062A06470645.liga.medi.medi.fina
+      <anchor 815 1244> mark @t.uni064B
+      <anchor 815 -522> mark @b.uni064D_1;
+  pos base uni062B06470645.liga.medi.medi.fina
+      <anchor 815 1494> mark @t.uni064B
+      <anchor 815 -522> mark @b.uni064D_1;
+  pos base glyph1998
+      <anchor 815 779> mark @t.uni064B
+      <anchor 815 -1222> mark @b.uni064D_1;
+  pos base uni062606470645.liga.medi.medi.fina
+      <anchor 815 1408> mark @t.uni064B
+      <anchor 815 -522> mark @b.uni064D_1;
+  pos base uni067906470645.liga.medi.medi.fina
+      <anchor 815 1422> mark @t.uni064B
+      <anchor 815 -522> mark @b.uni064D_1;
+  pos base glyph2001
+      <anchor 917 852> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base glyph2002
+      <anchor 985 784> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base glyph2003
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -424> mark @b.uni064D_1;
+  pos base glyph2004
+      <anchor 1140 790> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base uni06280647062D.liga.init.medi.fina
+      <anchor 917 852> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni06280647062C.liga.init.medi.fina
+      <anchor 917 852> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni06280647062E.liga.init.medi.fina
+      <anchor 917 1412> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni062806470686.liga.init.medi.fina
+      <anchor 917 852> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni06460647062D.liga.init.medi.fina
+      <anchor 917 1266> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni06460647062C.liga.init.medi.fina
+      <anchor 917 1280> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni06460647062E.liga.init.medi.fina
+      <anchor 917 1324> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni064606470686.liga.init.medi.fina
+      <anchor 917 1320> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni064A0647062D.liga.init.medi.fina
+      <anchor 917 852> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni064A0647062C.liga.init.medi.fina
+      <anchor 917 852> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni064A0647062E.liga.init.medi.fina
+      <anchor 917 1162> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni064A06470686.liga.init.medi.fina
+      <anchor 917 852> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni062A0647062D.liga.init.medi.fina
+      <anchor 917 1298> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni062A0647062C.liga.init.medi.fina
+      <anchor 917 1282> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni062A0647062E.liga.init.medi.fina
+      <anchor 917 1374> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni062A06470686.liga.init.medi.fina
+      <anchor 917 1316> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni062B0647062D.liga.init.medi.fina
+      <anchor 917 1528> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni062B0647062C.liga.init.medi.fina
+      <anchor 917 1454> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni062B0647062E.liga.init.medi.fina
+      <anchor 917 1534> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni062B06470686.liga.init.medi.fina
+      <anchor 917 1394> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base glyph2025
+      <anchor 917 852> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base glyph2026
+      <anchor 917 852> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base glyph2027
+      <anchor 917 1076> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base glyph2028
+      <anchor 917 852> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni06260647062D.liga.init.medi.fina
+      <anchor 917 1496> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni06260647062C.liga.init.medi.fina
+      <anchor 917 1582> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni06260647062E.liga.00.init.medi.fina
+      <anchor 920 1114> mark @t.uni064B
+      <anchor 920 -1310> mark @b.uni064D_1;
+  pos base uni062606470686.liga.init.medi.fina
+      <anchor 921 1124> mark @t.uni064B
+      <anchor 921 -1310> mark @b.uni064D_1;
+  pos base uni06790647062D.liga.init.medi.fina
+      <anchor 917 852> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni06790647062C.liga.init.medi.fina
+      <anchor 917 1116> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni06790647062E.liga.init.medi.fina
+      <anchor 917 1506> mark @t.uni064B
+      <anchor 917 -1310> mark @b.uni064D_1;
+  pos base uni067906470686.liga.init.medi.fina
+      <anchor 918 852> mark @t.uni064B
+      <anchor 918 -1310> mark @b.uni064D_1;
+  pos base uni06280647062D.liga.medi.medi.fina
+      <anchor 985 784> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni06280647062C.liga.medi.medi.fina
+      <anchor 985 784> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni06280647062E.liga.medi.medi.fina
+      <anchor 985 1066> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni062806470686.liga.medi.medi.fina
+      <anchor 985 784> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni06460647062D.liga.medi.medi.fina
+      <anchor 985 1098> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni06460647062C.liga.medi.medi.fina
+      <anchor 985 1150> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni06460647062E.liga.medi.medi.fina
+      <anchor 985 1222> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni064606470686.liga.medi.medi.fina
+      <anchor 985 1108> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni064A0647062D.liga.medi.medi.fina
+      <anchor 985 784> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni064A0647062C.liga.medi.medi.fina
+      <anchor 985 784> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni064A0647062E.liga.medi.medi.fina
+      <anchor 985 1094> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni064A06470686.liga.medi.medi.fina
+      <anchor 985 784> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni062A0647062D.liga.medi.medi.fina
+      <anchor 985 1112> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni062A0647062C.liga.medi.medi.fina
+      <anchor 985 1168> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni062A0647062E.liga.medi.medi.fina
+      <anchor 985 1206> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni062A06470686.liga.medi.medi.fina
+      <anchor 985 1164> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni06790647062E.liga.medi.medi.fina
+      <anchor 985 1352> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni062B0647062D.liga.medi.medi.fina
+      <anchor 985 1384> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni062B0647062C.liga.medi.medi.fina
+      <anchor 985 1360> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni062B0647062E.liga.medi.medi.fina
+      <anchor 985 1294> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni062B06470686.liga.medi.medi.fina
+      <anchor 985 1274> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base glyph2058
+      <anchor 985 784> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base glyph2059
+      <anchor 985 784> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base glyph2060
+      <anchor 985 1122> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base glyph2061
+      <anchor 985 784> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni06260647062D.liga.medi.medi.fina
+      <anchor 985 1334> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni06260647062C.liga.medi.medi.fina
+      <anchor 985 1248> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni06260647062E.liga.init.medi.fina
+      <anchor 985 1356> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni062606470686.liga.medi.medi.fina
+      <anchor 985 1342> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni06790647062D.liga.medi.medi.fina
+      <anchor 985 1360> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni067906470686.liga.medi.medi.fina
+      <anchor 985 1456> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base uni06790647062C.liga.medi.medi.fina
+      <anchor 985 1408> mark @t.uni064B
+      <anchor 985 -1542> mark @b.uni064D_1;
+  pos base glyph2069
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -424> mark @b.uni064D_1;
+  pos base glyph2070
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -424> mark @b.uni064D_1;
+  pos base glyph2071
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -424> mark @b.uni064D_1;
+  pos base glyph2072
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -726> mark @b.uni064D_1;
+  pos base uni06280647062C.liga.init.medi.medi
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -526> mark @b.uni064D_1;
+  pos base uni06460647062C.liga.init.medi.medi
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -526> mark @b.uni064D_1;
+  pos base uni064A0647062C.liga.init.medi.medi
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -952> mark @b.uni064D_1;
+  pos base uni062A0647062C.liga.init.medi.medi
+      <anchor 849 1336> mark @t.uni064B
+      <anchor 849 -526> mark @b.uni064D_1;
+  pos base uni062B0647062C.liga.init.medi.medi
+      <anchor 849 1354> mark @t.uni064B
+      <anchor 849 -526> mark @b.uni064D_1;
+  pos base glyph2078
+      <anchor 873 980> mark @t.uni064B
+      <anchor 873 -886> mark @b.uni064D_1;
+  pos base uni06260647062C.liga.init.medi.medi
+      <anchor 849 1382> mark @t.uni064B
+      <anchor 849 -526> mark @b.uni064D_1;
+  pos base uni06790647062C.liga.init.medi.medi
+      <anchor 849 1224> mark @t.uni064B
+      <anchor 849 -526> mark @b.uni064D_1;
+  pos base uni06280647062E.liga.init.medi.medi
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -730> mark @b.uni064D_1;
+  pos base uni06460647062E.liga.init.medi.medi
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -424> mark @b.uni064D_1;
+  pos base uni062A0647062E.liga.init.medi.medi
+      <anchor 852 1332> mark @t.uni064B
+      <anchor 852 -424> mark @b.uni064D_1;
+  pos base uni064A0647062E.liga.init.medi.medi
+      <anchor 850 980> mark @t.uni064B
+      <anchor 850 -748> mark @b.uni064D_1;
+  pos base uni062B0647062E.liga.init.medi.medi
+      <anchor 864 1364> mark @t.uni064B
+      <anchor 864 -424> mark @b.uni064D_1;
+  pos base uni06790647062E.liga.init.medi.medi
+      <anchor 849 1318> mark @t.uni064B
+      <anchor 849 -424> mark @b.uni064D_1;
+  pos base glyph2087
+      <anchor 856 980> mark @t.uni064B
+      <anchor 856 -818> mark @b.uni064D_1;
+  pos base uni06260647062E.liga.init.medi.medi
+      <anchor 858 1060> mark @t.uni064B
+      <anchor 858 -424> mark @b.uni064D_1;
+  pos base uni06280647062D.liga.init.medi.medi
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -768> mark @b.uni064D_1;
+  pos base uni06460647062D.liga.init.medi.medi
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -424> mark @b.uni064D_1;
+  pos base uni064A0647062D.liga.init.medi.medi
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -896> mark @b.uni064D_1;
+  pos base uni062A0647062D.liga.init.medi.medi
+      <anchor 849 1416> mark @t.uni064B
+      <anchor 849 -424> mark @b.uni064D_1;
+  pos base uni062B0647062D.liga.init.medi.medi
+      <anchor 849 1322> mark @t.uni064B
+      <anchor 849 -424> mark @b.uni064D_1;
+  pos base glyph2094
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -964> mark @b.uni064D_1;
+  pos base uni06260647062D.liga.init.medi.medi
+      <anchor 849 1558> mark @t.uni064B
+      <anchor 849 -424> mark @b.uni064D_1;
+  pos base uni06790647062D.liga.init.medi.medi
+      <anchor 849 1232> mark @t.uni064B
+      <anchor 849 -424> mark @b.uni064D_1;
+  pos base uni064606470686.liga.init.medi.medi
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -720> mark @b.uni064D_1;
+  pos base uni062806470686.liga.init.medi.medi
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -720> mark @b.uni064D_1;
+  pos base uni062A06470686.liga.init.medi.medi
+      <anchor 849 1344> mark @t.uni064B
+      <anchor 849 -720> mark @b.uni064D_1;
+  pos base uni064A06470686.liga.init.medi.medi
+      <anchor 849 980> mark @t.uni064B
+      <anchor 849 -768> mark @b.uni064D_1;
+  pos base uni062B06470686.liga.init.medi.medi
+      <anchor 858 1314> mark @t.uni064B
+      <anchor 858 -716> mark @b.uni064D_1;
+  pos base glyph2102
+      <anchor 874 980> mark @t.uni064B
+      <anchor 874 -742> mark @b.uni064D_1;
+  pos base uni062606470686.liga.init.medi.medi
+      <anchor 849 1420> mark @t.uni064B
+      <anchor 849 -720> mark @b.uni064D_1;
+  pos base uni067906470686.liga.init.medi.medi
+      <anchor 849 1138> mark @t.uni064B
+      <anchor 849 -720> mark @b.uni064D_1;
+  pos base glyph2105
+      <anchor 1140 790> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2106
+      <anchor 1140 1286> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2107
+      <anchor 1140 790> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2108
+      <anchor 1140 790> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2109
+      <anchor 1140 790> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2110
+      <anchor 1150 789> mark @t.uni064B
+      <anchor 1150 -604> mark @b.uni064D_1;
+  pos base glyph2111
+      <anchor 1140 1058> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2112
+      <anchor 1161 789> mark @t.uni064B
+      <anchor 1161 -604> mark @b.uni064D_1;
+  pos base glyph2113
+      <anchor 1140 834> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2114
+      <anchor 1204 787> mark @t.uni064B
+      <anchor 1204 -604> mark @b.uni064D_1;
+  pos base glyph2115
+      <anchor 1140 790> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2116
+      <anchor 1140 790> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2117
+      <anchor 1140 1286> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2118
+      <anchor 1140 1286> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2119
+      <anchor 1140 1286> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2120
+      <anchor 1140 1286> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2121
+      <anchor 1140 1286> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2122
+      <anchor 1162 1286> mark @t.uni064B
+      <anchor 1162 -604> mark @b.uni064D_1;
+  pos base glyph2123
+      <anchor 1140 1286> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2124
+      <anchor 1140 1286> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2125
+      <anchor 1140 790> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2126
+      <anchor 1168 788> mark @t.uni064B
+      <anchor 1168 -604> mark @b.uni064D_1;
+  pos base glyph2127
+      <anchor 1140 1024> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2128
+      <anchor 1154 789> mark @t.uni064B
+      <anchor 1154 -604> mark @b.uni064D_1;
+  pos base glyph2129
+      <anchor 1140 1004> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2130
+      <anchor 1211 786> mark @t.uni064B
+      <anchor 1211 -604> mark @b.uni064D_1;
+  pos base glyph2131
+      <anchor 1140 932> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2132
+      <anchor 1140 790> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2133
+      <anchor 1140 790> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2134
+      <anchor 1144 790> mark @t.uni064B
+      <anchor 1144 -604> mark @b.uni064D_1;
+  pos base glyph2135
+      <anchor 1140 1194> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2136
+      <anchor 1146 790> mark @t.uni064B
+      <anchor 1146 -604> mark @b.uni064D_1;
+  pos base glyph2137
+      <anchor 1184 787> mark @t.uni064B
+      <anchor 1184 -604> mark @b.uni064D_1;
+  pos base glyph2138
+      <anchor 1181 788> mark @t.uni064B
+      <anchor 1181 -604> mark @b.uni064D_1;
+  pos base glyph2139
+      <anchor 1140 1124> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base glyph2140
+      <anchor 1140 920> mark @t.uni064B
+      <anchor 1140 -604> mark @b.uni064D_1;
+  pos base uni06430647.liga.init.medi
+      <anchor 733 1544> mark @t.uni064B
+      <anchor 733 -530> mark @b.uni064D_1;
+  pos base uni06430647.liga.medi.medi
+      <anchor 793 1836> mark @t.uni064B
+      <anchor 793 -638> mark @b.uni064D_1;
+  pos base glyph2143
+      <anchor 400 1464> mark @t.uni064B
+      <anchor 400 -532> mark @b.uni064D_1;
+  pos base glyph2144
+      <anchor 595 1562> mark @t.uni064B
+      <anchor 595 -572> mark @b.uni064D_1;
+  pos base glyph2145
+      <anchor 783 778> mark @t.uni064B
+      <anchor 783 -830> mark @b.uni064D_1;
+  pos base uni06410649.liga.medi.fina
+      <anchor 783 1338> mark @t.uni064B
+      <anchor 783 -830> mark @b.uni064D_1;
+  pos base uni06420649.liga.medi.fina
+      <anchor 783 1336> mark @t.uni064B
+      <anchor 783 -830> mark @b.uni064D_1;
+  pos base uni0641064A.liga.medi.fina
+      <anchor 783 1232> mark @t.uni064B
+      <anchor 783 -1252> mark @b.uni064D_1;
+  pos base uni0642064A.liga.medi.fina
+      <anchor 783 1272> mark @t.uni064B
+      <anchor 783 -1264> mark @b.uni064D_1;
+  pos base uni06370649.liga.medi.fina
+      <anchor 1014 1554> mark @t.uni064B
+      <anchor 1014 -758> mark @b.uni064D_1;
+  pos base uni06380649.liga.medi.fina
+      <anchor 1014 1554> mark @t.uni064B
+      <anchor 1014 -758> mark @b.uni064D_1;
+  pos base uni0637064A.liga.medi.fina
+      <anchor 1014 1554> mark @t.uni064B
+      <anchor 1014 -1184> mark @b.uni064D_1;
+  pos base uni0638064A.liga.medi.fina
+      <anchor 1014 1554> mark @t.uni064B
+      <anchor 1014 -1152> mark @b.uni064D_1;
+  pos base uni06390649.liga.medi.fina
+      <anchor 865 742> mark @t.uni064B
+      <anchor 865 -812> mark @b.uni064D_1;
+  pos base uni063A0649.liga.medi.fina
+      <anchor 865 1222> mark @t.uni064B
+      <anchor 865 -812> mark @b.uni064D_1;
+  pos base uni0639064A.liga.medi.fina
+      <anchor 865 742> mark @t.uni064B
+      <anchor 865 -1230> mark @b.uni064D_1;
+  pos base uni063A064A.liga.medi.fina
+      <anchor 865 1214> mark @t.uni064B
+      <anchor 865 -1262> mark @b.uni064D_1;
+  pos base uni062D06BE.liga.init.medi
+      <anchor 753 932> mark @t.uni064B
+      <anchor 753 -249> mark @b.uni064D_1;
+  pos base uni062C06BE.liga.init.medi
+      <anchor 753 932> mark @t.uni064B
+      <anchor 753 -456> mark @b.uni064D_1;
+  pos base uni068606BE.liga.init.medi
+      <anchor 753 932> mark @t.uni064B
+      <anchor 753 -612> mark @b.uni064D_1;
+  pos base uni062E06BE.liga.init.medi
+      <anchor 753 1556> mark @t.uni064B
+      <anchor 753 -249> mark @b.uni064D_1;
+  pos base glyph2162
+      <anchor 664 820> mark @t.uni064B
+      <anchor 664 -672> mark @b.uni064D_1;
+  pos base glyph2163
+      <anchor 664 1438> mark @t.uni064B
+      <anchor 664 -672> mark @b.uni064D_1;
+  pos base glyph2164
+      <anchor 476 874> mark @t.uni064B
+      <anchor 476 -530> mark @b.uni064D_1;
+  pos base glyph2165
+      <anchor 476 1524> mark @t.uni064B
+      <anchor 476 -530> mark @b.uni064D_1;
+  pos base glyph2166
+      <anchor 476 1600> mark @t.uni064B
+      <anchor 476 -530> mark @b.uni064D_1;
+  pos base uni06330645.liga.medi.fina
+      <anchor 840 766> mark @t.uni064B
+      <anchor 840 -260> mark @b.uni064D_1;
+  pos base uni06340645.liga.medi.fina
+      <anchor 840 1234> mark @t.uni064B
+      <anchor 840 -260> mark @b.uni064D_1;
+  pos base glyph2169
+      <anchor 698 1572> mark @t.uni064B
+      <anchor 698 -636> mark @b.uni064D_1;
+  pos base glyph2170
+      <anchor 698 1572> mark @t.uni064B
+      <anchor 698 -636> mark @b.uni064D_1;
+  pos base uni06370649.liga.init.fina
+      <anchor 989 1564> mark @t.uni064B
+      <anchor 989 -716> mark @b.uni064D_1;
+  pos base uni0637064A.liga.init.fina
+      <anchor 989 1564> mark @t.uni064B
+      <anchor 989 -1040> mark @b.uni064D_1;
+  pos base uni06380649.liga.init.fina
+      <anchor 989 1564> mark @t.uni064B
+      <anchor 989 -716> mark @b.uni064D_1;
+  pos base uni0638064A.liga.init.fina
+      <anchor 989 1564> mark @t.uni064B
+      <anchor 989 -1072> mark @b.uni064D_1;
+  pos base uni06470649.liga.medi.fina
+      <anchor 1029 727> mark @t.uni064B
+      <anchor 1029 -716> mark @b.uni064D_1;
+  pos base uni0647064A.liga.medi.fina
+      <anchor 1033 727> mark @t.uni064B
+      <anchor 1033 -1134> mark @b.uni064D_1;
+  pos base glyph2177
+      <anchor 1164 739> mark @t.uni064B
+      <anchor 1164 -676> mark @b.uni064D_1;
+  pos base uni062806470649.liga.medi.medi.fina
+      <anchor 1164 739> mark @t.uni064B
+      <anchor 1164 -676> mark @b.uni064D_1;
+  pos base uni064606470649.liga.medi.medi.fina
+      <anchor 1164 1202> mark @t.uni064B
+      <anchor 1164 -676> mark @b.uni064D_1;
+  pos base uni064A06470649.liga.medi.medi.fina
+      <anchor 1164 739> mark @t.uni064B
+      <anchor 1164 -1008> mark @b.uni064D_1;
+  pos base uni062A06470649.liga.medi.medi.fina
+      <anchor 1164 1158> mark @t.uni064B
+      <anchor 1164 -676> mark @b.uni064D_1;
+  pos base uni062B06470649.liga.medi.medi.fina
+      <anchor 1164 1276> mark @t.uni064B
+      <anchor 1164 -676> mark @b.uni064D_1;
+  pos base uni067E06470649.liga.medi.medi.fina
+      <anchor 1164 739> mark @t.uni064B
+      <anchor 1164 -1040> mark @b.uni064D_1;
+  pos base uni062606470649.liga.medi.medi.fina
+      <anchor 1164 978> mark @t.uni064B
+      <anchor 1164 -676> mark @b.uni064D_1;
+  pos base uni067906470649.liga.medi.medi.fina
+      <anchor 1164 1034> mark @t.uni064B
+      <anchor 1164 -676> mark @b.uni064D_1;
+  pos base uni06280647064A.liga.medi.medi.fina
+      <anchor 1164 739> mark @t.uni064B
+      <anchor 1164 -1050> mark @b.uni064D_1;
+  pos base uni06460647064A.liga.medi.medi.fina
+      <anchor 1164 1144> mark @t.uni064B
+      <anchor 1164 -1028> mark @b.uni064D_1;
+  pos base uni064A0647064A.liga.medi.medi.fina
+      <anchor 1168 739> mark @t.uni064B
+      <anchor 1168 -1102> mark @b.uni064D_1;
+  pos base uni062A0647064A.liga.medi.medi.fina
+      <anchor 1164 1158> mark @t.uni064B
+      <anchor 1164 -1084> mark @b.uni064D_1;
+  pos base uni062B0647064A.liga.medi.medi.fina
+      <anchor 1164 1246> mark @t.uni064B
+      <anchor 1164 -1102> mark @b.uni064D_1;
+  pos base uni067E0647064A.liga.medi.medi.fina
+      <anchor 1159 739> mark @t.uni064B
+      <anchor 1159 -1146> mark @b.uni064D_1;
+  pos base uni06260647064A.liga.medi.medi.fina
+      <anchor 1164 960> mark @t.uni064B
+      <anchor 1164 -1058> mark @b.uni064D_1;
+  pos base uni06790647064A.liga.medi.medi.fina
+      <anchor 1164 1030> mark @t.uni064B
+      <anchor 1164 -1144> mark @b.uni064D_1;
+  pos base glyph2194
+      <anchor 676 1172> mark @t.uni064B
+      <anchor 676 -269> mark @b.uni064D_1;
+  pos base uni0628062D0645.liga.init.medi.medi
+      <anchor 676 1172> mark @t.uni064B
+      <anchor 676 -288> mark @b.uni064D_1;
+  pos base uni0646062D0645.liga.init.medi.medi
+      <anchor 676 1830> mark @t.uni064B
+      <anchor 676 -269> mark @b.uni064D_1;
+  pos base uni062A062D0645.liga.init.medi.medi
+      <anchor 676 1952> mark @t.uni064B
+      <anchor 676 -269> mark @b.uni064D_1;
+  pos base uni064A062D0645.liga.init.medi.medi
+      <anchor 676 1172> mark @t.uni064B
+      <anchor 676 -294> mark @b.uni064D_1;
+  pos base uni062B062D0645.liga.init.medi.medi
+      <anchor 676 1912> mark @t.uni064B
+      <anchor 676 -269> mark @b.uni064D_1;
+  pos base uni067E062D0645.liga.init.medi.medi
+      <anchor 691 1172> mark @t.uni064B
+      <anchor 691 -321> mark @b.uni064D_1;
+  pos base uni0626062D0645.liga.init.medi.medi
+      <anchor 676 1964> mark @t.uni064B
+      <anchor 676 -269> mark @b.uni064D_1;
+  pos base uni0679062D0645.liga.init.medi.medi
+      <anchor 676 1916> mark @t.uni064B
+      <anchor 676 -269> mark @b.uni064D_1;
+  pos base uni0628062C0645.liga.init.medi.medi
+      <anchor 676 1172> mark @t.uni064B
+      <anchor 676 -450> mark @b.uni064D_1;
+  pos base uni0646062C0645.liga.init.medi.medi
+      <anchor 676 1830> mark @t.uni064B
+      <anchor 676 -418> mark @b.uni064D_1;
+  pos base uni062A062C0645.liga.init.medi.medi
+      <anchor 676 1952> mark @t.uni064B
+      <anchor 676 -536> mark @b.uni064D_1;
+  pos base uni064A062C0645.liga.init.medi.medi
+      <anchor 676 1172> mark @t.uni064B
+      <anchor 676 -612> mark @b.uni064D_1;
+  pos base uni062B062C0645.liga.init.medi.medi
+      <anchor 676 1912> mark @t.uni064B
+      <anchor 676 -434> mark @b.uni064D_1;
+  pos base uni067E062C0645.liga.init.medi.medi
+      <anchor 686 1172> mark @t.uni064B
+      <anchor 686 -322> mark @b.uni064D_1;
+  pos base uni0626062C0645.liga.init.medi.medi
+      <anchor 676 1962> mark @t.uni064B
+      <anchor 676 -354> mark @b.uni064D_1;
+  pos base uni0679062C0645.liga.init.medi.medi
+      <anchor 676 1916> mark @t.uni064B
+      <anchor 676 -412> mark @b.uni064D_1;
+  pos base uni0628062E0645.liga.init.medi.medi
+      <anchor 676 1488> mark @t.uni064B
+      <anchor 676 -282> mark @b.uni064D_1;
+  pos base uni0646062E0645.liga.init.medi.medi
+      <anchor 676 1830> mark @t.uni064B
+      <anchor 676 -269> mark @b.uni064D_1;
+  pos base uni062A062E0645.liga.init.medi.medi
+      <anchor 676 1952> mark @t.uni064B
+      <anchor 676 -269> mark @b.uni064D_1;
+  pos base uni064A062E0645.liga.init.medi.medi
+      <anchor 676 1618> mark @t.uni064B
+      <anchor 676 -295> mark @b.uni064D_1;
+  pos base uni062B062E0645.liga.init.medi.medi
+      <anchor 676 1912> mark @t.uni064B
+      <anchor 676 -269> mark @b.uni064D_1;
+  pos base uni067E062E0645.liga.init.medi.medi
+      <anchor 686 1630> mark @t.uni064B
+      <anchor 686 -322> mark @b.uni064D_1;
+  pos base uni0626062E0645.liga.init.medi.medi
+      <anchor 676 1962> mark @t.uni064B
+      <anchor 676 -269> mark @b.uni064D_1;
+  pos base uni0679062E0645.liga.init.medi.medi
+      <anchor 676 1916> mark @t.uni064B
+      <anchor 676 -269> mark @b.uni064D_1;
+  pos base uni062806860645.liga.init.medi.medi
+      <anchor 676 1172> mark @t.uni064B
+      <anchor 676 -758> mark @b.uni064D_1;
+  pos base uni064606860645.liga.init.medi.medi
+      <anchor 676 1830> mark @t.uni064B
+      <anchor 676 -680> mark @b.uni064D_1;
+  pos base uni062A06860645.liga.init.medi.medi
+      <anchor 676 1952> mark @t.uni064B
+      <anchor 676 -698> mark @b.uni064D_1;
+  pos base uni064A06860645.liga.init.medi.medi
+      <anchor 676 1172> mark @t.uni064B
+      <anchor 676 -848> mark @b.uni064D_1;
+  pos base uni062B06860645.liga.init.medi.medi
+      <anchor 676 1912> mark @t.uni064B
+      <anchor 676 -678> mark @b.uni064D_1;
+  pos base uni062606860645.liga.init.medi.medi
+      <anchor 676 1962> mark @t.uni064B
+      <anchor 676 -652> mark @b.uni064D_1;
+  pos base uni067E06860645.liga.init.medi.medi
+      <anchor 686 1172> mark @t.uni064B
+      <anchor 686 -808> mark @b.uni064D_1;
+  pos base uni067906860645.liga.init.medi.medi
+      <anchor 676 1916> mark @t.uni064B
+      <anchor 676 -692> mark @b.uni064D_1;
+  pos base glyph2227
+      <anchor 921 700> mark @t.uni064B
+      <anchor 921 -698> mark @b.uni064D_1;
+  pos base glyph2228
+      <anchor 922 700> mark @t.uni064B
+      <anchor 922 -1134> mark @b.uni064D_1;
+  pos base MHMD.liga
+      <anchor 999 1278> mark @t.uni064B
+      <anchor 999 -253> mark @b.uni064D_1;
+  pos base uni0645062C0645062F.init.medi.medi.fina
+      <anchor 999 1278> mark @t.uni064B
+      <anchor 999 -346> mark @b.uni064D_1;
+  pos base uni0645062E0645062F.init.medi.medi.fina
+      <anchor 999 1770> mark @t.uni064B
+      <anchor 999 -253> mark @b.uni064D_1;
+  pos base glyph2232
+      <anchor 999 1278> mark @t.uni064B
+      <anchor 999 -610> mark @b.uni064D_1;
+  pos base glyph2233
+      <anchor 813 1312> mark @t.uni064B
+      <anchor 813 -247> mark @b.uni064D_1;
+  pos base uni0647063306D2.liga.init.medi.fina
+      <anchor 1004 1210> mark @t.uni064B
+      <anchor 1004 -249> mark @b.uni064D_1;
+  pos base uni062806BE06D2.liga.init.medi.fina
+      <anchor 813 1312> mark @t.uni064B
+      <anchor 813 -494> mark @b.uni064D_1;
+  pos base uni064606BE06D2.liga.init.medi.fina
+      <anchor 813 1802> mark @t.uni064B
+      <anchor 813 -247> mark @b.uni064D_1;
+  pos base uni064A06BE06D2.liga.init.medi.fina
+      <anchor 813 1312> mark @t.uni064B
+      <anchor 813 -552> mark @b.uni064D_1;
+  pos base uni062A06BE06D2.liga.init.medi.fina
+      <anchor 813 1904> mark @t.uni064B
+      <anchor 813 -247> mark @b.uni064D_1;
+  pos base uni062B06BE06D2.liga.init.medi.fina
+      <anchor 813 2048> mark @t.uni064B
+      <anchor 813 -247> mark @b.uni064D_1;
+  pos base uni067E06BE06D2.liga.init.medi.fina
+      <anchor 813 1312> mark @t.uni064B
+      <anchor 813 -686> mark @b.uni064D_1;
+  pos base uni062606BE06D2.liga.init.medi.fina
+      <anchor 813 2010> mark @t.uni064B
+      <anchor 813 -247> mark @b.uni064D_1;
+  pos base uni067906BE06D2.liga.init.medi.fina
+      <anchor 813 1990> mark @t.uni064B
+      <anchor 813 -247> mark @b.uni064D_1;
+  pos base uni0647063406D2.liga.init.medi.fina
+      <anchor 1004 1618> mark @t.uni064B
+      <anchor 1004 -249> mark @b.uni064D_1;
+  pos base glyph2244
+      <anchor 553 1404> mark @t.uni064B
+      <anchor 553 -247> mark @b.uni064D_1;
+  pos base glyph2245
+      <anchor 427 665> mark @t.uni064B
+      <anchor 427 -634> mark @b.uni064D_1;
+  pos base glyph2246
+      <anchor 421 884> mark @t.uni064B
+      <anchor 421 -634> mark @b.uni064D_1;
+  pos base glyph2247
+      <anchor 130 808> mark @t.uni064B
+      <anchor 130 -293> mark @b.uni064D_1;
+  pos base glyph2248
+      <anchor 135 1480> mark @t.uni064B
+      <anchor 135 -294> mark @b.uni064D_1;
+  pos base glyph2249
+      <anchor 463 1560> mark @t.uni064B
+      <anchor 463 -275> mark @b.uni064D_1;
+  pos base glyph2250
+      <anchor 728 1042> mark @t.uni064B
+      <anchor 728 -259> mark @b.uni064D_1;
+  pos base glyph2251
+      <anchor 736 1020> mark @t.uni064B
+      <anchor 736 -566> mark @b.uni064D_1;
+  pos base glyph2252
+      <anchor 329 1120> mark @t.uni064B
+      <anchor 329 -634> mark @b.uni064D_1;
+  pos base uni06370645.liga.init.medi
+      <anchor 594 1638> mark @t.uni064B
+      <anchor 594 -278> mark @b.uni064D_1;
+  pos base uni06380645.liga.init.medi
+      <anchor 594 1638> mark @t.uni064B
+      <anchor 594 -278> mark @b.uni064D_1;
+  pos base uni063306450627.liga.init.medi.fina
+      <anchor 733 788> mark @t.uni064B
+      <anchor 733 -278> mark @b.uni064D_1;
+  pos base uni063406450627.liga.init.medi.fina
+      <anchor 733 1312> mark @t.uni064B
+      <anchor 733 -278> mark @b.uni064D_1;
+  pos base uni063506450627.liga.init.medi.fina
+      <anchor 810 884> mark @t.uni064B
+      <anchor 810 -278> mark @b.uni064D_1;
+  pos base uni063606450627.liga.init.medi.fina
+      <anchor 810 1238> mark @t.uni064B
+      <anchor 810 -278> mark @b.uni064D_1;
+  pos base uni06430647.liga.init.fina
+      <anchor 992 1896> mark @t.uni064B
+      <anchor 992 -252> mark @b.uni064D_1;
+  pos base uni06430629.liga.init.fina
+      <anchor 976 1894> mark @t.uni064B
+      <anchor 976 -252> mark @b.uni064D_1;
+  pos base glyph2261
+      <anchor 992 2116> mark @t.uni064B
+      <anchor 992 -252> mark @b.uni064D_1;
+  pos base uni06AF0629.liga.init.fina
+      <anchor 992 2112> mark @t.uni064B
+      <anchor 992 -252> mark @b.uni064D_1;
+  pos base glyph2263
+      <anchor 428 748> mark @t.uni064B
+      <anchor 428 -211> mark @b.uni064D_1;
+  pos base glyph2264
+      <anchor 123 768> mark @t.uni064B
+      <anchor 123 -668> mark @b.uni064D_1;
+  pos base glyph2265
+      <anchor 125 768> mark @t.uni064B
+      <anchor 125 -678> mark @b.uni064D_1;
+  pos base glyph2266
+      <anchor 156 821> mark @t.uni064B
+      <anchor 156 -682> mark @b.uni064D_1;
+  pos base glyph2267
+      <anchor 209 768> mark @t.uni064B
+      <anchor 209 -744> mark @b.uni064D_1;
+  pos base glyph2268
+      <anchor 211 768> mark @t.uni064B
+      <anchor 211 -732> mark @b.uni064D_1;
+  pos base glyph2269
+      <anchor 207 821> mark @t.uni064B
+      <anchor 207 -742> mark @b.uni064D_1;
+  pos base glyph2270
+      <anchor 50 768> mark @t.uni064B
+      <anchor 50 -862> mark @b.uni064D_1;
+  pos base glyph2271
+      <anchor 24 758> mark @t.uni064B
+      <anchor 24 -864> mark @b.uni064D_1;
+  pos base glyph2272
+      <anchor 129 821> mark @t.uni064B
+      <anchor 129 -874> mark @b.uni064D_1;
+  pos base uni062606D2.liga.init.fina
+      <anchor 831 1550> mark @t.uni064B
+      <anchor 831 -257> mark @b.uni064D_1;
+  pos base uni064A06D2.liga.init.fina
+      <anchor 831 1042> mark @t.uni064B
+      <anchor 831 -468> mark @b.uni064D_1;
+  pos base glyph2275
+      <anchor 821 782> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0628062806D2.liga.medi.medi.fina
+      <anchor 821 782> mark @t.uni064B
+      <anchor 821 -808> mark @b.uni064D_1;
+  pos base uni0628064606D2.liga.medi.medi.fina
+      <anchor 821 802> mark @t.uni064B
+      <anchor 821 -808> mark @b.uni064D_1;
+  pos base uni0628062A06D2.liga.medi.medi.fina
+      <anchor 821 817> mark @t.uni064B
+      <anchor 821 -794> mark @b.uni064D_1;
+  pos base uni0628064A06D2.liga.medi.medi.fina
+      <anchor 821 782> mark @t.uni064B
+      <anchor 821 -858> mark @b.uni064D_1;
+  pos base uni0628062B06D2.liga.medi.medi.fina
+      <anchor 821 1056> mark @t.uni064B
+      <anchor 821 -836> mark @b.uni064D_1;
+  pos base uni0628067E06D2.liga.medi.medi.fina
+      <anchor 821 782> mark @t.uni064B
+      <anchor 821 -946> mark @b.uni064D_1;
+  pos base uni0628062606D2.liga.medi.medi.fina
+      <anchor 821 958> mark @t.uni064B
+      <anchor 821 -842> mark @b.uni064D_1;
+  pos base uni0628067906D2.liga.medi.medi.fina
+      <anchor 821 1130> mark @t.uni064B
+      <anchor 821 -828> mark @b.uni064D_1;
+  pos base uni0646062806D2.liga.medi.medi.fina
+      <anchor 821 1072> mark @t.uni064B
+      <anchor 821 -820> mark @b.uni064D_1;
+  pos base uni0646064606D2.liga.medi.medi.fina
+      <anchor 821 1084> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0646062A06D2.liga.medi.medi.fina
+      <anchor 821 1194> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0646064A06D2.liga.medi.medi.fina
+      <anchor 821 1172> mark @t.uni064B
+      <anchor 821 -886> mark @b.uni064D_1;
+  pos base uni0646062B06D2.liga.medi.medi.fina
+      <anchor 821 1164> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0646067E06D2.liga.medi.medi.fina
+      <anchor 821 1178> mark @t.uni064B
+      <anchor 821 -986> mark @b.uni064D_1;
+  pos base uni0646062606D2.liga.medi.medi.fina
+      <anchor 821 1128> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0646067906D2.liga.medi.medi.fina
+      <anchor 821 1194> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni062A064606D2.liga.medi.medi.fina
+      <anchor 821 1144> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni062A062806D2.liga.medi.medi.fina
+      <anchor 821 1154> mark @t.uni064B
+      <anchor 821 -894> mark @b.uni064D_1;
+  pos base uni062A062A06D2.liga.medi.medi.fina
+      <anchor 821 1172> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni062A064A06D2.liga.medi.medi.fina
+      <anchor 821 1134> mark @t.uni064B
+      <anchor 821 -838> mark @b.uni064D_1;
+  pos base uni062A062B06D2.liga.medi.medi.fina
+      <anchor 821 1248> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni062A067E06D2.liga.medi.medi.fina
+      <anchor 821 1124> mark @t.uni064B
+      <anchor 821 -1084> mark @b.uni064D_1;
+  pos base uni062A062606D2.liga.medi.medi.fina
+      <anchor 821 1210> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni062A067906D2.liga.medi.medi.fina
+      <anchor 821 1210> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni064A062806D2.liga.medi.medi.fina
+      <anchor 821 782> mark @t.uni064B
+      <anchor 821 -914> mark @b.uni064D_1;
+  pos base uni064A064606D2.liga.medi.medi.fina
+      <anchor 821 896> mark @t.uni064B
+      <anchor 821 -858> mark @b.uni064D_1;
+  pos base uni064A062A06D2.liga.medi.medi.fina
+      <anchor 821 1048> mark @t.uni064B
+      <anchor 821 -924> mark @b.uni064D_1;
+  pos base uni064A064A06D2.liga.medi.medi.fina
+      <anchor 821 782> mark @t.uni064B
+      <anchor 821 -1028> mark @b.uni064D_1;
+  pos base uni064A062B06D2.liga.medi.medi.fina
+      <anchor 821 1142> mark @t.uni064B
+      <anchor 821 -848> mark @b.uni064D_1;
+  pos base uni064A067E06D2.liga.medi.medi.fina
+      <anchor 821 782> mark @t.uni064B
+      <anchor 821 -1076> mark @b.uni064D_1;
+  pos base uni064A062606D2.liga.medi.medi.fina
+      <anchor 821 1116> mark @t.uni064B
+      <anchor 821 -896> mark @b.uni064D_1;
+  pos base uni064A067906D2.liga.medi.medi.fina
+      <anchor 821 1158> mark @t.uni064B
+      <anchor 821 -886> mark @b.uni064D_1;
+  pos base uni062B064606D2.liga.medi.medi.fina
+      <anchor 821 1436> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni062B062806D2.liga.medi.medi.fina
+      <anchor 821 1340> mark @t.uni064B
+      <anchor 821 -950> mark @b.uni064D_1;
+  pos base uni062B062A06D2.liga.medi.medi.fina
+      <anchor 821 1408> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni062B064A06D2.liga.medi.medi.fina
+      <anchor 821 1380> mark @t.uni064B
+      <anchor 821 -828> mark @b.uni064D_1;
+  pos base uni062B062B06D2.liga.medi.medi.fina
+      <anchor 821 1418> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni062B067E06D2.liga.medi.medi.fina
+      <anchor 821 1294> mark @t.uni064B
+      <anchor 821 -1094> mark @b.uni064D_1;
+  pos base uni062B062606D2.liga.medi.medi.fina
+      <anchor 821 1398> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni062B067906D2.liga.medi.medi.fina
+      <anchor 821 1380> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni067E062806D2.liga.medi.medi.fina
+      <anchor 821 782> mark @t.uni064B
+      <anchor 821 -1122> mark @b.uni064D_1;
+  pos base uni067E064606D2.liga.medi.medi.fina
+      <anchor 821 962> mark @t.uni064B
+      <anchor 821 -1170> mark @b.uni064D_1;
+  pos base uni067E064A06D2.liga.medi.medi.fina
+      <anchor 821 782> mark @t.uni064B
+      <anchor 821 -1076> mark @b.uni064D_1;
+  pos base uni067E062A06D2.liga.medi.medi.fina
+      <anchor 821 992> mark @t.uni064B
+      <anchor 821 -1084> mark @b.uni064D_1;
+  pos base uni067E062B06D2.liga.medi.medi.fina
+      <anchor 821 1208> mark @t.uni064B
+      <anchor 821 -1190> mark @b.uni064D_1;
+  pos base uni067E067E06D2.liga.medi.medi.fina
+      <anchor 821 782> mark @t.uni064B
+      <anchor 821 -1322> mark @b.uni064D_1;
+  pos base uni067E062606D2.liga.medi.medi.fina
+      <anchor 821 1126> mark @t.uni064B
+      <anchor 821 -1132> mark @b.uni064D_1;
+  pos base uni067E067906D2.liga.medi.medi.fina
+      <anchor 821 1216> mark @t.uni064B
+      <anchor 821 -1180> mark @b.uni064D_1;
+  pos base uni0626062806D2.liga.medi.medi.fina
+      <anchor 821 1296> mark @t.uni064B
+      <anchor 821 -856> mark @b.uni064D_1;
+  pos base uni0626064606D2.liga.medi.medi.fina
+      <anchor 821 1412> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0626064A06D2.liga.medi.medi.fina
+      <anchor 821 1372> mark @t.uni064B
+      <anchor 821 -924> mark @b.uni064D_1;
+  pos base uni0626062A06D2.liga.medi.medi.fina
+      <anchor 821 1430> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0626062B06D2.liga.medi.medi.fina
+      <anchor 821 1458> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0626067E06D2.liga.medi.medi.fina
+      <anchor 821 1392> mark @t.uni064B
+      <anchor 821 -1038> mark @b.uni064D_1;
+  pos base uni0626062606D2.liga.medi.medi.fina
+      <anchor 821 1468> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0626067906D2.liga.medi.medi.fina
+      <anchor 821 1430> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0679062806D2.liga.medi.medi.fina
+      <anchor 821 1330> mark @t.uni064B
+      <anchor 821 -846> mark @b.uni064D_1;
+  pos base uni0679064606D2.liga.medi.medi.fina
+      <anchor 821 1368> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0679062A06D2.liga.medi.medi.fina
+      <anchor 821 1462> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0679064A06D2.liga.medi.medi.fina
+      <anchor 821 1292> mark @t.uni064B
+      <anchor 821 -876> mark @b.uni064D_1;
+  pos base uni0679062B06D2.liga.medi.medi.fina
+      <anchor 821 1482> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0679067E06D2.liga.medi.medi.fina
+      <anchor 821 1378> mark @t.uni064B
+      <anchor 821 -1028> mark @b.uni064D_1;
+  pos base uni0679062606D2.liga.medi.medi.fina
+      <anchor 821 1444> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0679067906D2.liga.medi.medi.fina
+      <anchor 821 1416> mark @t.uni064B
+      <anchor 821 -488> mark @b.uni064D_1;
+  pos base uni0628062806D2.liga.init.medi.fina
+      <anchor 852 892> mark @t.uni064B
+      <anchor 852 -536> mark @b.uni064D_1;
+  pos base uni0628064606D2.liga.init.medi.fina
+      <anchor 852 1412> mark @t.uni064B
+      <anchor 852 -436> mark @b.uni064D_1;
+  pos base uni0628062A06D2.liga.init.medi.fina
+      <anchor 852 1408> mark @t.uni064B
+      <anchor 852 -526> mark @b.uni064D_1;
+  pos base uni0628064A06D2.liga.init.medi.fina
+      <anchor 852 892> mark @t.uni064B
+      <anchor 852 -572> mark @b.uni064D_1;
+  pos base uni0628062B06D2.liga.init.medi.fina
+      <anchor 852 1524> mark @t.uni064B
+      <anchor 852 -398> mark @b.uni064D_1;
+  pos base glyph2345
+      <anchor 852 892> mark @t.uni064B
+      <anchor 852 -692> mark @b.uni064D_1;
+  pos base uni0628062606D2.liga.init.medi.fina
+      <anchor 852 1496> mark @t.uni064B
+      <anchor 852 -462> mark @b.uni064D_1;
+  pos base uni0628067906D2.liga.init.medi.fina
+      <anchor 852 1574> mark @t.uni064B
+      <anchor 852 -506> mark @b.uni064D_1;
+  pos base uni0646062806D2.liga.init.medi.fina
+      <anchor 852 1508> mark @t.uni064B
+      <anchor 852 -522> mark @b.uni064D_1;
+  pos base uni0646064606D2.liga.init.medi.fina
+      <anchor 852 1620> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0646062A06D2.liga.init.medi.fina
+      <anchor 852 1516> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0646064A06D2.liga.init.medi.fina
+      <anchor 852 1522> mark @t.uni064B
+      <anchor 852 -512> mark @b.uni064D_1;
+  pos base uni0646062B06D2.liga.init.medi.fina
+      <anchor 852 1520> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0646067E06D2.liga.init.medi.fina
+      <anchor 852 1366> mark @t.uni064B
+      <anchor 852 -664> mark @b.uni064D_1;
+  pos base uni0646062606D2.liga.init.medi.fina
+      <anchor 852 1396> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0646067906D2.liga.init.medi.fina
+      <anchor 852 1460> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni062A062806D2.liga.init.medi.fina
+      <anchor 852 1406> mark @t.uni064B
+      <anchor 852 -444> mark @b.uni064D_1;
+  pos base uni062A064606D2.liga.init.medi.fina
+      <anchor 852 1440> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni062A062A06D2.liga.init.medi.fina
+      <anchor 852 1384> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni062A064A06D2.liga.init.medi.fina
+      <anchor 852 1440> mark @t.uni064B
+      <anchor 852 -504> mark @b.uni064D_1;
+  pos base uni062A062B06D2.liga.init.medi.fina
+      <anchor 852 1672> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni062A067E06D2.liga.init.medi.fina
+      <anchor 852 1466> mark @t.uni064B
+      <anchor 852 -690> mark @b.uni064D_1;
+  pos base uni062A062606D2.liga.init.medi.fina
+      <anchor 852 1726> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni062A067906D2.liga.init.medi.fina
+      <anchor 852 1650> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni064A062806D2.liga.init.medi.fina
+      <anchor 852 892> mark @t.uni064B
+      <anchor 852 -528> mark @b.uni064D_1;
+  pos base uni064A064606D2.liga.init.medi.fina
+      <anchor 852 1426> mark @t.uni064B
+      <anchor 852 -538> mark @b.uni064D_1;
+  pos base uni064A062A06D2.liga.init.medi.fina
+      <anchor 852 1604> mark @t.uni064B
+      <anchor 852 -664> mark @b.uni064D_1;
+  pos base uni064A064A06D2.liga.init.medi.fina
+      <anchor 852 892> mark @t.uni064B
+      <anchor 852 -642> mark @b.uni064D_1;
+  pos base uni064A062B06D2.liga.init.medi.fina
+      <anchor 852 1614> mark @t.uni064B
+      <anchor 852 -534> mark @b.uni064D_1;
+  pos base uni064A062606D2.liga.init.medi.fina
+      <anchor 852 1584> mark @t.uni064B
+      <anchor 852 -452> mark @b.uni064D_1;
+  pos base uni064A067906D2.liga.init.medi.fina
+      <anchor 852 1558> mark @t.uni064B
+      <anchor 852 -502> mark @b.uni064D_1;
+  pos base uni064A067E06D2.liga.init.medi.fina
+      <anchor 852 892> mark @t.uni064B
+      <anchor 852 -916> mark @b.uni064D_1;
+  pos base uni062B064606D2.liga.init.medi.fina
+      <anchor 852 1784> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni062B062806D2.liga.init.medi.fina
+      <anchor 852 1670> mark @t.uni064B
+      <anchor 852 -548> mark @b.uni064D_1;
+  pos base uni062B062A06D2.liga.init.medi.fina
+      <anchor 852 1740> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni062B064A06D2.liga.init.medi.fina
+      <anchor 852 1750> mark @t.uni064B
+      <anchor 852 -636> mark @b.uni064D_1;
+  pos base uni062B062B06D2.liga.init.medi.fina
+      <anchor 852 1834> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni062B067E06D2.liga.init.medi.fina
+      <anchor 852 1800> mark @t.uni064B
+      <anchor 852 -684> mark @b.uni064D_1;
+  pos base uni062B062606D2.liga.init.medi.fina
+      <anchor 852 1750> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni062B067906D2.liga.init.medi.fina
+      <anchor 852 1822> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni067E064606D2.liga.init.medi.fina
+      <anchor 852 1410> mark @t.uni064B
+      <anchor 852 -834> mark @b.uni064D_1;
+  pos base uni067E062806D2.liga.init.medi.fina
+      <anchor 852 892> mark @t.uni064B
+      <anchor 852 -746> mark @b.uni064D_1;
+  pos base uni067E062A06D2.liga.init.medi.fina
+      <anchor 852 1466> mark @t.uni064B
+      <anchor 852 -722> mark @b.uni064D_1;
+  pos base uni067E064A06D2.liga.init.medi.fina
+      <anchor 852 892> mark @t.uni064B
+      <anchor 852 -860> mark @b.uni064D_1;
+  pos base uni067E062606D2.liga.init.medi.fina
+      <anchor 852 1522> mark @t.uni064B
+      <anchor 852 -898> mark @b.uni064D_1;
+  pos base uni067E067906D2.liga.init.medi.fina
+      <anchor 852 1532> mark @t.uni064B
+      <anchor 852 -734> mark @b.uni064D_1;
+  pos base uni067E062B06D2.liga.init.medi.fina
+      <anchor 852 1706> mark @t.uni064B
+      <anchor 852 -708> mark @b.uni064D_1;
+  pos base uni067E067E06D2.liga.init.medi.fina
+      <anchor 852 892> mark @t.uni064B
+      <anchor 852 -924> mark @b.uni064D_1;
+  pos base uni0626062806D2.liga.init.medi.fina
+      <anchor 852 1680> mark @t.uni064B
+      <anchor 852 -480> mark @b.uni064D_1;
+  pos base uni0626064606D2.liga.init.medi.fina
+      <anchor 852 1778> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0626062A06D2.liga.init.medi.fina
+      <anchor 852 1790> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0626064A06D2.liga.init.medi.fina
+      <anchor 852 1718> mark @t.uni064B
+      <anchor 852 -580> mark @b.uni064D_1;
+  pos base uni0626062B06D2.liga.init.medi.fina
+      <anchor 852 1750> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0626067E06D2.liga.init.medi.fina
+      <anchor 852 1608> mark @t.uni064B
+      <anchor 852 -640> mark @b.uni064D_1;
+  pos base uni0626062606D2.liga.init.medi.fina
+      <anchor 852 1794> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0626067906D2.liga.init.medi.fina
+      <anchor 852 1582> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0679062806D2.liga.init.medi.fina
+      <anchor 852 1598> mark @t.uni064B
+      <anchor 852 -556> mark @b.uni064D_1;
+  pos base uni0679064606D2.liga.init.medi.fina
+      <anchor 852 1740> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0679062A06D2.liga.init.medi.fina
+      <anchor 852 1834> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0679064A06D2.liga.init.medi.fina
+      <anchor 852 1714> mark @t.uni064B
+      <anchor 852 -490> mark @b.uni064D_1;
+  pos base uni0679062B06D2.liga.init.medi.fina
+      <anchor 852 1782> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0679067E06D2.liga.init.medi.fina
+      <anchor 852 1574> mark @t.uni064B
+      <anchor 852 -838> mark @b.uni064D_1;
+  pos base uni0679062606D2.liga.init.medi.fina
+      <anchor 852 1756> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base uni0679067906D2.liga.init.medi.fina
+      <anchor 852 1804> mark @t.uni064B
+      <anchor 852 -258> mark @b.uni064D_1;
+  pos base glyph2404
+      <anchor 564 1172> mark @t.uni064B
+      <anchor 564 -258> mark @b.uni064D_1;
+  pos base glyph2405
+      <anchor 942 1220> mark @t.uni064B
+      <anchor 942 -249> mark @b.uni064D_1;
+  pos base uni06470645062806D2.init.medi.medi.fina
+      <anchor 942 1220> mark @t.uni064B
+      <anchor 942 -460> mark @b.uni064D_1;
+  pos base uni06470645064606D2.init.medi.medi.fina
+      <anchor 942 1414> mark @t.uni064B
+      <anchor 942 -249> mark @b.uni064D_1;
+  pos base uni06470645064A06D2.init.medi.medi.fina
+      <anchor 942 1220> mark @t.uni064B
+      <anchor 942 -510> mark @b.uni064D_1;
+  pos base uni06470645062A06D2.init.medi.medi.fina
+      <anchor 942 1366> mark @t.uni064B
+      <anchor 942 -249> mark @b.uni064D_1;
+  pos base uni06470645062B06D2.init.medi.medi.fina
+      <anchor 942 1606> mark @t.uni064B
+      <anchor 942 -249> mark @b.uni064D_1;
+  pos base uni06470645062606D2.init.medi.medi.fina
+      <anchor 942 1546> mark @t.uni064B
+      <anchor 942 -249> mark @b.uni064D_1;
+  pos base uni06470645067E06D2.init.medi.medi.fina
+      <anchor 942 1220> mark @t.uni064B
+      <anchor 942 -676> mark @b.uni064D_1;
+  pos base uni06470645067906D2.init.medi.medi.fina
+      <anchor 942 1554> mark @t.uni064B
+      <anchor 942 -249> mark @b.uni064D_1;
+  pos base glyph2414
+      <anchor 891 896> mark @t.uni064B
+      <anchor 891 -249> mark @b.uni064D_1;
+  pos base uni062A0645064606D2.init.medi.medi.fina
+      <anchor 919 1556> mark @t.uni064B
+      <anchor 919 -249> mark @b.uni064D_1;
+  pos base uni062A0645067E06D2.init.medi.medi.fina
+      <anchor 896 1548> mark @t.uni064B
+      <anchor 896 -634> mark @b.uni064D_1;
+  pos base uni06460645062A06D2.init.medi.medi.fina
+      <anchor 891 1428> mark @t.uni064B
+      <anchor 891 -249> mark @b.uni064D_1;
+  pos base uni06460645064A06D2.init.medi.medi.fina
+      <anchor 891 896> mark @t.uni064B
+      <anchor 891 -498> mark @b.uni064D_1;
+  pos base glyph2419
+      <anchor 891 896> mark @t.uni064B
+      <anchor 891 -249> mark @b.uni064D_1;
+  pos base glyph2420
+      <anchor 891 896> mark @t.uni064B
+      <anchor 891 -249> mark @b.uni064D_1;
+  pos base glyph2421
+      <anchor 891 896> mark @t.uni064B
+      <anchor 891 -249> mark @b.uni064D_1;
+  pos base glyph2422
+      <anchor 891 896> mark @t.uni064B
+      <anchor 891 -249> mark @b.uni064D_1;
+  pos base glyph2423
+      <anchor 891 896> mark @t.uni064B
+      <anchor 891 -249> mark @b.uni064D_1;
+  pos base glyph2424
+      <anchor 891 896> mark @t.uni064B
+      <anchor 891 -249> mark @b.uni064D_1;
+  pos base glyph2425
+      <anchor 678 854> mark @t.uni064B
+      <anchor 678 -247> mark @b.uni064D_1;
+  pos base uni064606BE.liga.medi.medi
+      <anchor 678 1488> mark @t.uni064B
+      <anchor 678 -247> mark @b.uni064D_1;
+  pos base uni062806BE.liga.medi.medi
+      <anchor 678 854> mark @t.uni064B
+      <anchor 678 -598> mark @b.uni064D_1;
+  pos base uni062A06BE.liga.medi.medi
+      <anchor 678 1516> mark @t.uni064B
+      <anchor 678 -247> mark @b.uni064D_1;
+  pos base uni064A06BE.liga.medi.medi
+      <anchor 678 854> mark @t.uni064B
+      <anchor 678 -592> mark @b.uni064D_1;
+  pos base uni062B06BE.liga.medi.medi
+      <anchor 678 1680> mark @t.uni064B
+      <anchor 678 -247> mark @b.uni064D_1;
+  pos base uni067E06BE.liga.medi.medi
+      <anchor 678 854> mark @t.uni064B
+      <anchor 678 -842> mark @b.uni064D_1;
+  pos base uni062606BE.liga.medi.medi
+      <anchor 678 1712> mark @t.uni064B
+      <anchor 678 -247> mark @b.uni064D_1;
+  pos base uni067906BE.liga.medi.medi
+      <anchor 678 1668> mark @t.uni064B
+      <anchor 678 -247> mark @b.uni064D_1;
+  pos base uni064706D2.liga.medi.fina
+      <anchor 885 798> mark @t.uni064B
+      <anchor 885 -458> mark @b.uni064D_1;
+  pos base glyph2435
+      <anchor 955 854> mark @t.uni064B
+      <anchor 955 -480> mark @b.uni064D_1;
+  pos base uni062806BE06D2.liga.medi.medi.fina
+      <anchor 955 854> mark @t.uni064B
+      <anchor 955 -824> mark @b.uni064D_1;
+  pos base uni064606BE06D2.liga.medi.medi.fina
+      <anchor 955 1458> mark @t.uni064B
+      <anchor 955 -480> mark @b.uni064D_1;
+  pos base uni062A06BE06D2.liga.medi.medi.fina
+      <anchor 955 1546> mark @t.uni064B
+      <anchor 955 -480> mark @b.uni064D_1;
+  pos base uni064A06BE06D2.liga.medi.medi.fina
+      <anchor 955 854> mark @t.uni064B
+      <anchor 955 -888> mark @b.uni064D_1;
+  pos base uni062B06BE06D2.liga.medi.medi.fina
+      <anchor 955 1626> mark @t.uni064B
+      <anchor 955 -480> mark @b.uni064D_1;
+  pos base uni067E06BE06D2.liga.medi.medi.fina
+      <anchor 955 854> mark @t.uni064B
+      <anchor 955 -1030> mark @b.uni064D_1;
+  pos base uni062606BE06D2.liga.medi.medi.fina
+      <anchor 955 1620> mark @t.uni064B
+      <anchor 955 -480> mark @b.uni064D_1;
+  pos base uni067906BE06D2.liga.medi.medi.fina
+      <anchor 955 1654> mark @t.uni064B
+      <anchor 955 -480> mark @b.uni064D_1;
+  pos base glyph1565
+      <anchor 870 1564> mark @t.uni064B
+      <anchor 870 -578> mark @b.uni064D_1;
+  pos base uni066E
+      <anchor 640 664> mark @t.uni064B
+      <anchor 640 -257> mark @b.uni064D_1;
+  pos base uni066F
+      <anchor 593 747> mark @t.uni064B
+      <anchor 593 -440> mark @b.uni064D_1;
+  pos base uni0698
+      <anchor 67 1328> mark @t.uni064B
+      <anchor 67 -374> mark @b.uni064D_1;
+  pos base uni0763
+      <anchor 665 1860> mark @t.uni064B
+      <anchor 665 -266> mark @b.uni064D_1;
+  pos base uni0609
+      <anchor 933 1124> mark @t.uni064B
+      <anchor 933 -255> mark @b.uni064D_1;
+  pos base uni060D
+      <anchor 190 653> mark @t.uni064B
+      <anchor 190 -338> mark @b.uni064D_1;
+  pos base uni0698.fina
+      <anchor 218 1152> mark @t.uni064B
+      <anchor 218 -452> mark @b.uni064D_1;
+  pos base uni06C1.calligraphic
+      <anchor 1144 1850> mark @t.uni064B
+      <anchor 1144 -281> mark @b.uni064D_1;
 } mark_arab_1;
 
 
@@ -2649,7 +5856,7 @@ feature rlig {
 } rlig;
 
 # ---- Stage 2: contextual mark narrowing ----
-@BASES_mk = [uighurkazakhkirghizalefmaksuraarab.short.init uighurkazakhkirghizalefmaksuraarab.tall.init uighurkazakhkirghizalefmaksuraarab.tall.medi uni0621 uni0622 uni0623 uni0624 uni0625 uni0626 uni0626.short.init uni0626.tall.init uni0626.tall.medi uni0627 uni0627.short uni0627.short.fina uni0628 uni0628.low.medi uni0628.lowtall.medi uni0628.short.init uni0628.tall.init uni0628.tall.medi uni0629 uni062A uni062A.short.init uni062A.tall.init uni062A.tall.medi uni062B uni062B.short.init uni062B.tall.init uni062B.tall.medi uni062C uni062C.low.init uni062C.low.medi uni062D uni062E uni062F uni0630 uni0631 uni0632 uni0633 uni0634 uni0635 uni0636 uni0637 uni0638 uni0639 uni063A uni0640 uni0640.threetimes uni0640.twotimes uni0641 uni0642 uni0643 uni0644 uni0645 uni0646 uni0646.short.init uni0646.tall.init uni0646.tall.medi uni0647 uni0647.alt.medi uni0648 uni0649 uni064A uni064A.low.medi uni064A.lowtall.medi uni064A.short.init uni064A.tall.init uni064A.tall.medi uni0671 uni0672 uni0672.fina uni0673 uni0673.fina uni0674 uni0675 uni0675.fina uni0676 uni0676.fina uni0677 uni0678 uni0678.fina uni0679 uni0679.short.init uni0679.tall.init uni0679.tall.medi uni067E uni067E.low.medi uni067E.lowtall.medi uni067E.short.init uni067E.tall.init uni067E.tall.medi uni0686 uni0686.low.init uni0686.low.medi uni0688 uni0691 uni06A1 uni06A1.fina uni06A1.init uni06A1.medi uni06A9 uni06AA.fina uni06AA.init uni06AA.medi uni06AF uni06B6.fina uni06BA uni06BE uni06C0 uni06C1 uni06CC uni06D2 uni06D3 uni06D5 uni25CC uniFB51 uniFB57 uniFB58 uniFB59 uniFB67 uniFB68 uniFB69 uniFB7B uniFB7C uniFB7D uniFB89 uniFB8D uniFB8F uniFB90 uniFB91 uniFB93 uniFB94 uniFB95 uniFB9F uniFBA1 uniFBA5 uniFBA8 uniFBA9 uniFBAB uniFBAC uniFBAD uniFBAF uniFBB1 uniFBD8 uniFBE8 uniFBE9 uniFBFD uniFBFE uniFBFF uniFE82 uniFE84 uniFE86 uniFE88 uniFE8A uniFE8B uniFE8C uniFE8E uniFE90 uniFE91 uniFE92 uniFE94 uniFE96 uniFE97 uniFE98 uniFE9A uniFE9B uniFE9C uniFE9E uniFE9F uniFEA0 uniFEA2 uniFEA3 uniFEA4 uniFEA6 uniFEA7 uniFEA8 uniFEAA uniFEAC uniFEAE uniFEB0 uniFEB2 uniFEB3 uniFEB4 uniFEB6 uniFEB7 uniFEB8 uniFEBA uniFEBB uniFEBC uniFEBE uniFEBF uniFEC0 uniFEC2 uniFEC3 uniFEC4 uniFEC6 uniFEC7 uniFEC8 uniFECA uniFECB uniFECC uniFECE uniFECF uniFED0 uniFED2 uniFED3 uniFED4 uniFED6 uniFED7 uniFED8 uniFEDA uniFEDB uniFEDC uniFEDE uniFEDF uniFEE0 uniFEE2 uniFEE3 uniFEE4 uniFEE6 uniFEE7 uniFEE8 uniFEE9 uniFEEA uniFEEC uniFEEE uniFEF0 uniFEF2];
+@BASES_mk = [MHMD.liga gaf_lamalefarab.alt1.liga.medi.fina gaf_lamalefarab.liga.medi.fina glyph1565 glyph1907 glyph1908 glyph1910 glyph1922 glyph1923 glyph1926 glyph1927 glyph1928 glyph1939 glyph1940 glyph1941 glyph1942 glyph1943 glyph1946 glyph1955 glyph1956 glyph1957 glyph1958 glyph1960 glyph1965 glyph1966 glyph1988 glyph1991 glyph1992 glyph1998 glyph2001 glyph2002 glyph2003 glyph2004 glyph2025 glyph2026 glyph2027 glyph2028 glyph2058 glyph2059 glyph2060 glyph2061 glyph2069 glyph2070 glyph2071 glyph2072 glyph2078 glyph2087 glyph2094 glyph2102 glyph2105 glyph2106 glyph2107 glyph2108 glyph2109 glyph2110 glyph2111 glyph2112 glyph2113 glyph2114 glyph2115 glyph2116 glyph2117 glyph2118 glyph2119 glyph2120 glyph2121 glyph2122 glyph2123 glyph2124 glyph2125 glyph2126 glyph2127 glyph2128 glyph2129 glyph2130 glyph2131 glyph2132 glyph2133 glyph2134 glyph2135 glyph2136 glyph2137 glyph2138 glyph2139 glyph2140 glyph2143 glyph2144 glyph2145 glyph2162 glyph2163 glyph2164 glyph2165 glyph2166 glyph2169 glyph2170 glyph2177 glyph2194 glyph2227 glyph2228 glyph2232 glyph2233 glyph2244 glyph2245 glyph2246 glyph2247 glyph2248 glyph2249 glyph2250 glyph2251 glyph2252 glyph2261 glyph2263 glyph2264 glyph2265 glyph2266 glyph2267 glyph2268 glyph2269 glyph2270 glyph2271 glyph2272 glyph2275 glyph2345 glyph2404 glyph2405 glyph2414 glyph2419 glyph2420 glyph2421 glyph2422 glyph2423 glyph2424 glyph2425 glyph2435 glyphgaaf glyphgaaf2 lamalefarab.alt1.fina lamalefarab.alt1.isol uighurkazakhkirghizalefmaksuraarab.short.init uighurkazakhkirghizalefmaksuraarab.tall.init uighurkazakhkirghizalefmaksuraarab.tall.medi uni0609 uni060C uni060D uni061B uni061F uni0621 uni0622 uni0623 uni0624 uni0625 uni0626 uni0626.short.init uni0626.tall.init uni0626.tall.medi uni06260626.fina uni06260626.isol uni0626062606D2.liga.init.medi.fina uni0626062606D2.liga.medi.medi.fina uni0626062806D2.liga.init.medi.fina uni0626062806D2.liga.medi.medi.fina uni0626062A06D2.liga.init.medi.fina uni0626062A06D2.liga.medi.medi.fina uni0626062B06D2.liga.init.medi.fina uni0626062B06D2.liga.medi.medi.fina uni0626062C0645.liga.init.medi.medi uni0626062D0645.liga.init.medi.medi uni0626062E.isol uni0626062E0645.liga.init.medi.medi uni062606450627.fina uni0626064606D2.liga.init.medi.fina uni0626064606D2.liga.medi.medi.fina uni06260647062C.liga.init.medi.fina uni06260647062C.liga.init.medi.medi uni06260647062C.liga.medi.medi.fina uni06260647062D.liga.init.medi.fina uni06260647062D.liga.init.medi.medi uni06260647062D.liga.medi.medi.fina uni06260647062E.liga.00.init.medi.fina uni06260647062E.liga.init.medi.fina uni06260647062E.liga.init.medi.medi uni062606470645.liga.init.medi.fina uni062606470645.liga.medi.medi.fina uni062606470649.liga.medi.medi.fina uni06260647064A.liga.medi.medi.fina uni062606470686.liga.init.medi.fina uni062606470686.liga.init.medi.medi uni062606470686.liga.medi.medi.fina uni0626064A06D2.liga.init.medi.fina uni0626064A06D2.liga.medi.medi.fina uni0626067906D2.liga.init.medi.fina uni0626067906D2.liga.medi.medi.fina uni0626067E06D2.liga.init.medi.fina uni0626067E06D2.liga.medi.medi.fina uni06260686.init uni06260686.isol uni062606860645.liga.init.medi.medi uni06260691.fina uni062606BA.fina uni062606BE.liga.init.medi uni062606BE.liga.medi.medi uni062606BE0640.liga.init.medi uni062606BE06D2.liga.init.medi.fina uni062606BE06D2.liga.medi.medi.fina uni062606D2.liga.init.fina uni062606D3.isol uni0627 uni0627.short uni0627.short.fina uni0628 uni0628.low.medi uni0628.lowtall.medi uni0628.short.init uni0628.tall.init uni0628.tall.medi uni06280626.fina uni06280626.isol uni0628062606D2.liga.init.medi.fina uni0628062606D2.liga.medi.medi.fina uni06280627.isol uni0628062806D2.liga.init.medi.fina uni0628062806D2.liga.medi.medi.fina uni0628062A06D2.liga.init.medi.fina uni0628062A06D2.liga.medi.medi.fina uni0628062B06D2.liga.init.medi.fina uni0628062B06D2.liga.medi.medi.fina uni0628062C0645.liga.init.medi.medi uni0628062D0645.liga.init.medi.medi uni0628062E0645.liga.init.medi.medi uni062806450627.fina uni0628064606D2.liga.init.medi.fina uni0628064606D2.liga.medi.medi.fina uni06280647062C.liga.init.medi.fina uni06280647062C.liga.init.medi.medi uni06280647062C.liga.medi.medi.fina uni06280647062D.liga.init.medi.fina uni06280647062D.liga.init.medi.medi uni06280647062D.liga.medi.medi.fina uni06280647062E.liga.init.medi.fina uni06280647062E.liga.init.medi.medi uni06280647062E.liga.medi.medi.fina uni062806470645.liga.init.medi.fina uni062806470645.liga.medi.medi.fina uni062806470649.liga.medi.medi.fina uni06280647064A.liga.medi.medi.fina uni062806470686.liga.init.medi.fina uni062806470686.liga.init.medi.medi uni062806470686.liga.medi.medi.fina uni0628064A06D2.liga.init.medi.fina uni0628064A06D2.liga.medi.medi.fina uni0628067906D2.liga.init.medi.fina uni0628067906D2.liga.medi.medi.fina uni0628067E06D2.liga.medi.medi.fina uni06280686.init uni06280686.isol uni062806860645.liga.init.medi.medi uni06280691.fina uni062806BA.fina uni062806BE.liga.init.medi uni062806BE.liga.medi.medi uni062806BE0640.liga.init.medi uni062806BE06D2.liga.init.medi.fina uni062806BE06D2.liga.medi.medi.fina uni062806D2.isol uni0629 uni062A uni062A.short.init uni062A.tall.init uni062A.tall.medi uni062A0626.fina uni062A0626.isol uni062A062606D2.liga.init.medi.fina uni062A062606D2.liga.medi.medi.fina uni062A0627.isol uni062A062806D2.liga.init.medi.fina uni062A062806D2.liga.medi.medi.fina uni062A062A06D2.liga.init.medi.fina uni062A062A06D2.liga.medi.medi.fina uni062A062B06D2.liga.init.medi.fina uni062A062B06D2.liga.medi.medi.fina uni062A062C0645.liga.init.medi.medi uni062A062D0645.liga.init.medi.medi uni062A062E0645.liga.init.medi.medi uni062A06450627.fina uni062A0645064606D2.init.medi.medi.fina uni062A0645067E06D2.init.medi.medi.fina uni062A064606D2.liga.init.medi.fina uni062A064606D2.liga.medi.medi.fina uni062A0647062C.liga.init.medi.fina uni062A0647062C.liga.init.medi.medi uni062A0647062C.liga.medi.medi.fina uni062A0647062D.liga.init.medi.fina uni062A0647062D.liga.init.medi.medi uni062A0647062D.liga.medi.medi.fina uni062A0647062E.liga.init.medi.fina uni062A0647062E.liga.init.medi.medi uni062A0647062E.liga.medi.medi.fina uni062A06470645.liga.init.medi.fina uni062A06470645.liga.medi.medi.fina uni062A06470649.liga.medi.medi.fina uni062A0647064A.liga.medi.medi.fina uni062A06470686.liga.init.medi.fina uni062A06470686.liga.init.medi.medi uni062A06470686.liga.medi.medi.fina uni062A064A06D2.liga.init.medi.fina uni062A064A06D2.liga.medi.medi.fina uni062A067906D2.liga.init.medi.fina uni062A067906D2.liga.medi.medi.fina uni062A067E06D2.liga.init.medi.fina uni062A067E06D2.liga.medi.medi.fina uni062A0686.init uni062A0686.isol uni062A06860645.liga.init.medi.medi uni062A0691.fina uni062A06BA.fina uni062A06BE.liga.init.fina uni062A06BE.liga.init.medi uni062A06BE.liga.medi.medi uni062A06BE0640.liga.init.medi uni062A06BE06D2.liga.init.medi.fina uni062A06BE06D2.liga.medi.medi.fina uni062A06CC067906D2.isol uni062A06D2.isol uni062A06D3.isol uni062B uni062B.short.init uni062B.tall.init uni062B.tall.medi uni062B0626.fina uni062B0626.isol uni062B062606D2.liga.init.medi.fina uni062B062606D2.liga.medi.medi.fina uni062B0627.isol uni062B062806D2.liga.init.medi.fina uni062B062806D2.liga.medi.medi.fina uni062B062A06D2.liga.init.medi.fina uni062B062A06D2.liga.medi.medi.fina uni062B062B06D2.liga.init.medi.fina uni062B062B06D2.liga.medi.medi.fina uni062B062C.init uni062B062C0645.liga.init.medi.medi uni062B062D.init uni062B062D.isol uni062B062D0645.liga.init.medi.medi uni062B062E.init uni062B062E.isol uni062B062E0645.liga.init.medi.medi uni062B06450627.fina uni062B064606D2.liga.init.medi.fina uni062B064606D2.liga.medi.medi.fina uni062B0647.init uni062B0647062C.liga.init.medi.fina uni062B0647062C.liga.init.medi.medi uni062B0647062C.liga.medi.medi.fina uni062B0647062D.liga.init.medi.fina uni062B0647062D.liga.init.medi.medi uni062B0647062D.liga.medi.medi.fina uni062B0647062E.liga.init.medi.fina uni062B0647062E.liga.init.medi.medi uni062B0647062E.liga.medi.medi.fina uni062B06470645.liga.init.medi.fina uni062B06470645.liga.medi.medi.fina uni062B06470649.liga.medi.medi.fina uni062B0647064A.liga.medi.medi.fina uni062B06470686.liga.init.medi.fina uni062B06470686.liga.init.medi.medi uni062B06470686.liga.medi.medi.fina uni062B064A06D2.liga.init.medi.fina uni062B064A06D2.liga.medi.medi.fina uni062B067906D2.liga.init.medi.fina uni062B067906D2.liga.medi.medi.fina uni062B067E06D2.liga.init.medi.fina uni062B067E06D2.liga.medi.medi.fina uni062B0686.init uni062B0686.isol uni062B06860645.liga.init.medi.medi uni062B0691.fina uni062B06BA.fina uni062B06BE.liga.init.medi uni062B06BE.liga.medi.medi uni062B06BE0640.liga.init.medi uni062B06BE06D2.liga.init.medi.fina uni062B06BE06D2.liga.medi.medi.fina uni062B06D2.isol uni062B06D3.isol uni062C uni062C.low.init uni062C.low.medi uni062C064506D2.isol uni062C0649.liga.init.fina uni062C064A.liga.init.fina uni062C06BE.fina uni062C06BE.init uni062C06BE.isol uni062C06BE.liga.init.fina uni062C06BE.liga.init.medi uni062C06BE.medi uni062C06BE06D2.fina uni062C06BE06D2.isol uni062C06D2.fina uni062C06D2.isol uni062C06D3.fina uni062C06D3.isol uni062D uni062D0649.liga.init.fina uni062D064906D2.fina uni062D064A.liga.init.fina uni062D06BE.liga.init.medi uni062D06BE06D2.fina uni062D06BE06D2.isol uni062D06D2.fina uni062D06D2.isol uni062E uni062E0649.liga.init.fina uni062E064A.liga.init.fina uni062E06BE.liga.init.medi uni062E06D2.isol uni062F uni0630 uni0631 uni0632 uni0633 uni06330632.fina uni06330632.isol uni06330645.liga.medi.fina uni063306450627.liga.init.medi.fina uni063306D2.fina uni063306D2.isol uni0634 uni06340632.fina uni06340632.isol uni06340645.liga.medi.fina uni063406450627.liga.init.medi.fina uni063406D2.isol uni0635 uni0635062C.init uni0635062C.isol uni0635062E.isol uni06350632.fina uni06350632.isol uni063506450627.liga.init.medi.fina uni063506D2.isol uni0636 uni06360632.fina uni06360632.isol uni063606450627.liga.init.medi.fina uni063606D2.isol uni0637 uni06370645.liga.init.medi uni06370649.liga.init.fina uni06370649.liga.medi.fina uni0637064A.liga.init.fina uni0637064A.liga.medi.fina uni063706D2.isol uni0638 uni06380645.liga.init.medi uni06380649.liga.init.fina uni06380649.liga.medi.fina uni0638064A.liga.init.fina uni0638064A.liga.medi.fina uni063806D2.isol uni0639 uni06390649.liga.init.fina uni06390649.liga.medi.fina uni0639064A.liga.init.fina uni0639064A.liga.medi.fina uni063906D2.isol uni063906D3.isol uni063A uni063A0649.liga.init.fina uni063A0649.liga.medi.fina uni063A064A.liga.init.fina uni063A064A.liga.medi.fina uni063A06D2.isol uni063A06D3.isol uni0640 uni0640.quarter uni0640.threetimes uni0640.twotimes uni0641 uni06410626.isol uni06410649.liga.medi.fina uni0641064A.liga.medi.fina uni064106D2.isol uni064106D3.isol uni0642 uni06420626.isol uni06420649.liga.medi.fina uni0642064A.liga.medi.fina uni064206D2.isol uni064206D3.isol uni0643 uni06430627.finashort uni06430627.isolshort uni06430629.liga.init.fina uni064306440627.fina uni064306440627.finashort uni064306440627.isol uni064306440627.isolshort uni064306450627.isol uni064306450627.isolshort uni06430647.liga.init.fina uni06430647.liga.init.medi uni06430647.liga.medi.medi uni064306BE.liga.init.fina uni0644 uni0644.alt1.init uni064406440647.isol uni06440645062C.init uni06440645062E.init uni064406CC06D2.isol uni064406D2.isol uni064406D3.isol uni0645 uni0645062C0645062F.init.medi.medi.fina uni0645062E0645062F.init.medi.medi.fina uni0645064406D2.isol uni06450647.liga.init.medi uni064506BE.liga.init.medi uni064506D2.isol uni064506D3.isol uni0646 uni0646.short.init uni0646.tall.init uni0646.tall.medi uni06460626.fina uni06460626.isol uni0646062606D2.liga.init.medi.fina uni0646062606D2.liga.medi.medi.fina uni06460627.isol uni0646062806D2.liga.init.medi.fina uni0646062806D2.liga.medi.medi.fina uni0646062A06D2.isol uni0646062A06D2.liga.init.medi.fina uni0646062A06D2.liga.medi.medi.fina uni0646062B06D2.liga.init.medi.fina uni0646062B06D2.liga.medi.medi.fina uni0646062C0645.liga.init.medi.medi uni0646062D0645.liga.init.medi.medi uni0646062E0645.liga.init.medi.medi uni064606450627.fina uni06460645062A06D2.init.medi.medi.fina uni06460645064A06D2.init.medi.medi.fina uni0646064606D2.liga.init.medi.fina uni0646064606D2.liga.medi.medi.fina uni06460647062C.liga.init.medi.fina uni06460647062C.liga.init.medi.medi uni06460647062C.liga.medi.medi.fina uni06460647062D.liga.init.medi.fina uni06460647062D.liga.init.medi.medi uni06460647062D.liga.medi.medi.fina uni06460647062E.liga.init.medi.fina uni06460647062E.liga.init.medi.medi uni06460647062E.liga.medi.medi.fina uni064606470645.liga.init.medi.fina uni064606470645.liga.medi.medi.fina uni064606470649.liga.medi.medi.fina uni06460647064A.liga.medi.medi.fina uni064606470686.liga.init.medi.fina uni064606470686.liga.init.medi.medi uni064606470686.liga.medi.medi.fina uni0646064A06D2.liga.init.medi.fina uni0646064A06D2.liga.medi.medi.fina uni0646067906D2.liga.init.medi.fina uni0646067906D2.liga.medi.medi.fina uni0646067E06D2.liga.init.medi.fina uni0646067E06D2.liga.medi.medi.fina uni06460686.init uni06460686.isol uni064606860645.liga.init.medi.medi uni06460691.fina uni064606BA.fina uni064606BE.liga.init.fina uni064606BE.liga.init.medi uni064606BE.liga.medi.medi uni064606BE0640.liga.init.medi uni064606BE06D2.liga.init.medi.fina uni064606BE06D2.liga.medi.medi.fina uni064606D2.isol uni064606D3.isol uni0647 uni0647.alt.medi uni0647063306D2.liga.init.medi.fina uni0647063406D2.liga.init.medi.fina uni06470645.liga.medi.fina uni06470645062606D2.init.medi.medi.fina uni06470645062806D2.init.medi.medi.fina uni06470645062A06D2.init.medi.medi.fina uni06470645062B06D2.init.medi.medi.fina uni06470645064606D2.init.medi.medi.fina uni06470645064A06D2.init.medi.medi.fina uni06470645067906D2.init.medi.medi.fina uni06470645067E06D2.init.medi.medi.fina uni06470649.liga.medi.fina uni0647064A.liga.medi.fina uni064706D2.liga.medi.fina uni0648 uni0649 uni06490627.isol uni064906D2.isol uni064A uni064A.low.medi uni064A.lowtall.medi uni064A.short.init uni064A.tall.init uni064A.tall.medi uni064A0626.fina uni064A0626.isol uni064A062606D2.liga.init.medi.fina uni064A062606D2.liga.medi.medi.fina uni064A0627.isol uni064A062806D2.liga.init.medi.fina uni064A062806D2.liga.medi.medi.fina uni064A062A06D2.liga.init.medi.fina uni064A062A06D2.liga.medi.medi.fina uni064A062B06D2.liga.init.medi.fina uni064A062B06D2.liga.medi.medi.fina uni064A062C0645.liga.init.medi.medi uni064A062D0645.liga.init.medi.medi uni064A062E0645.liga.init.medi.medi uni064A06450627.fina uni064A064606D2.liga.init.medi.fina uni064A064606D2.liga.medi.medi.fina uni064A0647062C.liga.init.medi.fina uni064A0647062C.liga.init.medi.medi uni064A0647062C.liga.medi.medi.fina uni064A0647062D.liga.init.medi.fina uni064A0647062D.liga.init.medi.medi uni064A0647062D.liga.medi.medi.fina uni064A0647062E.liga.init.medi.fina uni064A0647062E.liga.init.medi.medi uni064A0647062E.liga.medi.medi.fina uni064A06470645.liga.init.medi.fina uni064A06470645.liga.medi.medi.fina uni064A06470649.liga.medi.medi.fina uni064A0647064A.liga.medi.medi.fina uni064A06470686.liga.init.medi.fina uni064A06470686.liga.init.medi.medi uni064A06470686.liga.medi.medi.fina uni064A064A06D2.liga.init.medi.fina uni064A064A06D2.liga.medi.medi.fina uni064A067906D2.liga.init.medi.fina uni064A067906D2.liga.medi.medi.fina uni064A067E06D2.liga.init.medi.fina uni064A067E06D2.liga.medi.medi.fina uni064A0686.init uni064A0686.isol uni064A06860645.liga.init.medi.medi uni064A0691.fina uni064A06BA.fina uni064A06BE.liga.init.fina uni064A06BE.liga.init.medi uni064A06BE.liga.medi.medi uni064A06BE0640.liga.init.medi uni064A06BE06D2.liga.init.medi.fina uni064A06BE06D2.liga.medi.medi.fina uni064A06D2.liga.init.fina uni0660 uni0660.small uni0661 uni0661.small uni0662 uni0662.small uni0663 uni0663.small uni0664 uni0664.small uni0665 uni0665.small uni0666 uni0666.small uni0667 uni0667.small uni0668 uni0668.small uni0669 uni0669.small uni066A uni066B uni066C uni066D uni066E uni066F uni0671 uni0672 uni0672.fina uni0673 uni0673.fina uni0674 uni0675 uni0675.fina uni0676 uni0676.fina uni0677 uni0678 uni0678.fina uni0679 uni0679.short.init uni0679.tall.init uni0679.tall.medi uni06790626.fina uni06790626.isol uni0679062606D2.liga.init.medi.fina uni0679062606D2.liga.medi.medi.fina uni0679062806D2.liga.init.medi.fina uni0679062806D2.liga.medi.medi.fina uni0679062A06D2.liga.init.medi.fina uni0679062A06D2.liga.medi.medi.fina uni0679062B06D2.liga.init.medi.fina uni0679062B06D2.liga.medi.medi.fina uni0679062C.init uni0679062C.isol uni0679062C0645.liga.init.medi.medi uni0679062D.init uni0679062D.isol uni0679062D0645.liga.init.medi.medi uni0679062E.init uni0679062E.isol uni0679062E0645.liga.init.medi.medi uni06790631.fina uni06790632.fina uni06790645.fina_ uni06790645.init uni06790645.isol uni067906450627.fina uni06790646.fina uni0679064606D2.liga.init.medi.fina uni0679064606D2.liga.medi.medi.fina uni06790647.init uni06790647.medi uni06790647062C.liga.init.medi.fina uni06790647062C.liga.init.medi.medi uni06790647062C.liga.medi.medi.fina uni06790647062D.liga.init.medi.fina uni06790647062D.liga.init.medi.medi uni06790647062D.liga.medi.medi.fina uni06790647062E.liga.init.medi.fina uni06790647062E.liga.init.medi.medi uni06790647062E.liga.medi.medi.fina uni067906470645.liga.init.medi.fina uni067906470645.liga.medi.medi.fina uni067906470649.liga.medi.medi.fina uni06790647064A.liga.medi.medi.fina uni067906470686.liga.init.medi.fina uni067906470686.liga.init.medi.medi uni067906470686.liga.medi.medi.fina uni06790649.fina uni06790649.isol uni0679064A.fina uni0679064A.isol uni0679064A06D2.liga.init.medi.fina uni0679064A06D2.liga.medi.medi.fina uni0679067906D2.liga.init.medi.fina uni0679067906D2.liga.medi.medi.fina uni0679067E06D2.liga.init.medi.fina uni0679067E06D2.liga.medi.medi.fina uni06790686.init uni06790686.isol uni067906860645.liga.init.medi.medi uni06790691.fina uni067906BA.fina uni067906BE.liga.init.medi uni067906BE.liga.medi.medi uni067906BE0640.liga.init.medi uni067906BE06D2.liga.init.medi.fina uni067906BE06D2.liga.medi.medi.fina uni067906D2.isol uni067906D3.isol uni067A062C.isol uni067D062C.init uni067D062C.isol uni067D062D.init uni067D062D.isol uni067D062E.init uni067D062E.isol uni067D0631.fina uni067D0632.fina uni067D0645.fina uni067D0645.init uni067D0645.isol uni067D06450627.fina uni067D0646.fina uni067D0647.init uni067D0647.medi uni067D0649.fina uni067D0649.isol uni067D064A.fina uni067D064A.isol uni067D0686.init uni067D0686.isol uni067D0691.fina uni067D06BA.fina uni067E uni067E.low.medi uni067E.lowtall.medi uni067E.short.init uni067E.tall.init uni067E.tall.medi uni067E062606D2.liga.init.medi.fina uni067E062606D2.liga.medi.medi.fina uni067E062806D2.liga.init.medi.fina uni067E062806D2.liga.medi.medi.fina uni067E062A06D2.liga.init.medi.fina uni067E062A06D2.liga.medi.medi.fina uni067E062B06D2.liga.init.medi.fina uni067E062B06D2.liga.medi.medi.fina uni067E062C0645.liga.init.medi.medi uni067E062D0645.liga.init.medi.medi uni067E062E0645.liga.init.medi.medi uni067E064606D2.isol uni067E064606D2.liga.init.medi.fina uni067E064606D2.liga.medi.medi.fina uni067E06470649.liga.medi.medi.fina uni067E0647064A.liga.medi.medi.fina uni067E064A06D2.liga.init.medi.fina uni067E064A06D2.liga.medi.medi.fina uni067E067906D2.liga.init.medi.fina uni067E067906D2.liga.medi.medi.fina uni067E067E06D2.liga.init.medi.fina uni067E067E06D2.liga.medi.medi.fina uni067E06860645.liga.init.medi.medi uni067E06BE.liga.init.medi uni067E06BE.liga.medi.medi uni067E06BE0640.liga.init.medi uni067E06BE06D2.liga.init.medi.fina uni067E06BE06D2.liga.medi.medi.fina uni067E06CC064606D2.isol uni067E06D2.isol uni067E06D3.isol uni06850645.isol uni0686 uni0686.low.init uni0686.low.medi uni0686062A06D2.fina uni0686064406D2.isol uni06860645.init uni06860645.isol uni06860649.liga.init.fina uni0686064A.liga.init.fina uni068606BE.liga.init.medi uni068606BE06D2.fina uni068606BE06D2.isol uni068606D2.fina uni068606D2.isol uni068606D3.isol uni0688 uni0691 uni0698 uni0698.fina uni06A1 uni06A1.fina uni06A1.init uni06A1.medi uni06A9 uni06A906D2.isol uni06A906D3.isol uni06AA.fina uni06AA.init uni06AA.medi uni06AF uni06AF0627.liga.init.fina uni06AF0627.liga.medi.fina uni06AF0627.short.liga.init.fina uni06AF0629.liga.init.fina uni06AF0644.liga.init.fina uni06AF0644.liga.init.medi uni06AF0644.liga.medi.fina uni06AF0644.liga.medi.medi uni06AF064406D2.isol uni06AF0645.liga.init.fina uni06AF0645.liga.init.medi uni06AF0645.liga.medi.fina uni06AF0645.liga.medi.medi uni06AF0649.liga.init.fina uni06AF064A.liga.medi.fina uni06AF06BE.init uni06AF06BE.isol uni06AF06BE.medi uni06AF06D2.isol uni06AF06D3.isol uni06B6.fina uni06BA uni06BE uni06BE062A06D2.isol uni06BE064606D2.isol uni06BE06D2.fina uni06BE06D2.isol uni06BE06D3.isol uni06C0 uni06C1 uni06C1.calligraphic uni06C1062A06D2.fina uni06C1062A06D2.isol uni06C1064406D2.fina uni06C1064606D2.isol uni06C106CC06D2.isol uni06C106D2.isol uni06C106D3.isol uni06CC uni06CC062A06D2.fina uni06CC063306D2.fina uni06CC063306D2.isol uni06CC064606D2.fina uni06CC06D3.isol uni06D2 uni06D3 uni06D4 uni06D5 uni06DD uni06DD.alt1 uni06DE uni06E5 uni06E6 uni06E9 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F4.small uni06F4.urdu uni06F4.urdusmall uni06F5 uni06F5.small uni06F6 uni06F6.small uni06F7 uni06F7.urdu uni06F7.urdusmall uni06F8 uni06F9 uni0763 uni25CC uniFB51 uniFB57 uniFB58 uniFB59 uniFB67 uniFB68 uniFB69 uniFB7B uniFB7C uniFB7D uniFB89 uniFB8D uniFB8F uniFB90 uniFB91 uniFB93 uniFB94 uniFB95 uniFB9F uniFBA1 uniFBA5 uniFBA8 uniFBA9 uniFBAB uniFBAC uniFBAD uniFBAF uniFBB1 uniFBD8 uniFBE8 uniFBE9 uniFBFD uniFBFE uniFBFF uniFC00 uniFC01 uniFC02 uniFC03 uniFC04 uniFC05 uniFC06 uniFC07 uniFC08 uniFC09 uniFC0A uniFC0B uniFC0C uniFC0D uniFC0E uniFC0F uniFC10 uniFC11 uniFC12 uniFC13 uniFC14 uniFC15 uniFC16 uniFC17 uniFC18 uniFC19 uniFC1A uniFC1B uniFC1C uniFC1D uniFC1E uniFC1F uniFC20 uniFC21 uniFC22 uniFC23 uniFC24 uniFC25 uniFC29 uniFC2A uniFC2B uniFC2C uniFC2D uniFC2E uniFC2F uniFC30 uniFC31 uniFC32 uniFC33 uniFC34 uniFC35 uniFC36 uniFC37 uniFC3B uniFC3C uniFC3D uniFC3E uniFC3F uniFC40 uniFC41 uniFC42 uniFC43 uniFC44 uniFC48 uniFC49 uniFC4A uniFC4B uniFC4C uniFC4D uniFC4E uniFC4F uniFC50 uniFC51 uniFC52 uniFC53 uniFC54 uniFC55 uniFC56 uniFC57 uniFC58 uniFC59 uniFC5A uniFC64 uniFC65 uniFC66 uniFC67 uniFC68 uniFC69 uniFC6A uniFC6B uniFC6C uniFC6D uniFC6E uniFC6F uniFC70 uniFC71 uniFC72 uniFC73 uniFC74 uniFC75 uniFC76 uniFC77 uniFC78 uniFC79 uniFC7A uniFC7B uniFC80 uniFC81 uniFC82 uniFC83 uniFC84 uniFC85 uniFC86 uniFC87 uniFC88 uniFC8A uniFC8B uniFC8C uniFC8D uniFC8E uniFC8F uniFC91 uniFC92 uniFC93 uniFC94 uniFC95 uniFC96 uniFC97 uniFC98 uniFC99 uniFC9A uniFC9B uniFC9C uniFC9D uniFC9E uniFC9F uniFCA0 uniFCA1 uniFCA2 uniFCA3 uniFCA4 uniFCA5 uniFCA6 uniFCA7 uniFCA8 uniFCA9 uniFCAA uniFCAB uniFCAC uniFCAD uniFCAE uniFCAF uniFCB0 uniFCB1 uniFCB2 uniFCB3 uniFCB4 uniFCB5 uniFCB6 uniFCB7 uniFCBA uniFCBB uniFCBC uniFCBD uniFCBE uniFCBF uniFCC0 uniFCC1 uniFCC2 uniFCC3 uniFCC7 uniFCC8 uniFCC9 uniFCCA uniFCCB uniFCCC uniFCCD uniFCCE uniFCCF uniFCD0 uniFCD1 uniFCD2 uniFCD3 uniFCD4 uniFCD5 uniFCD6 uniFCD7 uniFCD8 uniFCDA uniFCDB uniFCDC uniFCDD uniFCDE uniFCE0 uniFCE2 uniFCE4 uniFCE6 uniFCEB uniFCEC uniFCEF uniFCF1 uniFCFB uniFCFC uniFCFD uniFCFE uniFD05 uniFD06 uniFD07 uniFD08 uniFD09 uniFD0A uniFD0B uniFD0C uniFD0D uniFD0E uniFD0F uniFD10 uniFD17 uniFD18 uniFD19 uniFD1A uniFD21 uniFD22 uniFD23 uniFD24 uniFD29 uniFD2A uniFD2B uniFD2C uniFD2D uniFD2E uniFD2F uniFD30 uniFD3E uniFD3F uniFD86 uniFD88 uniFD8A uniFD8D uniFD8F uniFDB5 uniFDBA uniFDF2 uniFE82 uniFE84 uniFE86 uniFE88 uniFE8A uniFE8B uniFE8C uniFE8E uniFE90 uniFE91 uniFE92 uniFE94 uniFE96 uniFE97 uniFE98 uniFE9A uniFE9B uniFE9C uniFE9E uniFE9F uniFEA0 uniFEA2 uniFEA3 uniFEA4 uniFEA6 uniFEA7 uniFEA8 uniFEAA uniFEAC uniFEAE uniFEB0 uniFEB2 uniFEB3 uniFEB4 uniFEB6 uniFEB7 uniFEB8 uniFEBA uniFEBB uniFEBC uniFEBE uniFEBF uniFEC0 uniFEC2 uniFEC3 uniFEC4 uniFEC6 uniFEC7 uniFEC8 uniFECA uniFECB uniFECC uniFECE uniFECF uniFED0 uniFED2 uniFED3 uniFED4 uniFED6 uniFED7 uniFED8 uniFEDA uniFEDB uniFEDC uniFEDE uniFEDF uniFEE0 uniFEE2 uniFEE3 uniFEE4 uniFEE6 uniFEE7 uniFEE8 uniFEE9 uniFEEA uniFEEB uniFEEC uniFEEE uniFEF0 uniFEF2 uniFEF5 uniFEF6 uniFEF7 uniFEF8 uniFEF9 uniFEFA uniFEFB uniFEFC];
 @ASC_mk  = [uni0622 uni0623 uni0624 uni0625 uni0626 uni0626.short.init uni0626.tall.init uni0626.tall.medi uni0627 uni0627.short uni0627.short.fina uni0629 uni062A.tall.init uni062A.tall.medi uni062B uni062B.short.init uni062B.tall.init uni062B.tall.medi uni062E uni0630 uni0634 uni0637 uni0638 uni0639 uni063A uni0641 uni0643 uni0644 uni0646.tall.init uni0646.tall.medi uni0671 uni0672 uni0672.fina uni0673 uni0673.fina uni0674 uni0675 uni0675.fina uni0676 uni0676.fina uni0677 uni0678 uni0679 uni0679.short.init uni0679.tall.init uni0679.tall.medi uni0688 uni06A9 uni06AF uni06B6.fina uni06C0 uni06D3 uniFB51 uniFB68 uniFB89 uniFB8D uniFB8F uniFB90 uniFB91 uniFB93 uniFB94 uniFB95 uniFBA5 uniFE82 uniFE84 uniFE86 uniFE88 uniFE8B uniFE8E uniFE94 uniFE9B uniFE9C uniFEA6 uniFEA8 uniFEAC uniFEC0 uniFEC2 uniFEC3 uniFEC4 uniFEC6 uniFEC7 uniFEC8 uniFECF uniFED2 uniFED3 uniFED4 uniFED7 uniFED8 uniFEDA uniFEDB uniFEDC uniFEDE uniFEDF uniFEE0];
 @DESC_mk = [uni0625 uni0628 uni0628.low.medi uni0628.lowtall.medi uni0628.short.init uni0628.tall.init uni0628.tall.medi uni062C uni062C.low.init uni062C.low.medi uni062D uni062E uni0633 uni0634 uni0635 uni0636 uni0639 uni063A uni0645 uni0647.alt.medi uni064A uni064A.low.medi uni064A.lowtall.medi uni064A.short.init uni064A.tall.init uni064A.tall.medi uni0673 uni0673.fina uni0676.fina uni0678.fina uni067E uni067E.low.medi uni067E.lowtall.medi uni067E.short.init uni067E.tall.init uni067E.tall.medi uni0686 uni0686.low.init uni0686.low.medi uniFB57 uniFB58 uniFB59 uniFB7B uniFB7C uniFB7D uniFB8D uniFB9F uniFBA1 uniFBA9 uniFBAB uniFBAF uniFBB1 uniFBD8 uniFBFD uniFBFE uniFBFF uniFE86 uniFE88 uniFE8A uniFE90 uniFE91 uniFE92 uniFE9E uniFE9F uniFEA0 uniFEA2 uniFEA6 uniFEAE uniFEB0 uniFEB2 uniFEB6 uniFEBA uniFEBE uniFECA uniFECE uniFED6 uniFEE2 uniFEE6 uniFEEE uniFEF0 uniFEF2];
 @AM_mk  = [uni064E uni064F uni064B uni064C uni0651 uni0652 uni0653 uni0654 uni0670 uni0651064E uni0651064F uni0651064B uni0651064C];
