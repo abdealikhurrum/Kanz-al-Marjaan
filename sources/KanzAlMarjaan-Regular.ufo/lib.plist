@@ -1543,23 +1543,23 @@
       <string>uni0698.fina</string>
       <string>sterling</string>
       <string>uni06C1.calligraphic</string>
+      <string>uni0654.narrow</string>
       <string>uni064E.narrow</string>
       <string>uni064F.narrow</string>
-      <string>uni064B.narrow</string>
-      <string>uni064C.narrow</string>
       <string>uni0651.narrow</string>
       <string>uni0652.narrow</string>
+      <string>uni064B.narrow</string>
+      <string>uni064C.narrow</string>
       <string>uni0653.narrow</string>
-      <string>uni0654.narrow</string>
       <string>uni0670.narrow</string>
+      <string>uni0650.narrow</string>
+      <string>uni064D.narrow</string>
       <string>uni0651064E.narrow</string>
       <string>uni0651064F.narrow</string>
       <string>uni0651064B.narrow</string>
       <string>uni0651064C.narrow</string>
-      <string>uni0650.narrow</string>
-      <string>uni064D.narrow</string>
-      <string>uni0651064D.narrow</string>
       <string>uni06510650.narrow</string>
+      <string>uni0651064D.narrow</string>
     </array>
   </dict>
 </plist>
