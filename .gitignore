@@ -4,6 +4,7 @@ venv-test
 build.stamp
 proof
 fonts
+out
 node_modules
 package-lock.json
 package.json
@@ -39,4 +40,4 @@ Thumbs.db
 *（自动存储）.*
 *（已自動儲存）.*
 .idea/
-sources/Kanz-al-Marjaan-Regular.ufo/KanzalMarjaan-Regular.fcp
+sources/KanzAlMarjaan-Regular.ufo/KanzalMarjaan-Regular.fcp

@@ -1,7 +1,7 @@
 sources:
-  - Kanz-al-Marjaan-Regular.ufo
+  - KanzAlMarjaan-Regular.ufo
 
-familyName: "Kanz-al-Marjaan"
+familyName: "Kanz Al Marjaan"
 
 outputDir: ../fonts
 vfDir:  $outputDir/variable
@@ -16,7 +16,7 @@ buildOTF:      false
 includeSourceFixes: true
 
 stat:
-  Kanz-al-Marjaan.ttf:
+  KanzAlMarjaan.ttf:
     - name: Weight
       tag:  wght
       values:
