@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni061B" format="2">
-  <advance width="1719"/>
+  <advance width="898"/>
   <unicode hex="061B"/>
   <outline>
-    <component base="dot.threedown" xOffset="970" yOffset="-226"/>
-    <component base="uni062D06BE06D2.isol" xOffset="-36"/>
+    <component base="uni060C"/>
+    <component base="period" xOffset="101" yOffset="791"/>
   </outline>
 </glyph>
