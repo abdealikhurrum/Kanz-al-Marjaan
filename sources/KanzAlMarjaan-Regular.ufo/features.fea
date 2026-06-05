@@ -36,6 +36,7 @@
 
 languagesystem DFLT dflt; # Default default
 languagesystem arab dflt; # Arabic default
+languagesystem arab GUJ;
 
 #
 # Lookup definitions
@@ -330,7 +331,7 @@ lookup isol_arab_3 {
   sub [uni0631 uni0632 uni0691]' lookup isol_arab_liga_arab_1 uni0676;
 } isol_arab_3;
 
-lookup liga_arab_1 {
+lookup ld_doublepress {
 # GSUB lookup 12, type 14 (Ligature)
   lookupflag IgnoreMarks RightToLeft;
   sub uniFB7C uniFEC8 uniFEC8 by glyph1955;
@@ -371,6 +372,21 @@ lookup liga_arab_1 {
   sub uniFEDB uniFEDC by uniFB94;
   sub uniFEDC uniFEDA by uniFB93;
   sub uniFEDC uniFEDC by uniFB95;
+  sub uniFEC7 uniFEC6 by uni06C1;
+  sub uniFEC7 uniFEC8 by uniFBA8;
+} ld_doublepress;
+
+lookup ld_rrehddeh {
+  lookupflag RightToLeft;
+  sub uniFEAD uni064C by uni0691;
+  sub uniFEAE uni064C by uniFB8D;
+  sub uni062F uni064C by uni0688;
+  sub uniFEAA uni064C by uniFB89;
+} ld_rrehddeh;
+
+lookup liga_arab_1 {
+# GSUB lookup 12, type 14 (Ligature)
+  lookupflag IgnoreMarks RightToLeft;
   sub uniFEDF uniFE82 by uniFEF5;
   sub uniFEDF uniFE84 by uniFEF7;
   sub uniFEDF uniFE88 by uniFEF9;
@@ -5842,6 +5858,9 @@ feature liga {
   lookup liga_arab_32;
   lookup liga_arab_33;
   lookup liga_arab_34;
+  language GUJ;
+  lookup ld_doublepress;
+  lookup ld_rrehddeh;
 
 } liga;
 
@@ -7140,7 +7159,6 @@ feature rlig {
 } rlig;
 
 # --- Gujarati (Lisan al-Dawat) context: small high jeem takes space, not a mark ---
-languagesystem arab GUJ;
 feature locl {
   script arab;
   language GUJ;
