@@ -5678,6 +5678,12 @@ lookup mark_arab_1 {
   pos base uni06C1.calligraphic
       <anchor 1144 1850> mark @t.uni064B
       <anchor 1144 -281> mark @b.uni064D_1;
+  pos base uniFEAD
+      <anchor 300 772> mark @t.uni064B
+      <anchor 29 -374> mark @b.uni064D_1;
+  pos base uniFEAF
+      <anchor 200 1156> mark @t.uni064B
+      <anchor 14 -374> mark @b.uni064D_1;
 } mark_arab_1;
 
 
@@ -6971,5 +6977,6 @@ feature curs {
 
 feature kern {
   script arab;
+  lookupflag IgnoreMarks;
   pos [uniFEAD uniFEAF uni0648 uniFEEE uni0631 uniFEAE uni0632 uniFEB0] <0 0 0 0> uni0625 <0 0 250 0>;
 } kern;
