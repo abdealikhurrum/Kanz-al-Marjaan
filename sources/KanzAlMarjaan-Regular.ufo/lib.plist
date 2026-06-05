@@ -1609,6 +1609,7 @@
       <string>uni0614</string>
       <string>tahain.honorific</string>
       <string>sadain.honorific</string>
+      <string>uni06DA.gujr</string>
     </array>
     <key>public.openTypeCategories</key>
     <dict>
@@ -1625,6 +1626,8 @@
       <key>uni0613</key>
       <string>base</string>
       <key>uni0614</key>
+      <string>base</string>
+      <key>uni06DA.gujr</key>
       <string>base</string>
     </dict>
     <key>public.openTypeMeta</key>

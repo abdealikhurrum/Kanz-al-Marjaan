@@ -7138,3 +7138,11 @@ feature rlig {
   sub asciicircum uniFEC3 uniFECA by tahain.honorific;   # ^طع
   sub asciicircum uniFEBB uniFECA by sadain.honorific;   # ^صع
 } rlig;
+
+# --- Gujarati (Lisan al-Dawat) context: small high jeem takes space, not a mark ---
+languagesystem arab GUJ;
+feature locl {
+  script arab;
+  language GUJ;
+  sub uni06DA by uni06DA.gujr;
+} locl;
