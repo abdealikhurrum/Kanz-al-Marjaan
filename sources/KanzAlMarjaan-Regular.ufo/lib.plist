@@ -1563,5 +1563,17 @@
       <string>uniFEAD</string>
       <string>uniFEAF</string>
     </array>
+    <key>public.openTypeMeta</key>
+    <dict>
+      <key>dlng</key>
+      <array>
+        <string>Arab</string>
+      </array>
+      <key>slng</key>
+      <array>
+        <string>Arab</string>
+        <string>Latn</string>
+      </array>
+    </dict>
   </dict>
 </plist>
