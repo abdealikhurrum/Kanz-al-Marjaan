@@ -572,6 +572,8 @@
     <string>registered.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>sadain.honorific</key>
+    <string>sadain.honorific.glif</string>
     <key>sanah.head</key>
     <string>sanah.head.glif</string>
     <key>semicolon</key>
@@ -594,6 +596,8 @@
     <string>sterling.glif</string>
     <key>t</key>
     <string>t.glif</string>
+    <key>tahain.honorific</key>
+    <string>tahain.honorific.glif</string>
     <key>three</key>
     <string>three.glif</string>
     <key>tilde</key>

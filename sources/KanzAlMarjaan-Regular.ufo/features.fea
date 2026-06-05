@@ -7131,3 +7131,10 @@ feature ccmp {
     sub @PCMspan @PCMdigit' lookup pcm_digit2span;
   } pcm_samvat_digits;
 } ccmp;
+
+# --- LD honorific ligatures: ^ + letters -> superscript combo ---
+feature rlig {
+  script arab;
+  sub asciicircum uniFEC3 uniFECA by tahain.honorific;   # ^طع
+  sub asciicircum uniFEBB uniFECA by sadain.honorific;   # ^صع
+} rlig;
