@@ -7024,3 +7024,110 @@ feature kern {
   pos [uniFEF7 uniFEF8 uniFEF5 uniFEF6] <0 0 0 0>
       [uniFEDB uniFB90 uniFB94 uni06AF] <0 0 620 0>;
 } kern;
+
+# === Prepended concatenation marks — spanning signs (PROTOTYPE: safha U+0603) ===
+@PCMdigit = [uni0660 uni0661 uni0662 uni0663 uni0664 uni0665 uni0666 uni0667 uni0668 uni0669];
+@PCMspan  = [uni0660.span uni0661.span uni0662.span uni0663.span uni0664.span uni0665.span uni0666.span uni0667.span uni0668.span uni0669.span];
+
+lookup pcm_digit2span {
+  sub uni0660 by uni0660.span;
+  sub uni0661 by uni0661.span;
+  sub uni0662 by uni0662.span;
+  sub uni0663 by uni0663.span;
+  sub uni0664 by uni0664.span;
+  sub uni0665 by uni0665.span;
+  sub uni0666 by uni0666.span;
+  sub uni0667 by uni0667.span;
+  sub uni0668 by uni0668.span;
+  sub uni0669 by uni0669.span;
+} pcm_digit2span;
+
+feature ccmp {
+  script arab;
+  # sign -> width variant by following-digit count (most digits first)
+  lookup pcm_safha_width {
+    sub uni0603' @PCMdigit @PCMdigit @PCMdigit @PCMdigit by uni0603.d4;
+    sub uni0603' @PCMdigit @PCMdigit @PCMdigit by uni0603.d3;
+    sub uni0603' @PCMdigit @PCMdigit by uni0603.d2;
+    sub uni0603' @PCMdigit by uni0603.d1;
+  } pcm_safha_width;
+  # following digits -> tabular span variants
+  lookup pcm_safha_digits {
+    sub [uni0603.d1 uni0603.d2 uni0603.d3 uni0603.d4] @PCMdigit' lookup pcm_digit2span;
+    sub @PCMspan @PCMdigit' lookup pcm_digit2span;
+  } pcm_safha_digits;
+} ccmp;
+
+# --- sanah (U+0601): same mechanism as safha ---
+feature ccmp {
+  script arab;
+  lookup pcm_sanah_width {
+    sub uni0601' @PCMdigit @PCMdigit @PCMdigit @PCMdigit by uni0601.d4;
+    sub uni0601' @PCMdigit @PCMdigit @PCMdigit by uni0601.d3;
+    sub uni0601' @PCMdigit @PCMdigit by uni0601.d2;
+    sub uni0601' @PCMdigit by uni0601.d1;
+  } pcm_sanah_width;
+  lookup pcm_sanah_digits {
+    sub [uni0601.d1 uni0601.d2 uni0601.d3 uni0601.d4] @PCMdigit' lookup pcm_digit2span;
+    sub @PCMspan @PCMdigit' lookup pcm_digit2span;
+  } pcm_sanah_digits;
+} ccmp;
+
+# --- footnote (U+0602) ---
+feature ccmp {
+  script arab;
+  lookup pcm_footnote_width {
+    sub uni0602' @PCMdigit @PCMdigit @PCMdigit @PCMdigit by uni0602.d4;
+    sub uni0602' @PCMdigit @PCMdigit @PCMdigit by uni0602.d3;
+    sub uni0602' @PCMdigit @PCMdigit by uni0602.d2;
+    sub uni0602' @PCMdigit by uni0602.d1;
+  } pcm_footnote_width;
+  lookup pcm_footnote_digits {
+    sub [uni0602.d1 uni0602.d2 uni0602.d3 uni0602.d4] @PCMdigit' lookup pcm_digit2span;
+    sub @PCMspan @PCMdigit' lookup pcm_digit2span;
+  } pcm_footnote_digits;
+} ccmp;
+
+# --- shift the digit run right to seat the left head (sanah/footnote) ---
+feature kern {
+  script arab;
+  # sanah: left head (noon+teh) is 1352u wide -> shift the leftmost span by 1352
+  lookup pcm_sanah_shift {
+    pos uni0601.d4 @PCMspan @PCMspan @PCMspan @PCMspan' <1152 0 1152 0>;
+    pos uni0601.d3 @PCMspan @PCMspan @PCMspan' <1152 0 1152 0>;
+    pos uni0601.d2 @PCMspan @PCMspan' <1152 0 1152 0>;
+    pos uni0601.d1 @PCMspan' <1152 0 1152 0>;
+  } pcm_sanah_shift;
+  # footnote: waw head is 626u wide
+  lookup pcm_footnote_shift {
+    pos uni0602.d4 @PCMspan @PCMspan @PCMspan @PCMspan' <430 0 430 0>;
+    pos uni0602.d3 @PCMspan @PCMspan @PCMspan' <430 0 430 0>;
+    pos uni0602.d2 @PCMspan @PCMspan' <430 0 430 0>;
+    pos uni0602.d1 @PCMspan' <430 0 430 0>;
+  } pcm_footnote_shift;
+} kern;
+
+# --- number sign (U+0600) + samvat (U+0604): right-head only, no shift ---
+feature ccmp {
+  script arab;
+  lookup pcm_number_width {
+    sub uni0600' @PCMdigit @PCMdigit @PCMdigit @PCMdigit by uni0600.d4;
+    sub uni0600' @PCMdigit @PCMdigit @PCMdigit by uni0600.d3;
+    sub uni0600' @PCMdigit @PCMdigit by uni0600.d2;
+    sub uni0600' @PCMdigit by uni0600.d1;
+  } pcm_number_width;
+  lookup pcm_number_digits {
+    sub [uni0600.d1 uni0600.d2 uni0600.d3 uni0600.d4] @PCMdigit' lookup pcm_digit2span;
+    sub @PCMspan @PCMdigit' lookup pcm_digit2span;
+  } pcm_number_digits;
+  lookup pcm_samvat_width {
+    sub uni0604' @PCMdigit @PCMdigit @PCMdigit @PCMdigit by uni0604.d4;
+    sub uni0604' @PCMdigit @PCMdigit @PCMdigit by uni0604.d3;
+    sub uni0604' @PCMdigit @PCMdigit by uni0604.d2;
+    sub uni0604' @PCMdigit by uni0604.d1;
+  } pcm_samvat_width;
+  lookup pcm_samvat_digits {
+    sub [uni0604.d1 uni0604.d2 uni0604.d3 uni0604.d4] @PCMdigit' lookup pcm_digit2span;
+    sub @PCMspan @PCMdigit' lookup pcm_digit2span;
+  } pcm_samvat_digits;
+} ccmp;

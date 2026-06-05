@@ -1562,6 +1562,44 @@
       <string>uni0652.narrow</string>
       <string>uniFEAD</string>
       <string>uniFEAF</string>
+      <string>sanah.head</string>
+      <string>footnote.head</string>
+      <string>waw.notail</string>
+      <string>uni0660.span</string>
+      <string>uni0661.span</string>
+      <string>uni0662.span</string>
+      <string>uni0663.span</string>
+      <string>uni0664.span</string>
+      <string>uni0665.span</string>
+      <string>uni0666.span</string>
+      <string>uni0667.span</string>
+      <string>uni0668.span</string>
+      <string>uni0669.span</string>
+      <string>uni0603.d1</string>
+      <string>uni0603.d2</string>
+      <string>uni0603.d3</string>
+      <string>uni0603.d4</string>
+      <string>uni0603</string>
+      <string>uni0601.d1</string>
+      <string>uni0601.d2</string>
+      <string>uni0601.d3</string>
+      <string>uni0601.d4</string>
+      <string>uni0601</string>
+      <string>uni0602.d1</string>
+      <string>uni0602.d2</string>
+      <string>uni0602.d3</string>
+      <string>uni0602.d4</string>
+      <string>uni0602</string>
+      <string>uni0600.d1</string>
+      <string>uni0600.d2</string>
+      <string>uni0600.d3</string>
+      <string>uni0600.d4</string>
+      <string>uni0600</string>
+      <string>uni0604.d1</string>
+      <string>uni0604.d2</string>
+      <string>uni0604.d3</string>
+      <string>uni0604.d4</string>
+      <string>uni0604</string>
     </array>
     <key>public.openTypeMeta</key>
     <dict>

@@ -156,6 +156,8 @@
     <string>figuredash.glif</string>
     <key>five</key>
     <string>five.glif</string>
+    <key>footnote.head</key>
+    <string>footnote.head.glif</string>
     <key>four</key>
     <string>four.glif</string>
     <key>g</key>
@@ -570,6 +572,8 @@
     <string>registered.glif</string>
     <key>s</key>
     <string>s.glif</string>
+    <key>sanah.head</key>
+    <string>sanah.head.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
     <key>seven</key>
@@ -618,6 +622,56 @@
     <string>uni00B_3.glif</string>
     <key>uni0326</key>
     <string>uni0326.glif</string>
+    <key>uni0600</key>
+    <string>uni0600.glif</string>
+    <key>uni0600.d1</key>
+    <string>uni0600.d1.glif</string>
+    <key>uni0600.d2</key>
+    <string>uni0600.d2.glif</string>
+    <key>uni0600.d3</key>
+    <string>uni0600.d3.glif</string>
+    <key>uni0600.d4</key>
+    <string>uni0600.d4.glif</string>
+    <key>uni0601</key>
+    <string>uni0601.glif</string>
+    <key>uni0601.d1</key>
+    <string>uni0601.d1.glif</string>
+    <key>uni0601.d2</key>
+    <string>uni0601.d2.glif</string>
+    <key>uni0601.d3</key>
+    <string>uni0601.d3.glif</string>
+    <key>uni0601.d4</key>
+    <string>uni0601.d4.glif</string>
+    <key>uni0602</key>
+    <string>uni0602.glif</string>
+    <key>uni0602.d1</key>
+    <string>uni0602.d1.glif</string>
+    <key>uni0602.d2</key>
+    <string>uni0602.d2.glif</string>
+    <key>uni0602.d3</key>
+    <string>uni0602.d3.glif</string>
+    <key>uni0602.d4</key>
+    <string>uni0602.d4.glif</string>
+    <key>uni0603</key>
+    <string>uni0603.glif</string>
+    <key>uni0603.d1</key>
+    <string>uni0603.d1.glif</string>
+    <key>uni0603.d2</key>
+    <string>uni0603.d2.glif</string>
+    <key>uni0603.d3</key>
+    <string>uni0603.d3.glif</string>
+    <key>uni0603.d4</key>
+    <string>uni0603.d4.glif</string>
+    <key>uni0604</key>
+    <string>uni0604.glif</string>
+    <key>uni0604.d1</key>
+    <string>uni0604.d1.glif</string>
+    <key>uni0604.d2</key>
+    <string>uni0604.d2.glif</string>
+    <key>uni0604.d3</key>
+    <string>uni0604.d3.glif</string>
+    <key>uni0604.d4</key>
+    <string>uni0604.d4.glif</string>
     <key>uni0609</key>
     <string>uni0609.glif</string>
     <key>uni060C</key>
@@ -1736,42 +1790,62 @@
     <string>uni0660.glif</string>
     <key>uni0660.small</key>
     <string>uni0660.small.glif</string>
+    <key>uni0660.span</key>
+    <string>uni0660.span.glif</string>
     <key>uni0661</key>
     <string>uni0661.glif</string>
     <key>uni0661.small</key>
     <string>uni0661.small.glif</string>
+    <key>uni0661.span</key>
+    <string>uni0661.span.glif</string>
     <key>uni0662</key>
     <string>uni0662.glif</string>
     <key>uni0662.small</key>
     <string>uni0662.small.glif</string>
+    <key>uni0662.span</key>
+    <string>uni0662.span.glif</string>
     <key>uni0663</key>
     <string>uni0663.glif</string>
     <key>uni0663.small</key>
     <string>uni0663.small.glif</string>
+    <key>uni0663.span</key>
+    <string>uni0663.span.glif</string>
     <key>uni0664</key>
     <string>uni0664.glif</string>
     <key>uni0664.small</key>
     <string>uni0664.small.glif</string>
+    <key>uni0664.span</key>
+    <string>uni0664.span.glif</string>
     <key>uni0665</key>
     <string>uni0665.glif</string>
     <key>uni0665.small</key>
     <string>uni0665.small.glif</string>
+    <key>uni0665.span</key>
+    <string>uni0665.span.glif</string>
     <key>uni0666</key>
     <string>uni0666.glif</string>
     <key>uni0666.small</key>
     <string>uni0666.small.glif</string>
+    <key>uni0666.span</key>
+    <string>uni0666.span.glif</string>
     <key>uni0667</key>
     <string>uni0667.glif</string>
     <key>uni0667.small</key>
     <string>uni0667.small.glif</string>
+    <key>uni0667.span</key>
+    <string>uni0667.span.glif</string>
     <key>uni0668</key>
     <string>uni0668.glif</string>
     <key>uni0668.small</key>
     <string>uni0668.small.glif</string>
+    <key>uni0668.span</key>
+    <string>uni0668.span.glif</string>
     <key>uni0669</key>
     <string>uni0669.glif</string>
     <key>uni0669.small</key>
     <string>uni0669.small.glif</string>
+    <key>uni0669.span</key>
+    <string>uni0669.span.glif</string>
     <key>uni066A</key>
     <string>uni066A_.glif</string>
     <key>uni066B</key>
@@ -3108,6 +3182,8 @@
     <string>wasla.glif</string>
     <key>wavyhamza</key>
     <string>wavyhamza.glif</string>
+    <key>waw.notail</key>
+    <string>waw.notail.glif</string>
     <key>x</key>
     <string>x.glif</string>
     <key>y</key>
