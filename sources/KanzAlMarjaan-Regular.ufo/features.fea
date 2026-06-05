@@ -6971,5 +6971,5 @@ feature curs {
 
 feature kern {
   script arab;
-  pos [uniFEAD uniFEAF uni0648 uniFEEE uni0631 uniFEAE uni0632 uniFEB0] uni0625 280;
+  pos [uniFEAD uniFEAF uni0648 uniFEEE uni0631 uniFEAE uni0632 uniFEB0] <0 0 0 0> uni0625 <0 0 250 0>;
 } kern;
