@@ -961,19 +961,24 @@ lookup liga_arab_14 {
   sub uniFECF uniFEE4 by uniFCBD;
   sub uniFECF uniFEF0 by uni063A0649.liga.init.fina;
   sub uniFECF uniFEF2 by uni063A064A.liga.init.fina;
-  sub uniFEDF uniFEE0 uniFEEA by uniFDF2;
 } liga_arab_14;
 
 lookup liga_arab_15 {
 # GSUB lookup 26, type 14 (Ligature)
+# No IgnoreMarks: the full Allah ligature (with built-in shadda/dagger-alef)
+# only forms when NO diacritics are typed by the user.
   lookupflag RightToLeft;
   sub uni0644.alt1.init uniFEE0 uniFEEA by uniFDF2;
+  sub uniFEDF uniFEE0 uniFEEA by uniFDF2;
 } liga_arab_15;
 
 lookup liga_arab_16 {
 # GSUB lookup 27, type 14 (Ligature)
+# IgnoreMarks: when diacritics ARE typed, use the bare lam-lam-heh ligature
+# (no built-in marks) so the user's diacritics position normally — no doubling.
   lookupflag IgnoreMarks RightToLeft;
   sub uni0644.alt1.init uniFEE0 uniFEEA by uni064406440647.isol;
+  sub uniFEDF uniFEE0 uniFEEA by uni064406440647.isol;
 } liga_arab_16;
 
 lookup liga_arab_17 {
@@ -6979,4 +6984,43 @@ feature kern {
   script arab;
   lookupflag IgnoreMarks;
   pos [uniFEAD uniFEAF uni0648 uniFEEE uni0631 uniFEAE uni0632 uniFEB0] <0 0 0 0> uni0625 <0 0 250 0>;
+  # Non-joining daal/thaal final (no descending tail) sits too close to a
+  # following shosha (tooth) initial — baa/taa/thaa/peh/yaa overlap by ~2-7u
+  # (e.g. الذين, مدت). Open space on the daal/thaal side. Advance goes on g2
+  # (the logically-second glyph) per the RTL kern rule. yehhamza/tteh/noon
+  # already clear naturally, and reh/zain/waw tails pass under the tooth, so
+  # those are intentionally excluded.
+  # uniFB89 = ddal (ڈ, U+0688) final form — same baseline shape as daal, same
+  # overlap. (Isolated dal/thal/ddal forms sit +3-7u, already clear.)
+  # Tooth/saw initials whose first stroke sits ON the baseline overlap the
+  # daal: baa/taa/thaa/peh/yaa (-2 to -7u) and seen/sheen (uniFEB3/uniFEB7,
+  # first saw-tooth, -1u). Round-headed inits (faa/qaf/sad/jeem/ain/lam/ha…)
+  # sit +4-9u clear; noon/yehhamza/tteh +3-8u clear; kaf/gaf (uniFEDB/FB90/
+  # FB94) have a -42u BOX overlap but the upper arm passes over the daal —
+  # all of those are intentionally excluded.
+  pos [uniFEAC uniFEAA uniFB89] <0 0 0 0>
+      [uni0628.short.init uni0628.tall.init uni062A.short.init uni062A.tall.init
+       uni062B.short.init uni062B.tall.init uni067E.short.init uni067E.tall.init
+       uni064A.short.init uni064A.tall.init uniFEB3 uniFEB7] <0 0 220 0>;
+  # The kaf/gaf/keheh initial arm (and the gaf isolated double-stroke arm)
+  # sweeps up-and-back and its tip crosses the tall vertical of a preceding
+  # non-joining alef (e.g. اكبر, اگ) — a real merge (~-37u). Open the alef so
+  # the arm tip clears it. (kaf/keheh ISOLATED arms stay clear, +10/+15u,
+  # excluded; kaf+alef the other way round is the uniFC37 ligature, untouched.)
+  # Tier 1 — plain alef + hamza-below (clean tops): ~450u.
+  pos [uni0627 uniFE8E uni0625 uniFE88] <0 0 0 0>
+      [uniFEDB uniFB90 uniFB94 uni06AF] <0 0 450 0>;
+  # Tier 2 — alef derivatives whose madda/hamza-above/wasla ink spreads across
+  # the top-left (exactly where the arm tip lands), so they need more push.
+  pos [uni0623 uniFE84 uni0622 uniFE82 uni0671 uniFB51 uni0672 uni0673] <0 0 0 0>
+      [uniFEDB uniFB90 uniFB94 uni06AF] <0 0 560 0>;
+  # Lam-alef ligatures end in the same tall alef stroke, so a following kaf/gaf
+  # arm merges into them too (e.g. لاكب) — deeper than bare alef (-42 to -56u)
+  # since the ligature's alef stroke sits further into the arm zone. Same two
+  # tiers: clean-top (plain + hamza-below) ~480u, decorated-top (hamza-above +
+  # madda) ~620u. Isolated (uniFEFB/F9/F7/F5) and final (uniFEFC/FA/F8/F6) forms.
+  pos [uniFEFB uniFEFC uniFEF9 uniFEFA] <0 0 0 0>
+      [uniFEDB uniFB90 uniFB94 uni06AF] <0 0 480 0>;
+  pos [uniFEF7 uniFEF8 uniFEF5 uniFEF6] <0 0 0 0>
+      [uniFEDB uniFB90 uniFB94 uni06AF] <0 0 620 0>;
 } kern;
