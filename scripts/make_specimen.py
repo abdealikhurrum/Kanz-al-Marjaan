@@ -127,5 +127,20 @@ def features():
     save(img, "specimen-features.png")
 
 
+# ---- preview.png : black & white preview (both polarities) ------------------
+def preview():
+    W, H = 2048, 1024
+    img = Image.new("RGB", (W, H), "white")
+    d = ImageDraw.Draw(img)
+    d.rectangle([0, H // 2, W, H], fill=INK)                    # bottom half black
+    R = W - 150
+    WHITE = (255, 255, 255)
+    text(img, "كَنْز المَرْجان", R, 360, 280, color=INK)        # black on white (top)
+    text(img, "كَنْز المَرْجان", R, 880, 280, color=WHITE)      # white on black (bottom)
+    text(img, "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ", R, 470, 80, color=INK)
+    text(img, "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ", R, 990, 80, color=WHITE)
+    save(img, "preview.png")
+
+
 if __name__ == "__main__":
-    image1(); image2(); specimen(); features()
+    image1(); image2(); specimen(); features(); preview()
