@@ -4008,8 +4008,8 @@ lookup mark_arab_1 {
       <anchor 478 1550> mark @t.uni064B
       <anchor 478 -244> mark @b.uni064D_1;
   pos base uni064406440647.isol
-      <anchor 845 820> mark @t.uni064B
-      <anchor 845 -257> mark @b.uni064D_1;
+      <anchor 1250 820> mark @t.uni064B
+      <anchor 1250 -257> mark @b.uni064D_1;
   pos base uni0640.quarter
       <anchor 80 631> mark @t.uni064B
       <anchor 80 -249> mark @b.uni064D_1;
@@ -5783,6 +5783,10 @@ feature ccmp {
 
   script arab; # Arabic
   lookup ccmp_arab_1;
+  # GUJ (Lisan al-Dawat) needs the same shaping as dflt; once any feature
+  # registers an arab/GUJ langsys, HarfBuzz stops falling back to dflt for
+  # GSUB, so every shaping feature must be replicated under GUJ explicitly.
+  language GUJ;
 
 } ccmp;
 
@@ -5792,6 +5796,7 @@ feature fina {
 
   script arab; # Arabic
   lookup fina_arab_1;
+  language GUJ;
 
 } fina;
 
@@ -5802,6 +5807,7 @@ feature init {
   script arab; # Arabic
   lookup init_arab_1;
   lookup init_arab_2;
+  language GUJ;
 
 } init;
 
@@ -5819,6 +5825,7 @@ feature isol {
   lookup isol_arab_2;
   lookup isol_arab_3;
   lookup isolRehZain;
+  language GUJ;
 
 } isol;
 
@@ -5879,6 +5886,7 @@ feature medi {
 
   script arab; # Arabic
   lookup medi_arab_1;
+  language GUJ;
 
 } medi;
 
@@ -5888,6 +5896,7 @@ feature rlig {
 
   script arab; # Arabic
   lookup rlig_arab_1;
+  language GUJ;
 
 } rlig;
 
@@ -5919,6 +5928,7 @@ feature calt {
   sub @DESC_mk @BMany_mk' lookup narrowBelow;
   sub @BMany_mk' lookup narrowBelow @WAWREH_mk;
   sub @WAWREH_mk @BMany_mk' lookup narrowBelow;
+  language GUJ;
 } calt;
 
 feature curs {
@@ -7075,6 +7085,7 @@ feature ccmp {
     sub [uni0603.d1 uni0603.d2 uni0603.d3 uni0603.d4] @PCMdigit' lookup pcm_digit2span;
     sub @PCMspan @PCMdigit' lookup pcm_digit2span;
   } pcm_safha_digits;
+  language GUJ;   # include_dflt carries the rules above into the GUJ langsys
 } ccmp;
 
 # --- sanah (U+0601): same mechanism as safha ---
@@ -7090,6 +7101,7 @@ feature ccmp {
     sub [uni0601.d1 uni0601.d2 uni0601.d3 uni0601.d4] @PCMdigit' lookup pcm_digit2span;
     sub @PCMspan @PCMdigit' lookup pcm_digit2span;
   } pcm_sanah_digits;
+  language GUJ;
 } ccmp;
 
 # --- footnote (U+0602) ---
@@ -7105,6 +7117,7 @@ feature ccmp {
     sub [uni0602.d1 uni0602.d2 uni0602.d3 uni0602.d4] @PCMdigit' lookup pcm_digit2span;
     sub @PCMspan @PCMdigit' lookup pcm_digit2span;
   } pcm_footnote_digits;
+  language GUJ;
 } ccmp;
 
 # --- shift the digit run right to seat the left head (sanah/footnote) ---
@@ -7149,6 +7162,7 @@ feature ccmp {
     sub [uni0604.d1 uni0604.d2 uni0604.d3 uni0604.d4] @PCMdigit' lookup pcm_digit2span;
     sub @PCMspan @PCMdigit' lookup pcm_digit2span;
   } pcm_samvat_digits;
+  language GUJ;
 } ccmp;
 
 # --- LD honorific ligatures: ^ + letters -> superscript combo ---
@@ -7156,6 +7170,7 @@ feature rlig {
   script arab;
   sub asciicircum uniFEC3 uniFECA by tahain.honorific;   # ^طع
   sub asciicircum uniFEBB uniFECA by sadain.honorific;   # ^صع
+  language GUJ;
 } rlig;
 
 # --- Gujarati (Lisan al-Dawat) context: small high jeem takes space, not a mark ---
