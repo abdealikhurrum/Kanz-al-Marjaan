@@ -2256,8 +2256,12 @@
     <string>uni06D_D_.glif</string>
     <key>uni06DD.alt1</key>
     <string>uni06D_D_.alt1.glif</string>
+    <key>uni06DD.kanzorig</key>
+    <string>uni06D_D_.kanzorig.glif</string>
     <key>uni06DE</key>
     <string>uni06D_E_.glif</string>
+    <key>uni06DE.kanzorig</key>
+    <string>uni06D_E_.kanzorig.glif</string>
     <key>uni06DF</key>
     <string>uni06D_F_.glif</string>
     <key>uni06E0</key>
@@ -2280,6 +2284,8 @@
     <string>uni06E_8.glif</string>
     <key>uni06E9</key>
     <string>uni06E_9.glif</string>
+    <key>uni06E9.kanzorig</key>
+    <string>uni06E_9.kanzorig.glif</string>
     <key>uni06EA</key>
     <string>uni06E_A_.glif</string>
     <key>uni06EB</key>
