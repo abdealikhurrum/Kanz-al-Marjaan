@@ -1600,7 +1600,31 @@
       <string>uni0604.d3</string>
       <string>uni0604.d4</string>
       <string>uni0604</string>
+      <string>uni060E</string>
+      <string>uni060F</string>
+      <string>uni0610</string>
+      <string>uni0611</string>
+      <string>uni0612</string>
+      <string>uni0613</string>
+      <string>uni0614</string>
     </array>
+    <key>public.openTypeCategories</key>
+    <dict>
+      <key>uni060E</key>
+      <string>base</string>
+      <key>uni060F</key>
+      <string>base</string>
+      <key>uni0610</key>
+      <string>base</string>
+      <key>uni0611</key>
+      <string>base</string>
+      <key>uni0612</key>
+      <string>mark</string>
+      <key>uni0613</key>
+      <string>base</string>
+      <key>uni0614</key>
+      <string>base</string>
+    </dict>
     <key>public.openTypeMeta</key>
     <dict>
       <key>dlng</key>

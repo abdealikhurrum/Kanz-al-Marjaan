@@ -1,5 +1,6 @@
 Copyright 2025 The Kanz Al Marjaan Project Authors (https://github.com/HatimMasvi/Kanz-al-Marjaan)
 Copyright 2010-2020 Adobe (https://www.adobe.com/), with Reserved Font Name 'Source'.
+Copyright 2026 The Fatemi Maqala Project Authors (https://github.com/abdealikhurrum/fatemimaqala-googlefonts).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
