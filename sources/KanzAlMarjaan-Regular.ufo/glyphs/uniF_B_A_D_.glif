@@ -40,8 +40,8 @@
       <point x="157" y="-241"/>
       <point x="105" y="-121"/>
       <point x="89" y="13" type="curve"/>
-      <point x="0" y="0" type="line"/>
-      <point x="0" y="155" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="-20" y="155" type="line"/>
       <point x="66" y="166" type="line"/>
       <point x="82" y="169" type="line"/>
       <point x="128" y="320" type="line"/>
