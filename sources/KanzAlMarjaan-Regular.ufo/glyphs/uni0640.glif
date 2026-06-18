@@ -6,16 +6,14 @@
   <anchor x="128" y="-200" name="b.uni064D"/>
   <outline>
     <contour>
-      <point x="-1" y="6.5" type="line"/>
-      <point x="-39.6667" y="31.3333"/>
-      <point x="-63.3333" y="87.3333"/>
+      <point x="-49" y="46"/>
+      <point x="-62" y="101"/>
       <point x="-66" y="162" type="curve"/>
-      <point x="-54" y="160" type="line"/>
-      <point x="5" y="162" type="line"/>
       <point x="49" y="162" type="line"/>
       <point x="23" y="162" type="line"/>
       <point x="200" y="162" type="line"/>
       <point x="200" y="7" type="line"/>
+      <point x="-1" y="6" type="line"/>
     </contour>
   </outline>
 </glyph>
