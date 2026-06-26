@@ -34,7 +34,7 @@ for m in re.finditer(r"^\s*sub ((?:\S+ )+?)by (\S+);", fea, re.M):
     inp = m.group(1).split(); g = m.group(2)
     if len(inp) >= 2 and not any("'" in t for t in inp):
         ligcount[g] = max(ligcount.get(g, 0), len(inp))
-EXCLUDE = {ALLAH_TARGET, "uniFDF2"}
+EXCLUDE = set()   # include both Allah forms now: uni064406440647.isol (3c, bare) and uniFDF2 (4c, built-in shadda+dagger)
 inscope = {g: ligcount[g] for g in markbearing if g in ligcount and ligcount[g] >= 2 and g not in EXCLUDE}
 
 def raster(g):
@@ -78,11 +78,7 @@ def block(g, rows):
         out.append(f"{lead}      <anchor {x} {ty}> mark @t.uni064B\n      <anchor {x} {by}> mark @b.uni064D_1")
     return "\n".join(out) + ";"
 
-# preserve the existing Allah pos ligature block verbatim
-mall = re.search(r"(  pos ligature %s.*?;)" % re.escape(ALLAH_TARGET), fea, re.S)
-allah_block = mall.group(1)
-
-blocks = [allah_block]; gen = 0; skipped = []
+blocks = []; gen = 0; skipped = []
 for g in sorted(inscope):
     rows = anchors(g, inscope[g])
     if rows is None: skipped.append(g); continue

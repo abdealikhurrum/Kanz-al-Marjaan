@@ -988,6 +988,17 @@ lookup liga_arab_15 {
   sub uniFEDF uniFEE0 uniFEEA by uniFDF2;
 } liga_arab_15;
 
+lookup liga_allah_dd {
+# Reuse uniFDF2's calligraphic built-in shadda + dagger-alef when the user types
+# them (the standard اللّٰه vocalisation): consume the combined shadda+dagger
+# (uni06510670) into uniFDF2, no doubling. UseMarkFilteringSet ignores every
+# OTHER mark, so a vowel on the first lam or on the heh stays attached and
+# لِلّٰهِ behaves the same as اللّٰهِ.
+  lookupflag RightToLeft UseMarkFilteringSet [uni06510670];
+  sub uni0644.alt1.init uniFEE0 uni06510670 uniFEEA by uniFDF2;
+  sub uniFEDF uniFEE0 uni06510670 uniFEEA by uniFDF2;
+} liga_allah_dd;
+
 lookup liga_arab_16 {
 # GSUB lookup 27, type 14 (Ligature)
 # IgnoreMarks: when diacritics ARE typed, use the bare lam-lam-heh ligature
@@ -5847,6 +5858,7 @@ feature liga {
   lookup liga_arab_13;
   lookup liga_arab_14;
   lookup liga_arab_15;
+  lookup liga_allah_dd;
   lookup liga_arab_16;
   lookup liga_arab_17;
   lookup liga_arab_18;
@@ -5872,16 +5884,6 @@ feature liga {
 } liga;
 
 lookup mark_lig_arab {
-  pos ligature uni064406440647.isol
-      <anchor 1300 900> mark @t.uni064B
-      <anchor 1300 -150> mark @b.uni064D_1
-    ligComponent
-      <anchor 800 900> mark @t.uni064B
-      <anchor 800 -150> mark @b.uni064D_1
-    ligComponent
-      <anchor 300 900> mark @t.uni064B
-      <anchor 300 -150> mark @b.uni064D_1;
-
   pos ligature MHMD.liga
       <anchor 1726 1374> mark @t.uni064B
       <anchor 1726 68> mark @b.uni064D_1
@@ -8671,6 +8673,16 @@ lookup mark_lig_arab {
     ligComponent
       <anchor 344 1684> mark @t.uni064B
       <anchor 344 -600> mark @b.uni064D_1;
+
+  pos ligature uni064406440647.isol
+      <anchor 1367 988> mark @t.uni064B
+      <anchor 1367 -124> mark @b.uni064D_1
+    ligComponent
+      <anchor 836 963> mark @t.uni064B
+      <anchor 836 -136> mark @b.uni064D_1
+    ligComponent
+      <anchor 305 946> mark @t.uni064B
+      <anchor 305 -136> mark @b.uni064D_1;
 
   pos ligature uni06440645062C.init
       <anchor 789 1397> mark @t.uni064B
@@ -13042,6 +13054,19 @@ lookup mark_lig_arab {
     ligComponent
       <anchor 185 1475> mark @t.uni064B
       <anchor 185 -320> mark @b.uni064D_1;
+
+  pos ligature uniFDF2
+      <anchor 1441 1464> mark @t.uni064B
+      <anchor 1441 -124> mark @b.uni064D_1
+    ligComponent
+      <anchor 1043 1724> mark @t.uni064B
+      <anchor 1043 -116> mark @b.uni064D_1
+    ligComponent
+      <anchor 645 1424> mark @t.uni064B
+      <anchor 645 -136> mark @b.uni064D_1
+    ligComponent
+      <anchor 247 1408> mark @t.uni064B
+      <anchor 247 -96> mark @b.uni064D_1;
 
   pos ligature uniFEF5
       <anchor 632 1834> mark @t.uni064B
