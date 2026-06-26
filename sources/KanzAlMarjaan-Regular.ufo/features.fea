@@ -5883,30 +5883,31 @@ lookup mark_lig_arab {
       <anchor 300 900> mark @t.uni064B
       <anchor 300 -150> mark @b.uni064D_1;
 
-  # yjm (yeh-jeem-meem), 3 components, equal-spaced
+  # yjm (yeh-jeem-meem liga, 3 comps); 4th comp = trailing jeem via its own pos base.
+  # Equal x-spacing, per-component natural height (clears each component's local ink).
   pos ligature uni0626062C0645.liga.init.medi.medi
-      <anchor 1125 2048> mark @t.uni064B
-      <anchor 1125 -396> mark @b.uni064D_1
+      <anchor 1124 2018> mark @t.uni064B
+      <anchor 1124 274> mark @b.uni064D_1
     ligComponent
-      <anchor 667 2048> mark @t.uni064B
-      <anchor 667 -396> mark @b.uni064D_1
+      <anchor 668 1962> mark @t.uni064B
+      <anchor 668 -382> mark @b.uni064D_1
     ligComponent
-      <anchor 209 2048> mark @t.uni064B
-      <anchor 209 -396> mark @b.uni064D_1;
+      <anchor 212 890> mark @t.uni064B
+      <anchor 212 -174> mark @b.uni064D_1;
 
-  # MHMD (meem-hah-meem-dal), 4 components, equal-spaced
+  # MHMD (meem-hah-meem-dal), 4 components; equal x-spacing, per-component height.
   pos ligature MHMD.liga
-      <anchor 1725 1358> mark @t.uni064B
-      <anchor 1725 -167> mark @b.uni064D_1
+      <anchor 1726 1314> mark @t.uni064B
+      <anchor 1726 298> mark @b.uni064D_1
     ligComponent
-      <anchor 1240 1358> mark @t.uni064B
-      <anchor 1240 -167> mark @b.uni064D_1
+      <anchor 1242 1330> mark @t.uni064B
+      <anchor 1242 -102> mark @b.uni064D_1
     ligComponent
-      <anchor 754 1358> mark @t.uni064B
-      <anchor 754 -167> mark @b.uni064D_1
+      <anchor 758 1266> mark @t.uni064B
+      <anchor 758 -62> mark @b.uni064D_1
     ligComponent
-      <anchor 269 1358> mark @t.uni064B
-      <anchor 269 -167> mark @b.uni064D_1;
+      <anchor 274 690> mark @t.uni064B
+      <anchor 274 -142> mark @b.uni064D_1;
 } mark_lig_arab;
 
 feature mark {
