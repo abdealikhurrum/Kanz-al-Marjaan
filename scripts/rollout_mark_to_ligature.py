@@ -82,7 +82,6 @@ blocks = []; gen = 0; skipped = []
 for g in sorted(inscope):
     rows = anchors(g, inscope[g])
     if rows is None: skipped.append(g); continue
-    if g == "MHMD.liga" and len(rows) >= 3: rows[2] = (rows[2][0], 1480, rows[2][2])  # shadda+fatha sits highest
     blocks.append(block(g, rows)); gen += 1
 
 new_lookup = "lookup mark_lig_arab {\n" + "\n\n".join(blocks) + "\n} mark_lig_arab;"

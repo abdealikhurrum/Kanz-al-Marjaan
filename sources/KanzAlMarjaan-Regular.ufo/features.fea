@@ -1779,12 +1779,12 @@ lookup mark_arab_1 {
   markClass uni06E8 <anchor 0 0> @t.uni064B;
   markClass uni06EB <anchor 0 0> @t.uni064B;
   markClass uni06EC <anchor 0 0> @t.uni064B;
-  markClass uni0651064B <anchor 214 0> @t.uni064B;
-  markClass uni0651064C <anchor 276 0> @t.uni064B;
-  markClass uni0651064D <anchor 243 0> @t.uni064B;
-  markClass uni0651064E <anchor 239 0> @t.uni064B;
-  markClass uni0651064F <anchor 242 0> @t.uni064B;
-  markClass uni06510650 <anchor 243 0> @t.uni064B;
+  markClass uni0651064B <anchor 214 -360> @t.uni064B;
+  markClass uni0651064C <anchor 276 -360> @t.uni064B;
+  markClass uni0651064D <anchor 243 -430> @t.uni064B;
+  markClass uni0651064E <anchor 239 -360> @t.uni064B;
+  markClass uni0651064F <anchor 242 -360> @t.uni064B;
+  markClass uni06510650 <anchor 243 -283> @t.uni064B;
   markClass uni06510670 <anchor 128 0> @t.uni064B;
   markClass uni0654064E <anchor 128 0> @t.uni064B;
   markClass uni0654064F <anchor 128 0> @t.uni064B;
@@ -1808,14 +1808,14 @@ lookup mark_arab_1 {
   markClass uni0653.narrow <anchor 170 0> @t.uni064B;
   markClass uni0654.narrow <anchor 128 0> @t.uni064B;
   markClass uni0670.narrow <anchor 286 0> @t.uni064B;
-  markClass uni0651064E.narrow <anchor 239 0> @t.uni064B;
-  markClass uni0651064F.narrow <anchor 242 0> @t.uni064B;
-  markClass uni0651064B.narrow <anchor 214 0> @t.uni064B;
-  markClass uni0651064C.narrow <anchor 276 0> @t.uni064B;
+  markClass uni0651064E.narrow <anchor 239 -317> @t.uni064B;
+  markClass uni0651064F.narrow <anchor 242 -317> @t.uni064B;
+  markClass uni0651064B.narrow <anchor 214 -317> @t.uni064B;
+  markClass uni0651064C.narrow <anchor 276 -317> @t.uni064B;
   markClass uni0650.narrow <anchor 239 0> @b.uni064D_1;
   markClass uni064D.narrow <anchor 211 0> @b.uni064D_1;
-  markClass uni0651064D.narrow <anchor 243 0> @t.uni064B;
-  markClass uni06510650.narrow <anchor 243 0> @t.uni064B;
+  markClass uni0651064D.narrow <anchor 243 -378> @t.uni064B;
+  markClass uni06510650.narrow <anchor 243 -249> @t.uni064B;
   pos base uni0621
       <anchor 186 753> mark @t.uni064B
       <anchor 314 -267> mark @b.uni064D_1;
@@ -5891,7 +5891,7 @@ lookup mark_lig_arab {
       <anchor 1242 1380> mark @t.uni064B
       <anchor 1242 -132> mark @b.uni064D_1
     ligComponent
-      <anchor 758 1480> mark @t.uni064B
+      <anchor 758 1358> mark @t.uni064B
       <anchor 758 -112> mark @b.uni064D_1
     ligComponent
       <anchor 274 1156> mark @t.uni064B
