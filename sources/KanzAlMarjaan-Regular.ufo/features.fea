@@ -13125,6 +13125,16 @@ lookup mark_lig_arab {
       <anchor 336 -208> mark @b.uni064D_1;
 } mark_lig_arab;
 
+# Dagger alef (U+0670) over an alef: nestle it at the top-right of the alef
+# with its top only slightly above the alef's top, instead of floating centred
+# high above.  Runs after the mark-attachment lookups, so the value record is
+# added on top of the attached offset.  Targets the narrow form too, since the
+# calt narrowing fires when the dagger sits next to the tall alef.
+lookup reposition_daggeralef_arab {
+  lookupflag RightToLeft;
+  pos [uni0627 uni0627.short uni0627.short.fina uniFE8E] [uni0670 uni0670.narrow]' <85 -545 0 0>;
+} reposition_daggeralef_arab;
+
 feature mark {
 # GPOS feature: Mark Positioning
 # Lookups: 2
@@ -13132,6 +13142,7 @@ feature mark {
   script arab; # Arabic
   lookup mark_arab_1;
   lookup mark_lig_arab;
+  lookup reposition_daggeralef_arab;
 
 } mark;
 
