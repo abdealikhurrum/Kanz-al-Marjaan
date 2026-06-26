@@ -46,7 +46,9 @@ def raster(g):
     fy = (face.glyph.bitmap_top - ys) / scm
     return fx, fy
 
-COMPRESS = 0.35   # keep only this fraction of the natural per-component height variation
+TOPCOMPRESS = 0.35   # top marks: keep this fraction of natural height variation (pull up toward highest)
+BOTCOMPRESS = 0.50   # bottom marks: own compression, pull DOWN toward deepest so a kasra never
+                     # sits between the rasm and its lower nuqta (eraab stays below the nuqta)
 
 def anchors(g, N):
     r = raster(g)
@@ -61,11 +63,11 @@ def anchors(g, N):
         else: top, bot = fy[m].max(), fy[m].min()
         bands.append((cx, top, bot))
     gtop = max(b[1] for b in bands)         # highest component top
-    bhigh = max(b[2] for b in bands)        # shallowest component bottom
+    gbot = min(b[2] for b in bands)         # deepest component bottom
     rows = []
     for cx, top, bot in bands:
-        cy_top = round(gtop - (gtop - top) * COMPRESS + TOPGAP)   # pull low comps up toward gtop
-        cy_bot = round(bhigh - (bhigh - bot) * COMPRESS - BOTGAP)  # pull deep comps up toward bhigh
+        cy_top = round(gtop - (gtop - top) * TOPCOMPRESS + TOPGAP)   # above each comp's top ink (incl upper nuqta)
+        cy_bot = round(gbot + (bot - gbot) * BOTCOMPRESS - BOTGAP)   # below each comp's bottom ink (incl lower nuqta)
         rows.append((round(cx), cy_top, cy_bot))
     return rows
 
