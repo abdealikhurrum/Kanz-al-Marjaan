@@ -4,9 +4,15 @@ Scans base x mark combinations, mark stacking, and realistic vocalised words,
 reporting any glyph collisions (with a small area tolerance to ignore the
 normal mark-on-its-own-base overlap).
 """
+import os
 from collidoscope import Collidoscope
 
-TTF = "fonts/ttf/KanzAlMarjaan-Regular.ttf"
+# kurbopy renamed BezPath.fromDrawable -> from_drawable in newer builds; shim it
+import kurbopy
+if not hasattr(kurbopy.BezPath, "fromDrawable") and hasattr(kurbopy.BezPath, "from_drawable"):
+    kurbopy.BezPath.fromDrawable = kurbopy.BezPath.from_drawable
+
+TTF = os.environ.get("COLLISION_TTF", "fonts/ttf/KanzAlMarjaan-Regular.ttf")
 
 BASES = list("بتثجحخدذرزسشصضطظعغفقكلمنهوي") + ["ک", "گ", "ہ", "ھ"]
 TOP = {
