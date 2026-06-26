@@ -5882,6 +5882,31 @@ lookup mark_lig_arab {
     ligComponent
       <anchor 300 900> mark @t.uni064B
       <anchor 300 -150> mark @b.uni064D_1;
+
+  # yjm (yeh-jeem-meem), 3 components, equal-spaced
+  pos ligature uni0626062C0645.liga.init.medi.medi
+      <anchor 1125 2048> mark @t.uni064B
+      <anchor 1125 -396> mark @b.uni064D_1
+    ligComponent
+      <anchor 667 2048> mark @t.uni064B
+      <anchor 667 -396> mark @b.uni064D_1
+    ligComponent
+      <anchor 209 2048> mark @t.uni064B
+      <anchor 209 -396> mark @b.uni064D_1;
+
+  # MHMD (meem-hah-meem-dal), 4 components, equal-spaced
+  pos ligature MHMD.liga
+      <anchor 1725 1358> mark @t.uni064B
+      <anchor 1725 -167> mark @b.uni064D_1
+    ligComponent
+      <anchor 1240 1358> mark @t.uni064B
+      <anchor 1240 -167> mark @b.uni064D_1
+    ligComponent
+      <anchor 754 1358> mark @t.uni064B
+      <anchor 754 -167> mark @b.uni064D_1
+    ligComponent
+      <anchor 269 1358> mark @t.uni064B
+      <anchor 269 -167> mark @b.uni064D_1;
 } mark_lig_arab;
 
 feature mark {

@@ -1614,7 +1614,7 @@
 	<key>public.openTypeCategories</key>
 	<dict>
 		<key>MHMD.liga</key>
-		<string>base</string>
+		<string>ligature</string>
 		<key>gaf_lamalefarab.alt1.liga.medi.fina</key>
 		<string>base</string>
 		<key>gaf_lamalefarab.liga.medi.fina</key>
@@ -1946,7 +1946,7 @@
 		<key>uni0626062B06D2.liga.medi.medi.fina</key>
 		<string>base</string>
 		<key>uni0626062C0645.liga.init.medi.medi</key>
-		<string>base</string>
+		<string>ligature</string>
 		<key>uni0626062D0645.liga.init.medi.medi</key>
 		<string>base</string>
 		<key>uni0626062E.isol</key>
