@@ -5871,12 +5871,26 @@ feature liga {
 
 } liga;
 
+lookup mark_lig_arab {
+  # Phase 0 spike: per-component mark-to-ligature on Allah (lam-lam-heh)
+  pos ligature uni064406440647.isol
+      <anchor 1300 900> mark @t.uni064B
+      <anchor 1300 -150> mark @b.uni064D_1
+    ligComponent
+      <anchor 800 900> mark @t.uni064B
+      <anchor 800 -150> mark @b.uni064D_1
+    ligComponent
+      <anchor 300 900> mark @t.uni064B
+      <anchor 300 -150> mark @b.uni064D_1;
+} mark_lig_arab;
+
 feature mark {
 # GPOS feature: Mark Positioning
-# Lookups: 1
+# Lookups: 2
 
   script arab; # Arabic
   lookup mark_arab_1;
+  lookup mark_lig_arab;
 
 } mark;
 
