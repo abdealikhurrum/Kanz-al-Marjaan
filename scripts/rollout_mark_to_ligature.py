@@ -46,18 +46,27 @@ def raster(g):
     fy = (face.glyph.bitmap_top - ys) / scm
     return fx, fy
 
+COMPRESS = 0.35   # keep only this fraction of the natural per-component height variation
+
 def anchors(g, N):
     r = raster(g)
     if r is None: return None
     fx, fy = r; xmin, xmax = fx.min(), fx.max(); w = xmax - xmin
-    rows = []
+    bands = []
     for k in range(1, N + 1):
         cx = xmax - (k - 0.5) / N * w; half = w / (2 * N)
         m = (fx >= cx - half) & (fx < cx + half)
         if m.sum() < 5: m = (fx >= cx - w / N) & (fx < cx + w / N)
         if m.sum() < 1: top, bot = fy.max(), fy.min()
         else: top, bot = fy[m].max(), fy[m].min()
-        rows.append((round(cx), round(top + TOPGAP), round(bot - BOTGAP)))
+        bands.append((cx, top, bot))
+    gtop = max(b[1] for b in bands)         # highest component top
+    bhigh = max(b[2] for b in bands)        # shallowest component bottom
+    rows = []
+    for cx, top, bot in bands:
+        cy_top = round(gtop - (gtop - top) * COMPRESS + TOPGAP)   # pull low comps up toward gtop
+        cy_bot = round(bhigh - (bhigh - bot) * COMPRESS - BOTGAP)  # pull deep comps up toward bhigh
+        rows.append((round(cx), cy_top, cy_bot))
     return rows
 
 def block(g, rows):
@@ -75,7 +84,7 @@ blocks = [allah_block]; gen = 0; skipped = []
 for g in sorted(inscope):
     rows = anchors(g, inscope[g])
     if rows is None: skipped.append(g); continue
-    if g == "MHMD.liga" and len(rows) >= 3: rows[2] = (rows[2][0], 1386, rows[2][2])  # user raise
+    if g == "MHMD.liga" and len(rows) >= 3: rows[2] = (rows[2][0], 1480, rows[2][2])  # shadda+fatha sits highest
     blocks.append(block(g, rows)); gen += 1
 
 new_lookup = "lookup mark_lig_arab {\n" + "\n\n".join(blocks) + "\n} mark_lig_arab;"
