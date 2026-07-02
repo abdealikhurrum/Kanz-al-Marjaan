@@ -13772,9 +13772,9 @@ feature curs {
   pos cursive uni062D06BE06D2.fina <anchor 1746 88> <anchor NULL>;
   pos cursive uni068606BE06D2.fina <anchor 1746 88> <anchor NULL>;
   pos cursive uni06BE06D2.fina <anchor 1300 87> <anchor NULL>;
-  pos cursive uni062C06D2.fina <anchor 1468 -118> <anchor NULL>;
-  pos cursive uni062D06D2.fina <anchor 1468 -118> <anchor NULL>;
-  pos cursive uni068606D2.fina <anchor 1468 -118> <anchor NULL>;
+  pos cursive uni062C06D2.fina <anchor 1442 87> <anchor NULL>;
+  pos cursive uni062D06D2.fina <anchor 1442 87> <anchor NULL>;
+  pos cursive uni068606D2.fina <anchor 1442 87> <anchor NULL>;
   pos cursive uni062D064906D2.fina <anchor 1728 87> <anchor 44 -115>;
   pos cursive uni0686062A06D2.fina <anchor 1728 87> <anchor 44 -115>;
   pos cursive uni0628.low.medi <anchor 418 87> <anchor 0 87>;
