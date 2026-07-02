@@ -2,13 +2,10 @@
 <glyph name="smallv" format="2">
   <outline>
     <contour>
-      <point x="148" y="178"/>
-      <point x="122" y="135"/>
-      <point x="107" y="85" type="curve" smooth="yes"/>
       <point x="100" y="59"/>
-      <point x="98" y="33"/>
+      <point x="95.02" y="33.53"/>
       <point x="92" y="8" type="curve" smooth="yes"/>
-      <point x="92" y="7"/>
+      <point x="91.88" y="7.01"/>
       <point x="91" y="0"/>
       <point x="89" y="0" type="curve" smooth="yes"/>
       <point x="81" y="0"/>
@@ -20,11 +17,14 @@
       <point x="16" y="262" type="line"/>
       <point x="59" y="212"/>
       <point x="74" y="142"/>
-      <point x="91" y="80" type="curve" smooth="yes"/>
+      <point x="91" y="80" type="curve"/>
       <point x="110" y="145"/>
       <point x="133" y="206"/>
       <point x="172" y="262" type="curve"/>
       <point x="175" y="222" type="line"/>
+      <point x="148" y="178"/>
+      <point x="122" y="135"/>
+      <point x="107" y="85" type="curve"/>
     </contour>
   </outline>
 </glyph>

@@ -2,34 +2,34 @@
 <glyph name="dot.threedown" format="2">
   <outline>
     <contour>
-      <point x="264" y="-227"/>
-      <point x="305" y="-276"/>
-      <point x="341" y="-308" type="curve"/>
       <point x="230" y="-419" type="line"/>
       <point x="185" y="-388"/>
       <point x="151" y="-351"/>
       <point x="119" y="-307" type="curve"/>
       <point x="222" y="-204" type="line"/>
+      <point x="264" y="-227"/>
+      <point x="305" y="-276"/>
+      <point x="341" y="-308" type="curve"/>
     </contour>
     <contour>
-      <point x="156" y="-49"/>
-      <point x="192" y="-96"/>
-      <point x="231" y="-129" type="curve"/>
       <point x="121" y="-240" type="line"/>
       <point x="76" y="-209"/>
       <point x="42" y="-172"/>
       <point x="10" y="-128" type="curve"/>
       <point x="112" y="-25" type="line"/>
+      <point x="156" y="-49"/>
+      <point x="192" y="-96"/>
+      <point x="231" y="-129" type="curve"/>
     </contour>
     <contour>
-      <point x="373" y="-38"/>
-      <point x="414" y="-88"/>
-      <point x="450" y="-120" type="curve"/>
       <point x="340" y="-230" type="line"/>
       <point x="295" y="-200"/>
       <point x="260" y="-163"/>
       <point x="228" y="-119" type="curve"/>
       <point x="331" y="-15" type="line"/>
+      <point x="373" y="-38"/>
+      <point x="414" y="-88"/>
+      <point x="450" y="-120" type="curve"/>
     </contour>
   </outline>
 </glyph>

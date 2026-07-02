@@ -4,9 +4,6 @@
   <anchor x="128" y="0" name="_t.uni064B"/>
   <outline>
     <contour>
-      <point x="230" y="22"/>
-      <point x="127" y="-50"/>
-      <point x="80" y="37" type="curve" smooth="yes"/>
       <point x="51" y="91"/>
       <point x="73" y="155"/>
       <point x="88" y="209" type="curve"/>
@@ -27,7 +24,10 @@
       <point x="406" y="329" type="line"/>
       <point x="431" y="217"/>
       <point x="421" y="-13"/>
-      <point x="252" y="86" type="curve" smooth="yes"/>
+      <point x="252" y="86" type="curve"/>
+      <point x="230" y="22"/>
+      <point x="127" y="-50"/>
+      <point x="80" y="37" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

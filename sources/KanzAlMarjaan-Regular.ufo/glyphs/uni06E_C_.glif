@@ -4,12 +4,12 @@
   <anchor x="0" y="0" name="_t.uni064B"/>
   <outline>
     <contour>
-      <point x="123" y="-23"/>
-      <point x="12" y="-23"/>
-      <point x="0" y="68" type="curve" smooth="yes"/>
-      <point x="12" y="156"/>
-      <point x="123" y="156"/>
+      <point x="0" y="158.07"/>
+      <point x="134.99" y="148.01"/>
       <point x="135" y="68" type="curve" smooth="yes"/>
+      <point x="135.01" y="-14.69"/>
+      <point x="0" y="-24.93"/>
+      <point x="0" y="68" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

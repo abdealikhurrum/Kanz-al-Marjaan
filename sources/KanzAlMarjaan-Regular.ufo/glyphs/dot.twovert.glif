@@ -2,24 +2,24 @@
 <glyph name="dot.twovert" format="2">
   <outline>
     <contour>
-      <point x="40" y="159"/>
-      <point x="90" y="200"/>
-      <point x="122" y="236" type="curve"/>
       <point x="232" y="126" type="line"/>
       <point x="202" y="81"/>
       <point x="165" y="46"/>
       <point x="121" y="14" type="curve"/>
       <point x="17" y="117" type="line"/>
+      <point x="40" y="159"/>
+      <point x="90" y="200"/>
+      <point x="122" y="236" type="curve"/>
     </contour>
     <contour>
-      <point x="31" y="378"/>
-      <point x="80" y="419"/>
-      <point x="112" y="455" type="curve"/>
       <point x="223" y="345" type="line"/>
       <point x="192" y="300"/>
       <point x="155" y="265"/>
       <point x="111" y="233" type="curve"/>
       <point x="8" y="336" type="line"/>
+      <point x="31" y="378"/>
+      <point x="80" y="419"/>
+      <point x="112" y="455" type="curve"/>
     </contour>
   </outline>
 </glyph>
