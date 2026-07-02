@@ -13219,7 +13219,6 @@ feature curs {
   pos cursive z <anchor 622 54> <anchor NULL>;
   pos cursive uni0326 <anchor 62 -118> <anchor -74 -116>;
   pos cursive uni061B <anchor NULL> <anchor 12 77>;
-  pos cursive uni0621 <anchor 602 260> <anchor NULL>;
   pos cursive uni0624 <anchor 574 235> <anchor NULL>;
   pos cursive uni0631 <anchor NULL> <anchor -340 -116>;
   pos cursive uni0632 <anchor NULL> <anchor -412 -115>;
@@ -13228,7 +13227,7 @@ feature curs {
   pos cursive uni0638 <anchor NULL> <anchor 0 90>;
   pos cursive uni0639 <anchor NULL> <anchor 40 -116>;
   pos cursive uni063A <anchor NULL> <anchor 40 -116>;
-  pos cursive uni0640 <anchor 198 85> <anchor -66 150>;
+  pos cursive uni0640 <anchor 198 85> <anchor -66 84>;
   pos cursive uni0641 <anchor NULL> <anchor 42 260>;
   pos cursive uni0642 <anchor 956 161> <anchor 32 65>;
   pos cursive uni0643 <anchor NULL> <anchor 40 254>;
@@ -13244,14 +13243,13 @@ feature curs {
   pos cursive uni0676 <anchor 538 235> <anchor NULL>;
   pos cursive uni0677 <anchor 538 235> <anchor NULL>;
   pos cursive uni0688 <anchor 582 254> <anchor NULL>;
-  pos cursive uni0691 <anchor NULL> <anchor -340 -116>;
   pos cursive uni06A9 <anchor NULL> <anchor 38 235>;
   pos cursive uni06BA <anchor NULL> <anchor 42 183>;
   pos cursive uni06BE <anchor 998 203> <anchor NULL>;
   pos cursive uni06CC <anchor NULL> <anchor 42 189>;
-  pos cursive uni06D2 <anchor 1336 136> <anchor 34 3>;
-  pos cursive uni06D3 <anchor 1336 136> <anchor 34 3>;
-  pos cursive uni06D4 <anchor 320 104> <anchor -56 3>;
+  pos cursive uni06D2 <anchor 1336 136> <anchor NULL>;
+  pos cursive uni06D3 <anchor 1336 136> <anchor NULL>;
+  pos cursive uni06D4 <anchor NULL> <anchor -56 3>;
   pos cursive uni06D5 <anchor 544 258> <anchor NULL>;
   pos cursive uni06F4 <anchor NULL> <anchor 42 160>;
   pos cursive uni06F5 <anchor NULL> <anchor 42 251>;
@@ -13268,13 +13266,13 @@ feature curs {
   pos cursive uniFB7B <anchor 1240 83> <anchor NULL>;
   pos cursive uniFB7C <anchor NULL> <anchor 0 79>;
   pos cursive uniFB7D <anchor 996 78> <anchor 0 78>;
-  pos cursive uniFB89 <anchor 1080 87> <anchor 38 223>;
+  pos cursive uniFB89 <anchor 1080 87> <anchor NULL>;
   pos cursive uniFB8D <anchor 712 85> <anchor NULL>;
   pos cursive uniFB8F <anchor 1542 85> <anchor 38 236>;
-  pos cursive uniFB90 <anchor NULL> <anchor -2 109>;
+  pos cursive uniFB90 <anchor NULL> <anchor -2 86>;
   pos cursive uniFB91 <anchor 748 80> <anchor -4 87>;
   pos cursive uniFB93 <anchor 1570 88> <anchor 38 238>;
-  pos cursive uniFB94 <anchor NULL> <anchor -2 109>;
+  pos cursive uniFB94 <anchor NULL> <anchor -2 86>;
   pos cursive uniFB95 <anchor 750 82> <anchor 0 87>;
   pos cursive uniFB9F <anchor 1192 87> <anchor 38 -67>;
   pos cursive uniFBA1 <anchor NULL> <anchor 38 -67>;
@@ -13478,8 +13476,8 @@ feature curs {
   pos cursive uniFEA6 <anchor 1240 83> <anchor NULL>;
   pos cursive uniFEA7 <anchor NULL> <anchor 0 79>;
   pos cursive uniFEA8 <anchor 996 78> <anchor 0 78>;
-  pos cursive uniFEAA <anchor 1080 87> <anchor 38 223>;
-  pos cursive uniFEAC <anchor 1080 87> <anchor 38 223>;
+  pos cursive uniFEAA <anchor 1080 87> <anchor NULL>;
+  pos cursive uniFEAC <anchor 1080 87> <anchor NULL>;
   pos cursive uniFEAE <anchor 712 85> <anchor NULL>;
   pos cursive uniFEB0 <anchor 712 85> <anchor NULL>;
   pos cursive uniFEB2 <anchor 1874 87> <anchor 38 -85>;
@@ -13513,7 +13511,7 @@ feature curs {
   pos cursive uniFED7 <anchor NULL> <anchor -4 87>;
   pos cursive uniFED8 <anchor 590 85> <anchor -2 42>;
   pos cursive uniFEDA <anchor 1542 85> <anchor 38 236>;
-  pos cursive uniFEDB <anchor NULL> <anchor -2 109>;
+  pos cursive uniFEDB <anchor NULL> <anchor -2 86>;
   pos cursive uniFEDC <anchor 750 82> <anchor 0 87>;
   pos cursive uniFEDE <anchor 1092 86> <anchor 0 88>;
   pos cursive uniFEDF <anchor NULL> <anchor 0 85>;
@@ -13526,7 +13524,7 @@ feature curs {
   pos cursive uniFEE8 <anchor 418 87> <anchor 0 87>;
   pos cursive uniFEE9 <anchor NULL> <anchor 34 186>;
   pos cursive uniFEEA <anchor 766 84> <anchor NULL>;
-  pos cursive uniFEEB <anchor NULL> <anchor -2 109>;
+  pos cursive uniFEEB <anchor NULL> <anchor -2 89>;
   pos cursive uniFEEC <anchor 550 79> <anchor 0 79>;
   pos cursive uniFEEE <anchor 682 84> <anchor NULL>;
   pos cursive uniFEF0 <anchor 1092 79> <anchor NULL>;
@@ -13591,7 +13589,7 @@ feature curs {
   pos cursive uni06AF06BE.init <anchor NULL> <anchor 0 86>;
   pos cursive uni06AF06BE.medi <anchor 1346 87> <anchor 0 87>;
   pos cursive uni064906D2.isol <anchor 1634 128> <anchor 28 86>;
-  pos cursive uni062806D2.isol <anchor 1634 128> <anchor 28 86>;
+  pos cursive uni062806D2.isol <anchor 1634 128> <anchor NULL>;
   pos cursive uni067E06D2.isol <anchor 1634 128> <anchor 28 86>;
   pos cursive uni067906D2.isol <anchor 1634 128> <anchor 28 86>;
   pos cursive uni062A06D2.isol <anchor NULL> <anchor 28 86>;
@@ -13753,7 +13751,7 @@ feature curs {
   pos cursive smalltaa <anchor 334 109> <anchor 0 29>;
   pos cursive smallv <anchor 174 236> <anchor 4 230>;
   pos cursive base.behfinal <anchor 1398 88> <anchor NULL>;
-  pos cursive base.qafisol <anchor 1056 116> <anchor NULL>;
+  pos cursive base.qafisol <anchor 1056 105> <anchor NULL>;
   pos cursive base.qaffina <anchor 1162 83> <anchor NULL>;
   pos cursive liga.behhahinit <anchor 958 260> <anchor 0 79>;
   pos cursive liga.behmeeminit <anchor NULL> <anchor 0 81>;
@@ -13805,9 +13803,6 @@ feature curs {
   pos cursive glyph1926 <anchor NULL> <anchor 0 86>;
   pos cursive glyph1927 <anchor NULL> <anchor 0 86>;
   pos cursive glyph1928 <anchor 1346 87> <anchor 0 87>;
-  pos cursive newReReplacement <anchor NULL> <anchor -182 -118>;
-  pos cursive newZeReplacement <anchor NULL> <anchor -182 -118>;
-  pos cursive newNunGunnaReplacement <anchor NULL> <anchor -186 -113>;
   pos cursive uni062C06BE.liga.init.fina <anchor NULL> <anchor 2 -118>;
   pos cursive uni064606BE.liga.init.fina <anchor 1440 257> <anchor NULL>;
   pos cursive uni062A06BE.liga.init.fina <anchor NULL> <anchor -36 -118>;
@@ -14267,11 +14262,7 @@ feature curs {
   pos cursive uni062606BE06D2.liga.medi.medi.fina <anchor 1910 84> <anchor 34 -118>;
   pos cursive uni067906BE06D2.liga.medi.medi.fina <anchor 1910 84> <anchor 34 -118>;
   pos cursive glyph1565 <anchor 1740 89> <anchor 0 85>;
-  pos cursive uni066F <anchor 1056 116> <anchor NULL>;
-  pos cursive uni0698 <anchor NULL> <anchor -340 -116>;
-  pos cursive uni0763 <anchor NULL> <anchor 38 235>;
-  pos cursive uni0609 <anchor 1810 254> <anchor NULL>;
-  pos cursive uni060D <anchor 308 28> <anchor NULL>;
+  pos cursive uni066F <anchor 1056 105> <anchor NULL>;
   pos cursive uni0698.fina <anchor 712 85> <anchor NULL>;
 } curs;
 
