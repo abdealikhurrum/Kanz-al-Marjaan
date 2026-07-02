@@ -41,8 +41,7 @@
       <point x="144" y="221" type="line"/>
       <point x="141" y="402"/>
       <point x="129" y="580"/>
-      <point x="117" y="761" type="curve"/>
-      <point x="117" y="758" type="line"/>
+      <point x="117" y="760" type="curve"/>
       <point x="62" y="1330" type="line"/>
       <point x="67" y="1356"/>
       <point x="139" y="1461"/>

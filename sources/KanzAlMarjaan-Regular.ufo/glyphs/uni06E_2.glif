@@ -4,7 +4,6 @@
   <anchor x="0" y="0" name="_t.uni064B"/>
   <outline>
     <contour>
-      <point x="15" y="47" type="line"/>
       <point x="35" y="77"/>
       <point x="60" y="59"/>
       <point x="56" y="45" type="curve" smooth="yes"/>

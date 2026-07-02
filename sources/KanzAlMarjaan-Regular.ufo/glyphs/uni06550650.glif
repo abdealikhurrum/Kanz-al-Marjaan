@@ -64,7 +64,6 @@
       <point x="217" y="-371" type="line"/>
       <point x="152" y="-402" type="line"/>
       <point x="82" y="-435" type="line"/>
-      <point x="9" y="-469" type="line"/>
       <point x="8" y="-469" type="line"/>
       <point x="36" y="-394"/>
       <point x="29" y="-403"/>
@@ -72,8 +71,7 @@
       <point x="118" y="-361" type="line"/>
       <point x="156" y="-343" type="line"/>
       <point x="176" y="-334" type="line"/>
-      <point x="208" y="-317" type="line"/>
-      <point x="211" y="-316" type="line"/>
+      <point x="210" y="-316" type="line"/>
       <point x="235" y="-306" type="line"/>
       <point x="286" y="-281" type="line"/>
       <point x="311" y="-268" type="line"/>
