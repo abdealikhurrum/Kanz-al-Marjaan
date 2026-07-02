@@ -2048,7 +2048,7 @@ lookup mark_arab_1 {
       <anchor 71 1742> mark @t.uni064B
       <anchor 157 -247> mark @b.uni064D_1;
   pos base uniFB93
-      <anchor 385 670> mark @t.uni064B
+      <anchor 485 1178> mark @t.uni064B
       <anchor 542 -269> mark @b.uni064D_1;
   pos base uniFB94
       <anchor 143 1722> mark @t.uni064B
@@ -2297,7 +2297,7 @@ lookup mark_arab_1 {
       <anchor 57 1734> mark @t.uni064B
       <anchor 171 -246> mark @b.uni064D_1;
   pos base uniFEDE
-      <anchor 228 712> mark @t.uni064B
+      <anchor 300 1460> mark @t.uni064B
       <anchor 385 -372> mark @b.uni064D_1;
   pos base uniFEDF
       <anchor 14 1548> mark @t.uni064B
