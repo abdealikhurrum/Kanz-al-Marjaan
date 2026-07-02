@@ -2,44 +2,44 @@
 <glyph name="dot.four" format="2">
   <outline>
     <contour>
-      <point x="271" y="401"/>
-      <point x="315" y="349"/>
-      <point x="350" y="318" type="curve"/>
       <point x="240" y="207" type="line"/>
       <point x="195" y="238"/>
       <point x="160" y="275"/>
       <point x="128" y="319" type="curve"/>
       <point x="231" y="423" type="line"/>
+      <point x="271" y="401"/>
+      <point x="315" y="349"/>
+      <point x="350" y="318" type="curve"/>
     </contour>
     <contour>
-      <point x="154" y="200"/>
-      <point x="195" y="150"/>
-      <point x="231" y="118" type="curve"/>
       <point x="121" y="8" type="line"/>
       <point x="76" y="38"/>
       <point x="42" y="75"/>
       <point x="10" y="119" type="curve"/>
       <point x="112" y="223" type="line"/>
+      <point x="154" y="200"/>
+      <point x="195" y="150"/>
+      <point x="231" y="118" type="curve"/>
     </contour>
     <contour>
-      <point x="375" y="208"/>
-      <point x="411" y="161"/>
-      <point x="450" y="128" type="curve"/>
       <point x="340" y="17" type="line"/>
       <point x="295" y="47"/>
       <point x="260" y="84"/>
       <point x="228" y="128" type="curve"/>
       <point x="331" y="232" type="line"/>
+      <point x="375" y="208"/>
+      <point x="411" y="161"/>
+      <point x="450" y="128" type="curve"/>
     </contour>
     <contour>
-      <point x="490" y="401"/>
-      <point x="534" y="349"/>
-      <point x="569" y="318" type="curve"/>
       <point x="459" y="207" type="line"/>
       <point x="414" y="238"/>
       <point x="379" y="275"/>
       <point x="347" y="319" type="curve"/>
       <point x="450" y="423" type="line"/>
+      <point x="490" y="401"/>
+      <point x="534" y="349"/>
+      <point x="569" y="318" type="curve"/>
     </contour>
   </outline>
 </glyph>

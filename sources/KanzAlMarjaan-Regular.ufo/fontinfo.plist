@@ -68,7 +68,7 @@
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeNameVersion</key>
-    <string>Version 2.00;May 30, 2025;</string>
+    <string>Version 2.500;July 02, 2026;</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -185,7 +185,7 @@
     <key>versionMajor</key>
     <integer>2</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>500</integer>
     <key>xHeight</key>
     <integer>762</integer>
   </dict>
