@@ -13813,7 +13813,7 @@ feature curs {
   pos cursive glyph1942 <anchor 1220 86> <anchor NULL>;
   pos cursive uni06450647.liga.init.medi <anchor NULL> <anchor 0 87>;
   pos cursive uni064506BE.liga.init.medi <anchor NULL> <anchor 0 87>;
-  pos cursive glyph1946 <anchor 606 -85> <anchor 44 -117>;
+  pos cursive glyph1946 <anchor 517 81> <anchor 44 -117>;
   pos cursive uni062E0649.liga.init.fina <anchor NULL> <anchor 0 13>;
   pos cursive uni062E064A.liga.init.fina <anchor NULL> <anchor 0 13>;
   pos cursive uni062D0649.liga.init.fina <anchor NULL> <anchor 0 13>;
@@ -14057,7 +14057,7 @@ feature curs {
   pos cursive uni067E06860645.liga.init.medi.medi <anchor 1372 14> <anchor 0 86>;
   pos cursive uni067906860645.liga.init.medi.medi <anchor NULL> <anchor 0 86>;
   pos cursive glyph2227 <anchor 1744 86> <anchor 44 -88>;
-  pos cursive glyph2228 <anchor 1800 -115> <anchor 44 -98>;
+  pos cursive glyph2228 <anchor 1745 86> <anchor 44 -98>;
   pos cursive MHMD.liga <anchor NULL> <anchor 36 254>;
   pos cursive uni0645062C0645062F.init.medi.medi.fina <anchor NULL> <anchor 36 254>;
   pos cursive uni0645062E0645062F.init.medi.medi.fina <anchor NULL> <anchor 36 254>;
