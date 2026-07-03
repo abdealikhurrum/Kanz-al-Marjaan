@@ -13550,8 +13550,8 @@ feature curs {
   pos cursive uni062B.tall.init <anchor NULL> <anchor 0 87>;
   pos cursive uni062B.short.init <anchor NULL> <anchor 0 88>;
   pos cursive uni062B.tall.medi <anchor 576 87> <anchor 0 87>;
-  pos cursive uni0640.twotimes <anchor 580 53> <anchor -62 53>;
-  pos cursive uni0640.threetimes <anchor 872 53> <anchor -62 53>;
+  pos cursive uni0640.twotimes <anchor 580 53> <anchor 0 53>;
+  pos cursive uni0640.threetimes <anchor 872 53> <anchor 0 53>;
   pos cursive uni0646.tall.init <anchor NULL> <anchor 0 87>;
   pos cursive uni0646.short.init <anchor NULL> <anchor 0 88>;
   pos cursive uni0646.tall.medi <anchor 576 87> <anchor 0 87>;
@@ -13575,7 +13575,7 @@ feature curs {
   pos cursive uni06A1.medi <anchor 590 85> <anchor -2 42>;
   pos cursive uni06AA.fina <anchor 1690 53> <anchor NULL>;
   pos cursive uni06AA.init <anchor NULL> <anchor 0 88>;
-  pos cursive uni06AA.medi <anchor 1390 53> <anchor -62 57>;
+  pos cursive uni06AA.medi <anchor 1390 53> <anchor 0 57>;
   pos cursive uni06B6.fina <anchor 1092 86> <anchor 0 88>;
   pos cursive uighurkazakhkirghizalefmaksuraarab.short.init <anchor 246 257> <anchor 0 88>;
   pos cursive uighurkazakhkirghizalefmaksuraarab.tall.init <anchor NULL> <anchor 0 87>;

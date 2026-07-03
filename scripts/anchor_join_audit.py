@@ -65,6 +65,21 @@ def main():
             hits.append((name,round(ax),round(ay),round(sx),round((ylo+yhi)/2)))
     for name,ax,ay,sx,my in sorted(hits):
         print(f"{name:26} entry=({ax},{ay})  socket_x={sx}  suggest=<{sx} {my}>")
+    # --- exit-anchor overhang check (spread class: tatweel etc.) ---
+    exits=[]
+    for m in pat.finditer(fea):
+        name,ent,exi=m.groups()
+        if exi.strip()=="NULL" or name not in font: continue
+        try: ex=float(exi.split()[0])
+        except: continue
+        cs=flat(font,name)
+        minx=min((x for c in cs for x,y,o in c), default=0)
+        # left-connecting glyph whose ink overhangs the origin, with exit anchor on the overhang
+        if -110<=minx< -20 and ex < -20:
+            exits.append((name,round(ex),round(minx),font[name].width))
+    for name,ex,minx,w in sorted(exits):
+        print(f"[exit] {name:24} exit_x={ex}  ink_minx={minx}  width={w}  (curs may spread overlap -> gap; want exit_x~0)")
+    if exits: print(f"{len(exits)} exit-overhang spread risk(s)")
     print(f"{len(hits)} join defect(s)")
     return 1 if hits else 0
 
