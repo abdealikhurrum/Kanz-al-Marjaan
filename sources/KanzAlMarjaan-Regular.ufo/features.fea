@@ -13227,7 +13227,7 @@ feature curs {
   pos cursive uni0638 <anchor NULL> <anchor 0 90>;
   pos cursive uni0639 <anchor NULL> <anchor 40 -116>;
   pos cursive uni063A <anchor NULL> <anchor 40 -116>;
-  pos cursive uni0640 <anchor 198 85> <anchor -66 84>;
+  pos cursive uni0640 <anchor 198 85> <anchor 0 84>;
   pos cursive uni0641 <anchor NULL> <anchor 42 260>;
   pos cursive uni0642 <anchor 956 161> <anchor 32 65>;
   pos cursive uni0643 <anchor NULL> <anchor 40 254>;
